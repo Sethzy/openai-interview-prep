@@ -107,6 +107,10 @@ claude-canvas/
 # Codex CLI sentinel marker (0-byte read-only file created by `codex` runs)
 .codex
 
+# Local agent/IDE symlinks created by bin/setup-multi-agent.sh
+.cursor/skills
+.windsurf/skills
+
 # User-specific attachments
 _attachments/
 

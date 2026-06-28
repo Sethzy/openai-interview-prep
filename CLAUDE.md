@@ -1,6 +1,8 @@
-# claude-obsidian — Claude + Obsidian Wiki Vault
+# OpenAI Interview Prep - Claude + Obsidian Wiki Vault
 
-This folder is both a Claude Code plugin and an Obsidian vault.
+This folder is Seth's standalone OpenAI interview preparation vault. It is
+scaffolded wholesale from `claude-obsidian`, so keep the upstream wiki workflow
+intact while adapting the content for interview prep.
 
 **Plugin name:** `claude-obsidian` (v1.7+ "Compound Vault" — see [docs/compound-vault-guide.md](docs/compound-vault-guide.md); v1.8+ adds methodology modes — see [docs/methodology-modes-guide.md](docs/methodology-modes-guide.md))
 **Skills:** `/wiki`, `/wiki-ingest`, `/wiki-query`, `/wiki-lint`, `/wiki-cli` (v1.7), `/wiki-retrieve` (v1.7, opt-in), `/wiki-mode` (v1.8)
@@ -8,7 +10,10 @@ This folder is both a Claude Code plugin and an Obsidian vault.
 
 ## What This Vault Is For
 
-This vault demonstrates the LLM Wiki pattern — a persistent, compounding knowledge base for Claude + Obsidian. Drop any source, ask any question, and the wiki grows richer with every session.
+This vault is for OpenAI interview preparation: research, practice questions,
+system design notes, product/API understanding, company context, stories,
+and reusable synthesis. Drop any source, ask any question, and the wiki should
+grow richer with every session.
 
 ## Vault Structure
 

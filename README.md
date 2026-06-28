@@ -1,4 +1,13 @@
 
+# OpenAI Interview Prep Vault
+
+This is Seth's standalone OpenAI interview preparation vault, scaffolded wholesale from
+[`AgriciDaniel/claude-obsidian`](https://github.com/AgriciDaniel/claude-obsidian).
+Use it as an Obsidian + agentic wiki workspace for interview research, practice notes,
+system design prep, and reusable synthesis.
+
+The upstream `claude-obsidian` README follows below for operating instructions.
+
 # claude-obsidian: Self-Organizing AI Second Brain for Obsidian + Claude Code
 
 <p align="center">
