@@ -1,0 +1,103 @@
+Meeting Title: Sales coaching — objection handling and demo strategy
+Date: Jun 29
+Meeting participants: Zheyi Lim
+
+Transcript:
+ 
+Them: A few like simple codecs demo, but they brought in a bunch of. People to develop. Automations probably using APIs. And I didn't have a conversation prepared for that. So I demoed for like 15 minutes and after that just had conversations. But essentially they wanted like the pinpoints are very specific. They wanted like local. Tie OCR and PII detection. I mean, because it's local, we don't do that, right? So I pointed them towards open source model. And then after that, I tried to like pivot the codecs for the developers. And then the engineering director was. Like, I love codex in October and November. And then sometime in April and March, you guys put caps on the $20 plan and I ran out in two hours. For the five. And I'm like.  
+Me: Runs a multimillion complaint.  
+Them: I don't know if I. Don't know if I did some. Like, I just don't have enough samples at the moment to know whether. Like there's anything I like could have done better in these situations. But my instinct is no la, it's just. Like. Stupid idiot. Yeah.  
+Me: But. Like, so you're trying to set them subs on the correct. Side.  
+Them: I sell subs. I've read all the enterprise deals with API.  
+Me: Or because there's, you know, I was very confused about the new codex pricing model. So essentially that is api. Right? I guess.  
+Them: Everything is consumption based for us. Yeah, we will never sell the business plan. We'll never sell. Yeah, we can't sell business plan. And we definitely don't sell the pro plans just like they're money losing. Right.  
+Me: So. The engineering guy, the automation part, I guess they use deterministic scripts and like any end of them.  
+Them: So. Yeah, I see preference code to skills. And like he led with that. And I tried to persuade him that like. Skills are now good are now better because like instructor following is really good. But yeah, he didn't really bite. And then we ended by like going here using cloud code, isn't it more expensive? He's like, yeah, but we're going to move to Chinese models. I'm like, oh.  
+Me: Chea. Per.  
+Them: He's French, so he wants to use my.  
+Me: That's crazy nationalism.  
+Them: Views like Mr. Allen, Chinese models and the feature. I'm like.  
+Me: That. Is funny. Dude. I don't know if that's true. Michelle was like, oh, I know.  
+Them: No, but like. Can you tell me, I guess can you brainstorm with me like what's the best way to handle this kind of conversation? I was just like, yellow, you will.  
+Me: There was argument. Like the trips argument I came about it before. Right? I think the idea of you need to ask them is. Like, like when you map out, when you do scripts, you need to map out every single flow and there's no reasoning involved. When it comes to like edge cases. So like, I mean, how does your script handle these kind of flows. You probably research a bit more on this. And honestly, it's painstaking as fuck to map out every single triage in a script, especially when you're, I guess your sop changes, then your script breaks. Right. So the argument, the counter argument would just be there. Well, you can use AI to write the scripts. But then if you use the other scripts, then it's busy a skill. So it's like, well, like, it's supposed to be quite painful really to write like the simplistically mapple every single triage and then script it. Right. And it's brittle. That's like the stick that you need to argue. And like that needs some deep diving onto how the fuck that works. But it's actually a very common objection. I heard it so many times.  
+Them: I kind of actually said that as like, you know. Like scripts are brittle and skills are easier to update and also. AI is so good now that you can. But like how do you develop the credibility to somebody who thinks that they know this stuff?  
+Me: I think you just need. To really go into the scripts flows. And if you try any.  
+Them: No.  
+Me: They are using something like any n essentially, which is like node based drag and drop to. The. Right. If you kind of explore, what do I want to do YouTube videos? Right. It becomes very obvious that the pain is just that you can't like generate these like workflows easily. All right. A lot of it is drag and drop and it's fucking pink with fuck. Right. But it's actually really useful in certain cases where the flows are very linear. And you want deterministic straight throughput. So you need to ask the question which is like, okay, so what are the use cases? And like how sufficiently complex is it that you require reasoning? Which is what AI is really good at, right? Agentic reasoning. You know what I mean? Yeah. And then that's probably the argument here that like if there's like 50 different triages and well, you just need to reasonable unless you want to build like 50 nodes. Like if 50 if situation. I don't know actually no, it's a good point. I think neither one really need to read into it. Because actually came up.  
+Them: Confused? I think I don't know how my peers are doing it. Because okay for them it's a lot of effort right but for them it's like a lot of relationship building that's the main thing. For me. I'm like getting dragged into all these like very near kind of annoying ass call. S. Where I just lose.  
+Me: Yeah, but I would also say like, I mean if you look at how Darrow and Mervyn do sales, right? They know nothing about a product. Right? Like there's something to be said here that like sales is a stupid brain job. Where you should avoid details as much as possible and focus on the highway shift. Right. Because like it does get the job done in a very toxic way. You know what I mean? Then you sort of push it to your SE and say, well oops, I oversold it. Oh, this is your problem. Just call it ghost. Oops. Yep, I definitely done something we didn't have. Yeah, there's something to be said there. I think. So. Yeah, but I mean that one is a steering thing, right? Like if you ask me to brainstorm with you, right? And the truth is you can actually set the agenda at the start. And say like, you know, we're not going to fucking talk about details today. We're just here to.  
+Them: One demo so I couldn't do that.  
+Me: But.  
+Them: Oh codex is writing an email. What's going on?  
+Me: Ter.  
+Them: Oh my gosh. Wait. Okay go ahead sorry.  
+Me: No, but like I would say like it's a choice, you know, I mean to get into the video. It's not like you were forced to do it. I think.  
+Them: Deflect.  
+Me: You should at the start, I think setting the tone and the agenda right to be super high level and saying we work out the details later. It's usually like the play. Right. Because like when people are excited or they really like your personality, the competition tend to go a lot easier. If that makes sense, right? Like the guy who cracked 50 jokes in the meeting.  
+Them: Yeah.  
+Me: And like he didn't say any substance. The next meeting is the one you talk about the substance and preferably with someone who knows what the fuck is actually going on. Maybe my sense check.  
+Them: So actually my first call was that this is my second call.  
+Me: This is the detail code.  
+Them: There's the detail call yeah the detail call is with different people.  
+Me: Then yeah, I think it's just.  
+Them: Yeah.  
+Me: Tough. But probably like there's a lot of objection handling. It seems like that's. Good. You can probably mark that. Right.  
+Them: I feel the problem with this is that every call is different right it's like very different compared to fintech like every column. I come in to talk about codec and we go to api which is which is I find now but. Yeah I think we need more practice. I also feel like this is part of a game of like you just flick you just throw a dot and find people who like you.  
+Me: There.  
+Them: Like that's the game like don't try and like at this stage of the market don't try to convince people who don't like you.  
+Me: I mean even in a wallet, that's what we did, right? Well fuck you got dropped. You don't fucking want to work with you. Sorry. I think that's part of the game as well. It's a lot easier when you feel like you. For arbitrary reason. Right? They say like you know, you know the bank RMs, they just always just go drinking or cakey videos. This is like the most primitive version of this human nature. I guess. I don't know. Right. But I guess like the truth is like is that you can set the this tone, you know what I mean?  
+Them: Yep yep.  
+Me: That's the thing you can control, right? What you cannot control is whether they don't like you or don't like you. But if you, I think 15 minute demo is a bit long, right? Don't you think so?  
+Them: Well the call was supposed to be for demo so there are like eight people in the. Comment.  
+Me: Yeah, but I think. You. Like. I guess 15 minutes is. A little bit long. For that. Yeah, right. Unless like you really need to.  
+Them: I thought you guys used to spend like a whole session on demos.  
+Me: Do. I didn't do a single demo at all. That was the em with the. Whoever else who didn't close as much deals. I didn't do a single demo. You can add that on my calls are always high level.  
+Them: Okay.  
+Me: I always ask like, okay, so how's your business doing? Okay, what are motivations? What was the real reason you are talking to. Me? Is it because you're curious about what legs use it? Because you think this brand can offer you more discounts. Or is it you actually have a problem or you hear to fucking just get like 20% discount on your meaning? That's the vibe check. Then if I demo, it really very brief money. I just showed in the platform and say like, oh yeah, you can see like, you know, there's all the accounts in your name. I show them for like two seconds and I close it. I was like, fuck, fuck this shit. People get bored of them also. I think this is the way human attention works. Right? It's sort of like get bored and then they get annoyed. You can see their face. You can go like, oh, is he listening to me or see looking at his phone doing something else? That's what I always look out for. Yeah. So when you're demoing, right, I think you should always watch their pieces. Because if you see them like typing and then you need to close the demo and get the fuck out there. Right? Yeah, it's very obvious people are not actually listening to you. Especially if that camera is on. Which is something that's kind of like my sense sharing. So I think I do tend to keep it high level, right? And I do tend to smoke quite a bit. Yeah. Like raw, the excitement. You know, this is God's greatest gift. And what?  
+Them: I need to I think then I need to watch a few more gong calls that's. My next step.  
+Me: I think that probably like, if anything, right, you just need to hype yourself up a bit more. Before you call. Right? Like you need to go like, bro, I'm the greatest. I'm the wolf of horseshoe guy, bro. I'm a legendary orator and master of speech. I'm not even kidding. And then you go in there and go like, speak loud and like, hey guys, super excited you guys, you guys here. Today we're going to walk through a few things. You know, like I change my voice completely, right? Like saff like, like poking at you with like friendly guy and just like Seth, who's like here on a mission, busy trying to evangelize the shit out of you on a street. I think, I think if you think, if you feel like your tone doesn't change between your normal day to day and your sales call, I think it's something worth thinking about. Now. If that makes sense.  
+Them: Okay yep.  
+Me: Yeah.  
+Them: I should probably rewatch it and see.  
+Me: And see like, am I the same person talking to chef and talking to them and then something wrong there? Yeah, that would be my sense. Because I feel fake is hot when I do sales. Yeah. I think objection handling is actually like quite interesting. But the thing I'll say about this is that eventually like at wallax, right? I eventually mapped out like 50 objections that I just memorized.  
+Them: Okay.  
+Me: And then you should just compile everything and then you know, it took managed to before I started doing calls, right? It's because I was mapping everything out. So when I did my call, actually you came prepared with like half the objections. Right. So there were people that had like completely perfect. And I would just say and then the guy is cornered. It's like a lawyer. Right? And they're going to fucking say this. I dare you say you motherfucking bitch. See? And then I'll be like, yep, there you go. And then the counter is like perfect. And then you sound so confident. He's the guy, yep, I'm wrong. Oops. Because like you once you expose weakness at any point in the sales call, people will come after you. You know. So I think if you start strong with like super convincing argument, actually people are easily convinced after that. But you need that hard hitting like, yeah, fuck you, you're wrong. Listen to me, you bitch. Shut the fuck up. Sit down. I'm the master here. It's kind of like psychological. Yeah. So if you have like a few pocket like common ones that are like your pocket picks, you can lead the conversation towards that. You know, set them up for failure. This is what I do. I'm beating them into asking me the stupid question that I know the answer to. And then I'm like, yep, yep, yep. Let me think about it for a second. You know, in my past experience working with xyz. We've seen exactly the scenario and this is why then once they hear that, they're like, shit, this guy is smart.  
+Them: Lim should invest some time in that.  
+Me: Yeah, yeah, I map out everything before I did the first year of score, which took me a bit of time immediately. But I guess that's.  
+Them: It's okay I can use codecs to crawl through go.  
+Me: Exactly and then just have that. One is actually really common. Like if anything, like I would definitely, I would definitely like lean into that one. And you can literally set yourself up by saying that. So you guys do scripts and workflows like linear workflows to run your xyz. I know you're a tech company. I'm sure you must have this going. Please tell me more about it. And then when they say you're like, oh so well, you know in our experiences sucks bro discovery can lead into your setup.  
+Them: Yeah.  
+Me: Right? Yeah. So that's usually how I do. I just control the whole narrative. Like a politician. You know. Then this way if they try to fuck me, at least I have the upper hand at the start. Right. Yeah. So actually it's like quite contrived. If that makes sense. I don't know. So.  
+Them: I should also come up with more proof points like to essentially a script to hide. Some examples just to see that hey we're better than you you are not like a super like. We have bigger customers using us. Like.  
+Me: Exactly.  
+Them: If you if you don't and then don't want to know yeah.  
+Me: That dude. I'm actually really good at that in a very toxic way. I'm very good. Like saying like I'm not interested but I really am. Like guys guys guys not that big of a deal man. I don't really okay I really do broadcasting any. Way. I think it helps to put yourself in a position of. Power strength or whatever.  
+Them: Cool.  
+Me: Yeah. So I guess if you quit trimip them more my guy.  
+Them: Okay.  
+Me: Be an asshole. Think of yourself as a pickup after. Like fucked up version of it or confidence band no con man he's the greatest.  
+Them: Yeah.  
+Me: Yeah, just don't be that guy because murphy not that row. You be finalized experience how many calls have you done like a tree?  
+Them: Three. I need a lot more I think practice with smaller customers.  
+Me: Hey bro you know most people spend their whole lives doing being an SDR than being an 80 so you know 10 calls if you can narrow it by then you should very far.  
+Them: I'm gonna have the Q2 target man and I'm only getting my account in like the week of July. Like what the fuck I'm gonna have a target in Q3.  
+Me: You. Own in q3.  
+Them: So I mean Q2 is ending last I have no target in Q2.  
+Me: I guess this month if you can ramp by then right you should be quite happy with software. Because you know this is a skid zone industry type of work you know what I mean?  
+Them: Yeah.  
+Me: But you know you got this man. Dude.  
+Them: Cool okay.  
+Me: Yeah cool if you need any help let me know give me the full rundown on the interview process so I'm just going to prep for it.  
+Them: How are you prepping?  
+Me: He gave me every more or less every single question they ask. Because he's my bro. Right.  
+Them: Which is?  
+Me: So.  
+Them: Hey there's any overlap see if there's any overlap.  
+Me: I'll prep her then I'll send to you and then I guess. Essentially like the thing works is like. There's one small case which is a loom video and that is like four interviews. With. Different people different seniority and they just want to know how you run sales and how you handle objections with openai is this thing.  
+Them: Doing that.  
+Me: Once again.  
+Them: Which is why I'm doing that.  
+Me: Yeah I'm just gonna like use your that thing you gave me thanks to just go per anime so once I finish I compare notes.  
+Them: Okay.  
+Me: Yeah.  
+Them: Yep see it. 

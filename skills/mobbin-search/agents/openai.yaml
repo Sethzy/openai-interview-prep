@@ -1,0 +1,11 @@
+interface:
+  display_name: "Mobbin Search"
+  short_description: "Research UI patterns with Mobbin screenshots"
+  default_prompt: "Use $mobbin-search to research real app examples before designing this UI."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "mobbin"
+      description: "Mobbin MCP server for searching and inspecting real app UI screenshots"
+      transport: "streamable_http"
+      url: "https://api.mobbin.com/mcp"

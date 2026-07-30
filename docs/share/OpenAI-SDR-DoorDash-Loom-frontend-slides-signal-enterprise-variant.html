@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenAI SDR DoorDash Loom - Signal Enterprise Variant</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,500;1,8..60,600&display=swap" rel="stylesheet">
+  <style>
+    /* === SIGNAL THEME === */
+    :root {
+      --stage-bg: #101522;
+      --slide-bg: #1C2644;
+      --navy: #1C2644;
+      --navy-alt: #232F55;
+      --cream: #F0ECE3;
+      --cream-alt: #E6E0D4;
+      --warm: #E2DCD0;
+      --muted-dark: #8A96A8;
+      --hint-dark: #4E5A6E;
+      --ink: #1A2030;
+      --muted-light: #5A6270;
+      --hint-light: #9AA0A8;
+      --gold: #C8A870;
+      --border-dark: #2E3D5C;
+      --border-light: #CAC4B4;
+      --serif: "Source Serif 4", Georgia, serif;
+      --sans: "DM Sans", sans-serif;
+      --mono: "IBM Plex Mono", monospace;
+      --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    /* === RESET === */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      letter-spacing: 0;
+    }
+
+    /* ===========================================
+       FIXED 16:9 STAGE: MANDATORY BASE STYLES
+       Include this ENTIRE file in every presentation.
+       Slides are authored at 1920x1080 and scaled as a whole.
+       =========================================== */
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+        background: var(--stage-bg, #000);
+    }
+
+    .deck-viewport {
+        position: fixed;
+        inset: 0;
+        overflow: hidden;
+        background: var(--stage-bg, #000);
+    }
+
+    .deck-stage {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        transform-origin: 0 0;
+        background: var(--slide-bg, #fff);
+    }
+
+    .slide {
+        position: absolute;
+        inset: 0;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        display: block;
+        visibility: hidden;
+        opacity: 0;
+        pointer-events: none;
+        background: var(--slide-bg, #fff);
+    }
+
+    .slide.active,
+    .slide.visible {
+        visibility: visible;
+        opacity: 1;
+        pointer-events: auto;
+        z-index: 1;
+    }
+
+    img,
+    video,
+    canvas,
+    svg {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .deck-controls {
+        position: fixed;
+        left: 50%;
+        bottom: 22px;
+        transform: translateX(-50%);
+        z-index: 1000;
+    }
+
+    @media print {
+        html,
+        body {
+            width: 1920px;
+            height: auto;
+            overflow: visible;
+            background: #fff;
+        }
+
+        .deck-viewport {
+            position: static;
+            overflow: visible;
+            background: #fff;
+        }
+
+        .deck-stage {
+            position: static;
+            width: auto;
+            height: auto;
+            transform: none !important;
+            background: none;
+        }
+
+        .slide {
+            position: relative;
+            display: block !important;
+            visibility: visible !important;
+            opacity: 1 !important;
+            pointer-events: auto !important;
+            width: 1920px;
+            height: 1080px;
+            break-after: page;
+            page-break-after: always;
+        }
+
+        .slide:last-child {
+            break-after: auto;
+            page-break-after: auto;
+        }
+
+        .deck-controls {
+            display: none !important;
+        }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+            animation-duration: 0.01ms !important;
+            transition-duration: 0.2s !important;
+        }
+    }
+
+    /* === BASE SLIDE SURFACES === */
+    body {
+      font-family: var(--sans);
+      color: var(--warm);
+      line-height: 1.36;
+    }
+
+    .slide {
+      padding: 72px 94px 70px;
+      color: var(--warm);
+      background: var(--navy);
+    }
+
+    .slide.dark::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      opacity: 0.72;
+      background-image:
+        linear-gradient(rgba(255, 255, 255, 0.026) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.026) 1px, transparent 1px);
+      background-size: 80px 80px;
+      pointer-events: none;
+    }
+
+    .slide.light {
+      background: var(--cream);
+      color: var(--ink);
+    }
+
+    .slide > * {
+      position: relative;
+      z-index: 2;
+    }
+
+    .chrome {
+      position: absolute;
+      left: 94px;
+      right: 94px;
+      top: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border-dark);
+      color: var(--muted-dark);
+      font-family: var(--mono);
+      font-size: 15px;
+    }
+
+    .light .chrome {
+      border-bottom-color: var(--border-light);
+      color: var(--hint-light);
+    }
+
+    .foot {
+      position: absolute;
+      left: 94px;
+      right: 94px;
+      bottom: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 14px;
+      border-top: 1px solid var(--border-dark);
+      color: var(--muted-dark);
+      font-family: var(--mono);
+      font-size: 14px;
+    }
+
+    .light .foot {
+      border-top-color: var(--border-light);
+      color: var(--hint-light);
+    }
+
+    .content {
+      position: absolute;
+      left: 94px;
+      right: 94px;
+      top: 130px;
+      bottom: 92px;
+    }
+
+    h1,
+    h2,
+    h3 {
+      font-family: var(--serif);
+      font-weight: 600;
+      line-height: 1.04;
+    }
+
+    h1 {
+      font-size: 138px;
+      max-width: 1180px;
+    }
+
+    h2 {
+      font-size: 78px;
+      max-width: 1240px;
+    }
+
+    h3 {
+      font-size: 36px;
+      line-height: 1.14;
+    }
+
+    em {
+      color: var(--gold);
+      font-style: italic;
+    }
+
+    p {
+      font-size: 25px;
+      line-height: 1.46;
+      color: var(--muted-dark);
+    }
+
+    .light p {
+      color: var(--muted-light);
+    }
+
+    .lead {
+      font-size: 31px;
+      line-height: 1.48;
+      max-width: 920px;
+      margin-top: 28px;
+    }
+
+    .kicker {
+      color: var(--gold);
+      font-family: var(--mono);
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+
+    .rule {
+      width: 44px;
+      height: 1px;
+      background: var(--gold);
+      margin: 0 0 24px;
+    }
+
+    .reveal {
+      opacity: 0;
+      transform: translateY(18px);
+      transition: opacity 0.45s var(--ease), transform 0.45s var(--ease);
+    }
+
+    .visible .reveal {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .visible .reveal:nth-child(2) { transition-delay: 0.06s; }
+    .visible .reveal:nth-child(3) { transition-delay: 0.12s; }
+    .visible .reveal:nth-child(4) { transition-delay: 0.18s; }
+
+    /* === SIGNAL COMPONENTS === */
+    .brief-grid {
+      display: grid;
+      grid-template-columns: 1.08fr 0.92fr;
+      gap: 56px;
+      margin-top: 46px;
+    }
+
+    .hair-table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+      font-size: 21px;
+      line-height: 1.26;
+      border-top: 1px solid var(--border-dark);
+    }
+
+    .light .hair-table {
+      border-top-color: var(--border-light);
+    }
+
+    .hair-table th,
+    .hair-table td {
+      border-bottom: 1px solid var(--border-dark);
+      padding: 17px 18px;
+      vertical-align: top;
+      color: var(--muted-dark);
+    }
+
+    .light .hair-table th,
+    .light .hair-table td {
+      border-bottom-color: var(--border-light);
+      color: var(--muted-light);
+    }
+
+    .hair-table th {
+      color: var(--gold);
+      font-family: var(--mono);
+      font-size: 14px;
+      font-weight: 600;
+      text-align: left;
+    }
+
+    .hair-table strong {
+      color: var(--warm);
+      font-weight: 700;
+    }
+
+    .light .hair-table strong {
+      color: var(--ink);
+    }
+
+    .stat-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 28px;
+      margin-top: 42px;
+    }
+
+    .stat {
+      border-top: 1px solid var(--border-dark);
+      padding-top: 22px;
+    }
+
+    .light .stat {
+      border-top-color: var(--border-light);
+    }
+
+    .stat b {
+      display: block;
+      color: var(--gold);
+      font-family: var(--serif);
+      font-size: 66px;
+      line-height: 1;
+      font-weight: 600;
+    }
+
+    .stat span {
+      display: block;
+      color: var(--muted-dark);
+      font-size: 18px;
+      line-height: 1.32;
+      margin-top: 10px;
+    }
+
+    .light .stat span {
+      color: var(--muted-light);
+    }
+
+    .editorial-columns {
+      display: grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 48px;
+      margin-top: 38px;
+    }
+
+    .gold-panel {
+      border-top: 2px solid var(--gold);
+      padding-top: 22px;
+    }
+
+    .dash-list {
+      display: grid;
+      gap: 20px;
+    }
+
+    .dash-item {
+      display: grid;
+      grid-template-columns: 34px 1fr;
+      gap: 12px;
+      color: var(--muted-dark);
+      font-size: 23px;
+      line-height: 1.36;
+    }
+
+    .light .dash-item {
+      color: var(--muted-light);
+    }
+
+    .dash-item::before {
+      content: "-";
+      color: var(--gold);
+      font-family: var(--mono);
+      font-weight: 600;
+    }
+
+    .process {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 0;
+      margin-top: 44px;
+      border-top: 1px solid var(--border-light);
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    .process.dark-line {
+      border-color: var(--border-dark);
+    }
+
+    .process-step {
+      min-height: 285px;
+      padding: 24px;
+      border-right: 1px solid var(--border-light);
+    }
+
+    .process.dark-line .process-step {
+      border-right-color: var(--border-dark);
+    }
+
+    .process-step:last-child {
+      border-right: none;
+      background: rgba(200, 168, 112, 0.08);
+    }
+
+    .process-step b {
+      color: var(--gold);
+      display: block;
+      font-family: var(--mono);
+      font-size: 19px;
+      margin-bottom: 26px;
+    }
+
+    .process-step p {
+      font-size: 20px;
+    }
+
+    .two-up {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 46px;
+      margin-top: 40px;
+    }
+
+    .note-card {
+      border-top: 1px solid var(--border-dark);
+      padding-top: 22px;
+    }
+
+    .light .note-card {
+      border-top-color: var(--border-light);
+    }
+
+    .note-card h3 {
+      margin-bottom: 13px;
+    }
+
+    .matrix {
+      position: relative;
+      height: 402px;
+      border: 1px solid var(--border-light);
+      margin-top: 22px;
+      background:
+        linear-gradient(90deg, transparent 49.85%, var(--border-light) 49.85%, var(--border-light) 50.15%, transparent 50.15%),
+        linear-gradient(0deg, transparent 49.85%, var(--border-light) 49.85%, var(--border-light) 50.15%, transparent 50.15%);
+    }
+
+    .bubble {
+      position: absolute;
+      border: 1px solid var(--border-light);
+      padding: 11px 13px;
+      color: var(--muted-light);
+      background: var(--cream);
+      font-size: 17px;
+      width: 198px;
+      line-height: 1.18;
+    }
+
+    .bubble.selected {
+      color: var(--ink);
+      border-color: var(--gold);
+      background: rgba(200, 168, 112, 0.17);
+      font-weight: 700;
+      width: 250px;
+    }
+
+    .email-box {
+      border-top: 1px solid var(--border-light);
+      border-bottom: 1px solid var(--border-light);
+      padding: 24px 0;
+      font-size: 23px;
+      line-height: 1.48;
+      color: var(--muted-light);
+    }
+
+    .email-box p {
+      margin-bottom: 14px;
+      font-size: 23px;
+    }
+
+    .close-stack {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 0;
+      margin-top: 48px;
+      border-top: 1px solid var(--border-dark);
+      border-bottom: 1px solid var(--border-dark);
+    }
+
+    .close-stack div {
+      min-height: 240px;
+      border-right: 1px solid var(--border-dark);
+      padding: 24px;
+    }
+
+    .close-stack div:last-child {
+      border-right: none;
+      background: rgba(200, 168, 112, 0.08);
+    }
+
+    .close-stack b {
+      color: var(--gold);
+      display: block;
+      font-family: var(--mono);
+      margin-bottom: 28px;
+    }
+
+    .close-stack p {
+      font-size: 20px;
+    }
+
+    /* === CHROME === */
+    .deck-controls,
+    .progress {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .deck-controls {
+      color: var(--warm);
+      background: rgba(28, 38, 68, 0.92);
+      border: 1px solid var(--border-dark);
+      font-family: var(--mono);
+      font-size: 13px;
+      padding: 10px 14px;
+    }
+
+    .progress {
+      position: fixed;
+      left: 0;
+      top: 0;
+      height: 3px;
+      width: 0;
+      background: var(--gold);
+      z-index: 1000;
+    }
+  </style>
+</head>
+<body>
+  <div class="deck-viewport">
+    <main class="deck-stage" id="deckStage">
+      <!-- === SLIDE 1 === -->
+      <section class="slide dark active visible" data-title="Why me, why OpenAI">
+        <div class="content">
+          <div class="kicker reveal">OPENAI SDR LOOM / DOORDASH ACCOUNT BRIEF</div>
+          <div class="rule reveal"></div>
+          <h1 class="reveal">DoorDash AI <em>operating leverage</em>.</h1>
+          <p class="lead reveal">A Strategic BDR should turn signal into a real account thesis, buyer map, proof path, and Account Director-ready next step.</p>
+          <div class="stat-row reveal">
+            <div class="stat"><b>01</b><span>Enterprise sales and stakeholder mapping.</span></div>
+            <div class="stat"><b>02</b><span>Quota discipline, pipeline hygiene, and handoff judgment.</span></div>
+            <div class="stat"><b>03</b><span>AI-native account intelligence and workflow proof.</span></div>
+            <div class="stat"><b>04</b><span>Practical path from curiosity to opportunity.</span></div>
+          </div>
+        </div>
+        <div class="foot"><span>Basis: canonical Slide 1 appendix</span><span>01 / 09</span></div>
+      </section>
+
+      <!-- === SLIDE 2 === -->
+      <section class="slide light" data-title="DoorDash AI POV">
+        <div class="chrome"><span>ACCOUNT POV</span><span>02 / 09</span></div>
+        <div class="content">
+          <div class="kicker reveal">3-YEAR AI THESIS</div>
+          <h2 class="reveal">AI should turn local-commerce scale into <em>operating leverage</em>.</h2>
+          <div class="brief-grid reveal">
+            <div>
+              <table class="hair-table">
+                <thead><tr><th>Figure from source doc</th><th>Interpretation</th><th>Recording note</th></tr></thead>
+                <tbody>
+                  <tr><td><strong>933M</strong> Q1 orders</td><td>Small frictions repeat at massive scale.</td><td>Fact recheck needed.</td></tr>
+                  <tr><td><strong>$31.6B</strong> marketplace GOV</td><td>Operations and trust are economic surfaces.</td><td>Fact recheck needed.</td></tr>
+                  <tr><td><strong>3-sided</strong> marketplace</td><td>Consumers, merchants, and Dashers must trust the system together.</td><td>Stable concept.</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="gold-panel">
+              <h3>OpenAI wedge</h3>
+              <p>Do not pitch "more AI." Pitch a specific operating workflow where agents, voice, approved tools, writebacks, and human escalation can make local execution more consistent.</p>
+            </div>
+          </div>
+        </div>
+        <div class="foot"><span>Public figures and AI-launch references need final source recheck before recording.</span><span>ACCOUNT POV</span></div>
+      </section>
+
+      <!-- === SLIDE 3 === -->
+      <section class="slide dark" data-title="High-impact use case">
+        <div class="chrome"><span>USE CASE</span><span>03 / 09</span></div>
+        <div class="content">
+          <div class="kicker reveal">RECOMMENDED WEDGE</div>
+          <h2 class="reveal">Multilingual Dasher activation <em>voice layer</em>.</h2>
+          <div class="editorial-columns reveal">
+            <div class="gold-panel">
+              <h3>Why this use case</h3>
+              <div class="dash-list" style="margin-top: 20px;">
+                <div class="dash-item">It starts from a real operating-cost surface: activation, support, follow-up, and escalation.</div>
+                <div class="dash-item">It gives the buyer a workflow to validate rather than an abstract AI thesis.</div>
+                <div class="dash-item">It can be measured through activation recovery, repeat contacts, escalation quality, and cost per recovered Dasher.</div>
+              </div>
+            </div>
+            <table class="hair-table">
+              <thead><tr><th>Step</th><th>Agent behavior</th><th>Buyer test</th></tr></thead>
+              <tbody>
+                <tr><td><strong>Detect</strong></td><td>Stalled after onboarding or first delivery.</td><td>Is the segment real?</td></tr>
+                <tr><td><strong>Discover</strong></td><td>Ask what got in the way in preferred language.</td><td>Are reasons useful?</td></tr>
+                <tr><td><strong>Resolve / route</strong></td><td>Explain approved policy; escalate sensitive issues.</td><td>Is the boundary safe?</td></tr>
+                <tr><td><strong>Write back</strong></td><td>Structured recap and next action.</td><td>Can ops use it?</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="foot"><span>Basis: canonical Slide 3 appendix and demo script</span><span>USE CASE</span></div>
+      </section>
+
+      <!-- === SLIDE 4 === -->
+      <section class="slide light" data-title="Workflow and guardrails">
+        <div class="chrome"><span>WORKFLOW AND GUARDRAILS</span><span>04 / 09</span></div>
+        <div class="content">
+          <div class="kicker reveal">BOUNDARY DESIGN</div>
+          <h2 class="reveal">Explain approved paths. Do not decide sensitive outcomes.</h2>
+          <div class="process reveal">
+            <div class="process-step"><b>01</b><h3>Trigger</h3><p>Stalled Dasher after onboarding or first delivery.</p></div>
+            <div class="process-step"><b>02</b><h3>Voice call</h3><p>Discover blocker and local-language context.</p></div>
+            <div class="process-step"><b>03</b><h3>Approved tools</h3><p>Payout, delivery, return challenge, SMS, CRM.</p></div>
+            <div class="process-step"><b>04</b><h3>Escalate</h3><p>Pay, safety, fraud, policy exception, account state.</p></div>
+            <div class="process-step"><b>05</b><h3>Writeback</h3><p>Reason, outcome, next step, review trail.</p></div>
+          </div>
+        </div>
+        <div class="foot"><span>Basis: canonical Slide 4 appendix; demo uses no real DoorDash data.</span><span>GUARDRAILS</span></div>
+      </section>
+
+      <!-- === SLIDE 5 === -->
+      <section class="slide dark" data-title="30-day engagement plan">
+        <div class="chrome"><span>30-DAY EXECUTIVE ENGAGEMENT PLAN</span><span>05 / 09</span></div>
+        <div class="content">
+          <div class="kicker reveal">MOMENTUM PLAN</div>
+          <h2 class="reveal">From account thesis to <em>validated POC path</em>.</h2>
+          <div class="brief-grid reveal" style="grid-template-columns: 1.18fr 0.82fr;">
+            <table class="hair-table">
+              <thead><tr><th>Days</th><th>Workstream</th><th>Output</th><th>Decision test</th></tr></thead>
+              <tbody>
+                <tr><td><strong>1-5</strong></td><td>Build DoorDash thesis and do-not-claim list.</td><td>Source-backed POV.</td><td>Can AD safely use it?</td></tr>
+                <tr><td><strong>6-10</strong></td><td>Align with AD, solutions, product, security.</td><td>Approved talk track.</td><td>Is the proof path defensible?</td></tr>
+                <tr><td><strong>11-20</strong></td><td>Validate pain with Dasher ops owner.</td><td>Workflow map.</td><td>Does buyer recognize pain?</td></tr>
+                <tr><td><strong>21-30</strong></td><td>Multi-thread risk and scale owners.</td><td>POC plan.</td><td>Can this progress discovery?</td></tr>
+              </tbody>
+            </table>
+            <div class="gold-panel">
+              <h3>Momentum principle</h3>
+              <p>The first 30 days should earn a sharper executive conversation by validating the workflow, buyer, risk boundary, and next step.</p>
+            </div>
+          </div>
+        </div>
+        <div class="foot"><span>Basis: canonical Slide 5 appendix</span><span>30 DAYS</span></div>
+      </section>
+
+      <!-- === SLIDE 6 === -->
+      <section class="slide light" data-title="Target, priorities, credibility">
+        <div class="chrome"><span>BUYER MAP</span><span>06 / 09</span></div>
+        <div class="content">
+          <div class="kicker reveal">TARGET THE PAIN OWNER FIRST</div>
+          <h2 class="reveal">Start with operations; multi-thread after the pain is real.</h2>
+          <div class="two-up reveal">
+            <div>
+              <table class="hair-table">
+                <thead><tr><th>Layer</th><th>What to prove</th><th>Why it matters</th></tr></thead>
+                <tbody>
+                  <tr><td><strong>Pain owner</strong></td><td>Dasher activation, experience, supply quality, marketplace ops.</td><td>Validates workflow truth.</td></tr>
+                  <tr><td><strong>AI / platform</strong></td><td>Build boundary, system fit, data posture.</td><td>Reduces technical risk.</td></tr>
+                  <tr><td><strong>Security / privacy</strong></td><td>Controls, review, escalation, auditability.</td><td>Reduces trust risk.</td></tr>
+                  <tr><td><strong>Finance</strong></td><td>Metric, value case, pilot threshold.</td><td>Reduces business risk.</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <div class="matrix">
+                <div class="bubble selected" style="left: 278px; top: 70px;">Dasher activation / experience owner</div>
+                <div class="bubble" style="left: 82px; top: 92px;">Ops analyst</div>
+                <div class="bubble" style="left: 92px; top: 238px;">Support lead</div>
+                <div class="bubble" style="left: 384px; top: 156px;">AI / platform lead</div>
+                <div class="bubble" style="left: 382px; top: 260px;">Finance owner</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="foot"><span>Basis: canonical Slide 6 appendix</span><span>BUYER MAP</span></div>
+      </section>
+
+      <!-- === SLIDE 7 === -->
+      <section class="slide light" data-title="Outbound message">
+        <div class="chrome"><span>OUTBOUND MESSAGE</span><span>07 / 09</span></div>
+        <div class="content">
+          <div class="kicker reveal">NARROW PRESSURE-TEST</div>
+          <h2 class="reveal">Specific account signal. Specific workflow. Specific metric.</h2>
+          <div class="brief-grid reveal">
+            <div class="email-box">
+              <p>Hi {{FirstName}},</p>
+              <p>I saw DoorDash moving quickly on AI commerce, from Ask DoorDash to grocery/cart-building and AI-assisted merchant workflows.</p>
+              <p>One workflow I would like to pressure-test is Dasher activation after onboarding or an early delivery.</p>
+              <p>Worth comparing whether OpenAI could support a narrow voice workflow measured on activation recovery, repeat contacts, escalation quality, and follow-up completion?</p>
+            </div>
+            <div class="gold-panel">
+              <h3>Message architecture</h3>
+              <div class="dash-list" style="margin-top: 18px;">
+                <div class="dash-item">Signal: respects DoorDash AI maturity.</div>
+                <div class="dash-item">Hypothesis: names one operating workflow.</div>
+                <div class="dash-item">Metric: gives the buyer a reason to engage.</div>
+                <div class="dash-item">Ask: invites pressure-test, not a generic meeting.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="foot"><span>AI-launch references need final source recheck before recording.</span><span>OUTBOUND</span></div>
+      </section>
+
+      <!-- === SLIDE 8 === -->
+      <section class="slide dark" data-title="Demo setup">
+        <div class="chrome"><span>PROOF ARTIFACT</span><span>08 / 09</span></div>
+        <div class="content">
+          <div class="kicker reveal">SIMULATED DASHER REACTIVATION CALL</div>
+          <h2 class="reveal">A workflow artifact operators can <em>critique</em>.</h2>
+          <div class="two-up reveal">
+            <table class="hair-table">
+              <thead><tr><th>Demo test</th><th>What it proves</th></tr></thead>
+              <tbody>
+                <tr><td><strong>Discover blocker</strong></td><td>Can the agent find why the Dasher stalled?</td></tr>
+                <tr><td><strong>Check facts</strong></td><td>Can it use approved tool output safely?</td></tr>
+                <tr><td><strong>Handle edge case</strong></td><td>Can it avoid promising the wrong outcome?</td></tr>
+                <tr><td><strong>Close loop</strong></td><td>Can it produce useful operator writeback?</td></tr>
+              </tbody>
+            </table>
+            <div class="gold-panel">
+              <h3>Boundary statement</h3>
+              <p>No real DoorDash data. No real integrations. No payout, Fast Pay, safety, fraud, or account decisions. The point is discovery quality, not production readiness.</p>
+            </div>
+          </div>
+        </div>
+        <div class="foot"><span>Basis: canonical Slide 8 appendix and live demo runbook</span><span>DEMO</span></div>
+      </section>
+
+      <!-- === SLIDE 9 === -->
+      <section class="slide dark" data-title="Standout close">
+        <div class="content">
+          <div class="kicker reveal">STANDOUT CLOSE</div>
+          <div class="rule reveal"></div>
+          <h2 class="reveal">Make the opportunity real before asking the AD to spend <em>political capital</em>.</h2>
+          <div class="close-stack reveal">
+            <div><b>01</b><h3>Account thesis</h3><p>Source-backed DoorDash POV.</p></div>
+            <div><b>02</b><h3>Workflow</h3><p>One measurable activation wedge.</p></div>
+            <div><b>03</b><h3>Stakeholders</h3><p>Pain owner first, risk owners next.</p></div>
+            <div><b>04</b><h3>Proof</h3><p>Simulated workflow artifact.</p></div>
+            <div><b>05</b><h3>Next step</h3><p>AD-ready discovery motion.</p></div>
+          </div>
+        </div>
+        <div class="foot"><span>Basis: canonical Slide 9 appendix</span><span>09 / 09</span></div>
+      </section>
+    </main>
+  </div>
+
+  <div class="deck-controls" id="deckControls">01 / 09</div>
+  <div class="progress" id="progress"></div>
+
+  <script>
+    /* === SLIDE PRESENTATION CONTROLLER === */
+    class SlidePresentation {
+      constructor() {
+        this.slides = Array.from(document.querySelectorAll(".slide"));
+        this.stage = document.getElementById("deckStage");
+        this.controls = document.getElementById("deckControls");
+        this.progress = document.getElementById("progress");
+        this.index = this.readHash();
+        this.scaleStage();
+        this.bind();
+        this.show(this.index);
+        window.addEventListener("resize", () => this.scaleStage());
+      }
+
+      readHash() {
+        const n = Number.parseInt(window.location.hash.replace("#", ""), 10);
+        return Number.isFinite(n) && n >= 1 && n <= 9 ? n - 1 : 0;
+      }
+
+      scaleStage() {
+        const factor = Math.min(window.innerWidth / 1920, window.innerHeight / 1080);
+        const x = (window.innerWidth - 1920 * factor) / 2;
+        const y = (window.innerHeight - 1080 * factor) / 2;
+        this.stage.style.transform = "translate(" + x + "px, " + y + "px) scale(" + factor + ")";
+      }
+
+      show(next) {
+        this.index = Math.max(0, Math.min(next, this.slides.length - 1));
+        this.slides.forEach((slide, i) => {
+          const active = i === this.index;
+          slide.classList.toggle("active", active);
+          slide.classList.toggle("visible", active);
+        });
+        const current = String(this.index + 1).padStart(2, "0");
+        const total = String(this.slides.length).padStart(2, "0");
+        this.controls.textContent = current + " / " + total;
+        this.progress.style.width = ((this.index + 1) / this.slides.length * 100) + "%";
+        window.location.hash = String(this.index + 1);
+      }
+
+      bind() {
+        document.addEventListener("keydown", (event) => {
+          if (["ArrowRight", " ", "PageDown"].includes(event.key)) {
+            event.preventDefault();
+            this.show(this.index + 1);
+          }
+          if (["ArrowLeft", "PageUp"].includes(event.key)) {
+            event.preventDefault();
+            this.show(this.index - 1);
+          }
+          if (event.key === "Home") this.show(0);
+          if (event.key === "End") this.show(this.slides.length - 1);
+        });
+
+        let startX = null;
+        document.addEventListener("touchstart", (event) => { startX = event.touches[0].clientX; }, { passive: true });
+        document.addEventListener("touchend", (event) => {
+          if (startX === null) return;
+          const dx = event.changedTouches[0].clientX - startX;
+          if (Math.abs(dx) > 60) this.show(this.index + (dx < 0 ? 1 : -1));
+          startX = null;
+        }, { passive: true });
+      }
+    }
+
+    new SlidePresentation();
+  </script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System Kickoff"
+  short_description: "Start UI projects from real design systems"
+  default_prompt: "Use $design-system-kickoff to choose design-system references before starting this UI."

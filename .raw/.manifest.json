@@ -1,9 +1,389 @@
 {
-  "version": 1,
-  "created": "2026-04-23",
-  "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
-  "sources": {},
-  "address_map": {
-    "wiki/concepts/DragonScale Memory.md": "c-000001"
-  }
+    "version": 1,
+    "created": "2026-04-23",
+    "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
+    "sources": {
+        ".raw/interviews/openai-sdr-interview-process-briefing-granola-2026-06-27.txt": {
+            "hash": "788fc8c5acca70652db555fa693fb9a3",
+            "sha256": "5f7149260229a1d39ec8475af90d7916bc6339eecc9ac739fd4db329684aa80b",
+            "ingested_at": "2026-06-29",
+            "pages_created": [
+                "wiki/sources/OpenAI-SDR-interview-process-briefing-2026-06-27.md",
+                "wiki/domains/OpenAI-SDR-interview-process-and-prep.md",
+                "wiki/domains/_index.md",
+                "wiki/domains/OpenAI-SDR-master-interview-prep-checklist.md"
+            ],
+            "pages_updated": [
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/interviews/stanley-openai-interview-prep-notes-2026-06-29.txt": {
+            "hash": "e205de65093bec5d90a86ab335c68f30",
+            "sha256": "aaf131fe86e7f6d576184e4a2e4eb5b6e73c251be52541db7791805daddee0e1",
+            "ingested_at": "2026-06-29",
+            "pages_created": [
+                "wiki/sources/Stanley-OpenAI-interview-prep-notes.md",
+                "wiki/domains/OpenAI-SDR-Stanley-answer-bank.md",
+                "wiki/domains/OpenAI-SDR-master-interview-prep-checklist.md"
+            ],
+            "pages_updated": [
+                "wiki/domains/OpenAI-SDR-interview-process-and-prep.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/domains/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/case-studies/ihh-healthcare-case-study-response-2026-06-29.txt": {
+            "hash": "f27bea3816beee765bfe620dfb92c8b7",
+            "sha256": "307f61fd2f9ce71981a03e8c5d37f44f7bf5b4c7752a0c0b6946594f3ddd8aaa",
+            "ingested_at": "2026-06-29",
+            "related_raw_assets": [
+                "_attachments/images/ihh-poc-architecture-2026-06-29.png",
+                ".raw/images/ihh-poc-architecture-2026-06-29.md"
+            ],
+            "pages_created": [
+                "wiki/sources/IHH-Healthcare-case-study-response-2026-06-29.md",
+                "wiki/domains/OpenAI-SDR-case-study-playbook.md",
+                "wiki/domains/OpenAI-SDR-master-interview-prep-checklist.md"
+            ],
+            "pages_updated": [
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/domains/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/process/openai-loom-project-prompt-stanley-sar-2026-06-27.pdf": {
+            "hash": "990ffcd72d3074ed3de3c216792ba0ce",
+            "sha256": "23cf6a4b072ce4da393d7225d6e6f6bb4c037b4af005d2461252802006335618",
+            "ingested_at": "2026-06-29",
+            "extracted_text": ".raw/process/openai-loom-project-prompt-stanley-sar-2026-06-27.txt",
+            "extracted_text_sha256": "f61c5a15924d674cf1d0fb1aa5d68b7d4d97498770d07915f80a2eaa30d522b1",
+            "related_raw_assets": [
+                "_attachments/images/openai-loom-project-prompt-2026-06-29.jpg",
+                ".raw/images/openai-loom-project-prompt-2026-06-29.md"
+            ],
+            "pages_created": [
+                "wiki/sources/OpenAI-Loom-project-prompt-Stanley-2026-06-27.md",
+                "wiki/domains/OpenAI-SDR-case-study-playbook.md",
+                "wiki/domains/OpenAI-SDR-master-interview-prep-checklist.md"
+            ],
+            "pages_updated": [
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/domains/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/articles/openai-frontier-advanced-ai-platform-for-enterprise-2026-06-30.md": {
+            "hash": "4f682ed88b9cc28b7c6af6be81ce5025",
+            "sha256": "f7dd8a97d2af1eea3079e5397774d044a069198ddc650964280574c8434d50f0",
+            "ingested_at": "2026-06-30",
+            "pages_created": [
+                "wiki/sources/OpenAI-Frontier-advanced-AI-platform-for-enterprise.md"
+            ],
+            "pages_updated": [
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json",
+                "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
+                "wiki/domains/OpenAI-SDR-technical-product-fluency-pack.md"
+            ]
+        },
+        ".raw/articles/openai-state-of-enterprise-ai-2025-report-2026-06-30.md": {
+            "hash": "568090ec8270fdc8f9d6a4abacbb2922",
+            "sha256": "9eb91d94d99d0d04fa10bd108b6fe28abff5472eb5c4f5c93c314327af71a1b7",
+            "ingested_at": "2026-06-30",
+            "pages_created": [
+                "wiki/sources/OpenAI-State-of-Enterprise-AI-2025-report.md"
+            ],
+            "pages_updated": [
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json",
+                "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
+                "wiki/domains/OpenAI-SDR-technical-product-fluency-pack.md"
+            ]
+        },
+        ".raw/articles/chatgpt-enterprise-product-page-2026-06-30.md": {
+            "hash": "31bf134f6b6595a88f5ba07797138fce",
+            "sha256": "532c103bd38111755487ef76dbedec92b714e4cc051f529dc7a52273aa4cc567",
+            "ingested_at": "2026-06-30",
+            "pages_created": [
+                "wiki/sources/ChatGPT-Enterprise-product-page.md"
+            ],
+            "pages_updated": [
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json",
+                "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
+                "wiki/domains/OpenAI-SDR-technical-product-fluency-pack.md"
+            ]
+        },
+        ".raw/articles/openai-next-phase-of-enterprise-ai-2026-06-30.md": {
+            "hash": "8c3aabc7b101a91968ebb62e7d020d87",
+            "sha256": "bb56a1fae81e482e54685413b6e4551bc1ad7af5af07efac680456822bbfec4f",
+            "ingested_at": "2026-06-30",
+            "pages_created": [
+                "wiki/sources/OpenAI-Next-Phase-of-Enterprise-AI.md"
+            ],
+            "pages_updated": [
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json",
+                "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
+                "wiki/domains/OpenAI-SDR-technical-product-fluency-pack.md"
+            ]
+        },
+        ".raw/articles/openai-harness-engineering-codex-agent-first-2026-06-30.md": {
+            "hash": "4fbce4a3fa0b3fcb80733a15c75f83b7",
+            "sha256": "bcf433d32dbf4b9bacb760025896d0dff5b6901854805d60879353cf44f4150e",
+            "ingested_at": "2026-06-30",
+            "source_origin": "/Users/sethlim/Documents/Seth Second Brain/raw/intentional/pasted/sunder-sync-2026-06-11/154-openai-harness-engineering-codex-agent-first.md",
+            "pages_created": [
+                "wiki/sources/OpenAI-Harness-Engineering-Codex-agent-first-world.md"
+            ],
+            "pages_updated": [
+                "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
+                "wiki/domains/OpenAI-SDR-technical-product-fluency-pack.md",
+                "wiki/domains/OpenAI-SDR-screen-share-safe-prep-doc.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/interviews/southeast-asia-sales-strategy-zheyi-2026-07-02.txt": {
+            "hash": "40220f2ad312dde08d7f07caee6d9070",
+            "sha256": "c8c1ab40519683d7f8654442ea2a35b977c75c2d01915c377ef48fa850b7800c",
+            "ingested_at": "2026-07-05",
+            "source_origin": "/Users/sethlim/.codex/attachments/0335fb3d-ff2b-4218-9152-162adba4d269/pasted-text.txt",
+            "pages_created": [
+                "wiki/sources/Southeast-Asia-sales-strategy-market-sizing-knowledge-work-transcript-2026-07-02.md"
+            ],
+            "pages_updated": [
+                "wiki/domains/OpenAI-SDR-APAC-prospecting-account-strategy-pack.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/interviews/sales-coaching-objection-handling-demo-strategy-zheyi-2026-06-29.txt": {
+            "hash": "166c43bc615b63b0575ddcf98ac1ae7d",
+            "sha256": "68b815512597da8de699c683b9c95ddf14ac2dc186018da42312e51ed387e4fd",
+            "ingested_at": "2026-07-05",
+            "source_origin": "/Users/sethlim/.codex/attachments/ec1c7ec3-cd3a-499e-a980-5cea7bd8739a/pasted-text.txt",
+            "pages_created": [
+                "wiki/sources/Sales-coaching-objection-handling-and-demo-strategy-transcript-2026-06-29.md"
+            ],
+            "pages_updated": [
+                "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/interviews/openai-sdr-sales-experience-go-to-market-fit-2026-07-17.txt": {
+            "hash": "b96029d23481d6c466d438a3535ae1eb",
+            "sha256": "5f88b15e746723f7a8889f54239c82474cffb544581ea545d9c66bbfc06c530c",
+            "ingested_at": "2026-07-17",
+            "source_origin": "/Users/sethlim/.codex/attachments/87bd697d-9493-4fb7-9d9d-7c0f854f2f57/pasted-text.txt",
+            "pages_created": [
+                "wiki/sources/OpenAI-SDR-sales-experience-and-go-to-market-fit-interview-2026-07-17.md",
+                "wiki/domains/OpenAI-SDR-hiring-leader-interview-debrief-2026-07-17.md"
+            ],
+            "pages_updated": [
+                "wiki/sources/OpenAI-recruiter-screen-Seth-2026-07-08.md",
+                "wiki/domains/OpenAI-SDR-recruiter-screen-learnings-and-interview-strategy-2026-07-11.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/domains/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/interviews/openai-sdr-product-fluency-and-sales-acumen-2026-07-22.txt": {
+            "hash": "afe6a8f2a8b0280caa7aa1711f5b9e7c",
+            "sha256": "443bda65353ff2d2ca5c1d5972fd0b1061541324d90ca166137d460c2730bb12",
+            "ingested_at": "2026-07-22",
+            "source_origin": "/Users/sethlim/.codex/attachments/f79f650e-5609-4622-aaf8-5c7fd51bfb4d/pasted-text.txt",
+            "pages_created": [
+                "wiki/sources/OpenAI-SDR-product-fluency-and-sales-acumen-interview-2026-07-22.md",
+                "wiki/domains/OpenAI-SDR-product-fluency-and-sales-acumen-interview-debrief-2026-07-22.md",
+                "wiki/sources/OpenAI-SDR-product-and-technical-fluency-interview-with-Sam-2026-07-22.md",
+                "wiki/sources/OpenAI-SDR-sales-acumen-interview-with-Andrew-2026-07-22.md",
+                "wiki/domains/OpenAI-SDR-product-and-technical-fluency-interview-debrief-2026-07-22.md",
+                "wiki/domains/OpenAI-SDR-sales-acumen-interview-debrief-2026-07-22.md"
+            ],
+            "pages_updated": [
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/domains/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/interviews/openai-sdr-final-round-invitation-lauren-wadsworth-2026-07-23.md": {
+            "hash": "6382724069d1a587222c7fbcfc1530de",
+            "sha256": "b2707870de7b3877e316d5f800e9627c46e871aa64cda01ee26ee1b3c1a2b451",
+            "ingested_at": "2026-07-23",
+            "source_origin": "user-provided recruiter message in Codex conversation",
+            "pages_created": [
+                "wiki/sources/OpenAI-SDR-final-round-invitation-Lauren-Wadsworth-2026-07-23.md"
+            ],
+            "pages_updated": [
+                "wiki/domains/OpenAI-SDR-recruiter-screen-learnings-and-interview-strategy-2026-07-11.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/images/investinassets-sales-one-pager-2026-07-26.md": {
+            "hash": "1c1c53266ad310f666e49a656f4cf0fd",
+            "sha256": "3312ca257e5301de63f9b3b0e4d867dce7b9b7a81f0c4657c0fcb043ff9311ac",
+            "ingested_at": "2026-07-26",
+            "source_origin": "user-provided screenshot in Codex conversation",
+            "related_raw_assets": [
+                "_attachments/images/investinassets-sales-one-pager-2026-07-26.png"
+            ],
+            "pages_created": [
+                "wiki/sources/InvestInAssets-sales-one-pager.md"
+            ],
+            "pages_updated": [
+                "wiki/domains/OpenAI-SDR-external-source-summary-and-Lauren-final-relevance-2026-07-26.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/domains/_index.md",
+                "wiki/overview.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/articles/kellblog-stop-making-the-number-one-mistake-in-presentations-2026-07-28.md": {
+            "hash": "2301109a46232ff5571aba9b20c6e749",
+            "sha256": "74578c10854dc61299a650c8b9787ac16c28e71b48621f392a3681f7e8bb9c23",
+            "ingested_at": "2026-07-28",
+            "source_origin": "user-provided pasted article in Codex conversation",
+            "pages_created": [
+                "wiki/sources/Kellblog-Stop-Making-the-Number-One-Mistake-in-Presentations.md"
+            ],
+            "pages_updated": [
+                "wiki/domains/OpenAI-SDR-final-sales-acumen-interview-pack.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        },
+        ".raw/interviews/zheyi-final-sales-interview-coaching-2026-07-30.txt": {
+            "hash": "cfe4e13b6b2da11e9176fdf7f4d04f00",
+            "sha256": "e569b26c2218548269d2d47318454156e7101b7bb5a0c11988ba7cc167bd8827",
+            "ingested_at": "2026-07-30",
+            "source_origin": "user-provided transcript in Codex conversation",
+            "pages_created": [
+                "wiki/sources/Zheyi-Final-Sales-Interview-Coaching-2026-07-30.md"
+            ],
+            "pages_updated": [
+                "wiki/domains/OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30.md",
+                "wiki/index.md",
+                "wiki/sources/_index.md",
+                "wiki/hot.md",
+                "wiki/log.md",
+                ".raw/.manifest.json"
+            ]
+        }
+    },
+    "address_map": {
+        "wiki/concepts/DragonScale Memory.md": "c-000001",
+        "wiki/sources/OpenAI-SDR-interview-process-briefing-2026-06-27.md": "c-000003",
+        "wiki/domains/OpenAI-SDR-interview-process-and-prep.md": "c-000004",
+        "wiki/sources/Stanley-OpenAI-interview-prep-notes.md": "c-000005",
+        "wiki/domains/OpenAI-SDR-Stanley-answer-bank.md": "c-000006",
+        "wiki/sources/IHH-Healthcare-case-study-response-2026-06-29.md": "c-000007",
+        "wiki/sources/OpenAI-Loom-project-prompt-Stanley-2026-06-27.md": "c-000008",
+        "wiki/domains/OpenAI-SDR-case-study-playbook.md": "c-000009",
+        "wiki/domains/OpenAI-SDR-master-interview-prep-checklist.md": "c-000010",
+        "wiki/domains/OpenAI-SDR-motivation-answer-bank.md": "c-000011",
+        "wiki/domains/OpenAI-SDR-deal-cards-and-metrics.md": "c-000012",
+        "wiki/domains/OpenAI-SDR-technical-product-fluency-pack.md": "c-000013",
+        "wiki/domains/OpenAI-SDR-APAC-prospecting-account-strategy-pack.md": "c-000014",
+        "wiki/domains/OpenAI-SDR-Loom-case-package.md": "c-000015",
+        "wiki/domains/OpenAI-SDR-VP-career-and-story-bank.md": "c-000016",
+        "wiki/domains/OpenAI-SDR-screen-share-safe-prep-doc.md": "c-000017",
+        "wiki/domains/OpenAI-SDR-rapid-fire-mock-and-delivery-drill.md": "c-000018",
+        "wiki/domains/OpenAI-SDR-evidence-and-verification-ledger.md": "c-000019",
+        "wiki/domains/OpenAI-SDR-P0-rehearsal-execution-log.md": "c-000020",
+        "wiki/domains/OpenAI-SDR-DoorDash-Loom-case-fallback.md": "c-000021",
+        "wiki/domains/OpenAI-SDR-live-mock-interviewer-script.md": "c-000022",
+        "wiki/domains/OpenAI-SDR-Loom-finalization-control-room.md": "c-000023",
+        "wiki/domains/OpenAI-SDR-P0-spoken-cue-cards.md": "c-000024",
+        "wiki/domains/OpenAI-SDR-final-P0-action-dashboard.md": "c-000025",
+        "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md": "c-000026",
+        "wiki/sources/OpenAI-Abundant-Intelligence-mission-context.md": "c-000027",
+        "wiki/sources/OpenAI-Frontier-advanced-AI-platform-for-enterprise.md": "c-000028",
+        "wiki/sources/OpenAI-State-of-Enterprise-AI-2025-report.md": "c-000029",
+        "wiki/sources/ChatGPT-Enterprise-product-page.md": "c-000030",
+        "wiki/sources/OpenAI-Next-Phase-of-Enterprise-AI.md": "c-000031",
+        "wiki/sources/OpenAI-Harness-Engineering-Codex-agent-first-world.md": "c-000032",
+        "wiki/sources/Southeast-Asia-sales-strategy-market-sizing-knowledge-work-transcript-2026-07-02.md": "c-000033",
+        "wiki/sources/Sales-coaching-objection-handling-and-demo-strategy-transcript-2026-06-29.md": "c-000034",
+        "wiki/sources/OpenAI-SDR-sales-experience-and-go-to-market-fit-interview-2026-07-17.md": "c-000036",
+        "wiki/domains/OpenAI-SDR-hiring-leader-interview-debrief-2026-07-17.md": "c-000037",
+        "wiki/domains/OpenAI-SDR-sales-interview-pack-v2.md": "c-000038",
+        "wiki/sources/OpenAI-SDR-product-fluency-and-sales-acumen-interview-2026-07-22.md": "c-000040",
+        "wiki/domains/OpenAI-SDR-product-fluency-and-sales-acumen-interview-debrief-2026-07-22.md": "c-000041",
+        "wiki/sources/OpenAI-SDR-product-and-technical-fluency-interview-with-Sam-2026-07-22.md": "c-000042",
+        "wiki/sources/OpenAI-SDR-sales-acumen-interview-with-Andrew-2026-07-22.md": "c-000043",
+        "wiki/domains/OpenAI-SDR-product-and-technical-fluency-interview-debrief-2026-07-22.md": "c-000044",
+        "wiki/domains/OpenAI-SDR-sales-acumen-interview-debrief-2026-07-22.md": "c-000045",
+        "wiki/sources/OpenAI-SDR-final-round-invitation-Lauren-Wadsworth-2026-07-23.md": "c-000046",
+        "wiki/domains/OpenAI-SDR-external-source-summary-and-Lauren-final-relevance-2026-07-26.md": "c-000047",
+        "wiki/sources/InvestInAssets-sales-one-pager.md": "c-000048",
+        "wiki/sources/Kellblog-Stop-Making-the-Number-One-Mistake-in-Presentations.md": "c-000049",
+        "wiki/sources/Zheyi-Final-Sales-Interview-Coaching-2026-07-30.md": "c-000050"
+    }
 }

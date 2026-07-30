@@ -1,0 +1,721 @@
+Meeting Title: Southeast Asia sales strategy — market sizing, knowledge work angles, and competitive positioning
+Date: Jul 2
+Meeting participants: Zheyi Lim
+
+Transcript:
+ 
+Them: Of like a good outcome is much more ambiguous. And so the person using the model needs to put a lot more work. To actually define the goal, right? So I think that's why it's harder. And in a way, you need more imagination because each use case has very few users. So you need to do a lot of use cases.  
+Me: And then you need to. Teach. Right? I guess that's the hot. Pot, right?  
+Them: Yeah.  
+Me: But I mean. Like what hurt, right?  
+Them: So.  
+Me: Vietnam, right? They have like mandatory, like everybody is forcing, like apparently like the people I spoke to like five people, these were all like well educated people, right? Is it a company's false sense to use AI every day and then they have a leaderboard to check whether they are using AI this work?  
+Them: What are people.  
+Me: They are doing finance legal ops. One is like personal assistant.  
+Them: No, but like startups. Or like.  
+Me: No no fucking random ass. Random ass companies bro I don't know some guy was like I mean this is like educated vietnamese people I guess but like apparently in the big corporates as well as the same mindset if you're working for like I don't know Zalo pay apparently that's a policy there and everyone.  
+Them: Someone else is already talking. Yeah, I know there are already quite a big prospect for somebody else.  
+Me: S in. Vietnam. It's probably.  
+Them: They're probably forcing them to users. Actually.  
+Me: Yeah. Exactly right which is compared to like. Malaysia. Or I mean got no. Wear in Philippines or Philippines really confront the very first like Philippines right you might see like the adoption rate is very high but that's because love trying things without using them properly they are the number one consumer of free apps in the world. So if you just fucking live down messing around but they're not there you can't customer that you want me they won't pay that's what I learned about Philippines. It's quite random but he's a very like they're quite hardcore about the whole Malaysia donola.  
+Them: Yeah.  
+Me: Right but I guess like you cannot touch. The codex engineering angle. That's that's outside of Vietnam right that's just project. Assumption I mean you've tried.  
+Them: I just don't know who to touch. Like I've spoken to a couple below 200 engineers and they're not like 200, 300 is really not interesting. I'm fighting stupid kind of. Like one gaming company is just like. Getting his developers to charge like individual subscriptions to a company. They're so dumb. And he. Like.  
+Me: This one. You know how much knowledge you get you get like 10x more mileage. Broccoli.  
+Them: Pisses me off.  
+Me: Your pro plan is very pro bro honestly super friendly. Also you know you get free resets right using the pro plan I've got like what.  
+Them: Only for 30 days.  
+Me: Yeah but now they give you.  
+Them: Like the recent expire after 30 days.  
+Me: Yeah but it resets the whole fucking week dude so let's say and you can manually choose when to trigger the reset so let's say.  
+Them: Yeah, I know. I know we're very generous.  
+Me: Yeah so Zhey you cannot fight the program is op.  
+Them: Wait, so even the one I gave you.  
+Me: Oh the one you gave me doesn't have but I bought another account before this yeah but I mean I was just messing around I was like what the so I had like banked up like four resets right so I just like when I.  
+Them: Okay. Wait, so the complementary one doesn't let you bank.  
+Me: It doesn't matter yeah it doesn't which is fine yeah I mean I don't want to I don't need more API.  
+Them: Okay. Yeah, you're going to buy to Try Fable.  
+Me: Am I going to buy plot.  
+Them: Yeah.  
+Me: I was thinking about buying geoim instead. Actually to try. Yeah because.  
+Them: No, but fable is only available for a week.  
+Me: Yeah I don't really get the fable height to be honest.  
+Them: Have you tried it?  
+Me: This is. Too expensive. I'm really I already. Know this.  
+Them: Okay.  
+Me: All right I'm going to burn through.  
+Them: Actually, it's not that expensive. It's only 2x opus.  
+Me: What. Yeah bro is is meant to be the most expensive model bro. You know it's like like it wasn't five by five is like 25 right I think 30 isn. T. Yeah 50 is way too much even.  
+Them: 50. Opus is also 3.  
+Me: Almost dirty. Focus. Is. Ready. Wow.  
+Them: Yeah, pretty sure we met with 5. 5. I don't see why not.  
+Me: It's cheaper.  
+Them: How much is this?  
+Me: 25.  
+Them: Oh, yeah. There's shipper per token. Is like 30% more token efficient than Ubers. I think.  
+Me: Yeah. Something like that okay I don't know man. Actually not you see this. Right. Here.  
+Them: The people universally agrees trash is solid. Five.  
+Me: The new one right.  
+Them: Yeah.  
+Me: Is it benchmark did quite well though.  
+Them: No, because it's more expensive and less performant than opens 4.8 medium. So. No, but if you take the all in price, like the comparison is more expensive than opus 4.8 medium. Because it's very token intensive.  
+Me: It's hilar. Ious.  
+Them: So it's quite funny. Yeah. Yeah. I feel like my GTU has actually just prospecting a lot, a lot. More. Which feels weird for my role. But I don't see anywhere else to make up my numbers in Q3.  
+Me: Bro. That's what you have as the other I told you.  
+Them: I think so.  
+Me: A lot of workmen actually if you think about it.  
+Them: On average, I'm doing like four or five meetings a week.  
+Me: Yeah I think.  
+Them: And I'm just cutting most of them.  
+Me: Like I think the idea is that perspective is actually quite time. Consuming. Yeah. At some point like you you will become what I became right the evil who is like well I just want to do clothing the entity of every age it's like well this prospect someone else will do it I want to sit in there in my big bowls and just close the tube. I guess like this is a good muscle. Right like what the IC. Are you sure doing everybody else is also doing like 500 deaths. Is that the.  
+Them: The digital natives. Yeah.  
+Me: No it's not so easy your entire team is like doing fire deaths.  
+Them: Yeah. And because I don't think the market is that big, I can't find that many companies with 500 devs.  
+Me: And you think they've already got another good. Ones is that the. Hunch.  
+Them: I mean, one has grabbed one at Shopee.  
+Me: She thinks it's completely.  
+Them: Like, it's like, bro, how to fight. Like and.  
+Me: You cannot fight like there's no more shopping bro we already know.  
+Them: I know like Vietnam. Heravan. And I'm like, I see how big is heravan. It's not that big.  
+Me: The. Intergalactic scale. Like a shock. Er. Ror.  
+Them: Yeah. And then I think someone to VNG. Yeah, someone took VNG and then all the Thailand ones. Someone took like Limanai. So like all the top ones are. Like kicked away. The only top one I think I have left is like flash express. But honestly, that's a delivery company. I don't even think there are many devs. Unless I sell like all the. Delivery guys chat GPT love and talk.  
+Me: You need it bro I guarantee you bro.  
+Them: Like they're going to replace like Google Maps. I don't know.  
+Me: Trust me browsing just ask. But the only two angles left right one is the you found knowledge work and you find like a knowledge work intensive company let's say you take like financial institution right you can help them like I don't know do research analysis some right like like more.  
+Them: Yeah. The one I need to find like that for enterprises my threshold is 5k. So which is quite hard.  
+Me: Yeah but like this is the only angle left right think about it.  
+Them: Yeah.  
+Me: In full deployment of like you rebuild a workflow in their company and sort of. Like say bro. I mean there's an affront here like a deployment engine or like a deployment platform. Does it not work? Doesn't work.  
+Them: Frontier is just a framework. It just says like when you have agents, you need a governance layer, you need. Like some other layers and then we'll come in and build it for you. That's it.  
+Me: So you burned it can you can you pull up that muscle or you can't.  
+Them: We charge like 5 million to build or 10 million or something like that. That's like crazy.  
+Me: Other than that they will use the. SDK open. AI SDK to build a. Document.  
+Them: Yeah, but usually they need an API gateway as well.  
+Me: Anyway.  
+Them: Yeah, no, and you kind of need for like identity. Provisioning and stuff like that. Right. Yeah.  
+Me: You. Could technically. Sell. Codex too. I mean the APIs via these kind of projects I guess. Right.  
+Them: I can, I can, I can. But that's the enterprise player. That's not the digital native speak.  
+Me: I mean I mean the way I was thinking about it right as I was doing the prep right so that one you saw that yes but I feel like the engineering such things.  
+Them: Yeah. Thank you.  
+Me: Like firstly the market is not that bad. And every day if we get a good one and the guys who want to build like software factories will be cursor and I think. Right not you.  
+Them: And also like if I do all this, then what will you guys do when you join us? I don't know.  
+Me: Think is anything.  
+Them: You think so?  
+Me: Yeah you can think of this like the way I think about it right is that I guess open the eye has like hands and everything right?  
+Them: Yeah. No. Okay. Then I guess is the, as they are all can't just be about like setting meetings. It has to be like keeping them warm until there's a use case. Right? And like knocking out the early stuff. It's not just like. Yeah, it's a bit more than that.  
+Me: You think of it right I guess like a. Good a good thing though something I'm thinking about like which companies are doing big AI projects internally right sell open API as like the default API that they run the system. On. This then you're still selling the API they will probably use like open source framework or their own like framework right their own like a model loop. They're full context etc I don't think anyone uses open yeah just just to be clear but it seems like you know their own framework right but oh good I quite liked it it's called. E v e.  
+Them: Cool. Who launched?  
+Me: Sco. It's like basically open 12 but if you put it surplus pretty neat I kind of liked it right but then like you need to choose a provider to run the entire system right. At this kind of you when you come in right you say like these other providers. Right so isn't it like angle to come because I mean you can sell the engineering one I think you have to park it basically don't do right unless you want to sell to India or Vietnam like this kind of debt shops.  
+Them: Makes sense.  
+Me: Which is possible like good luck to you then the knowledge about one is like a lot of education right what's what I was thinking teach people how to use codecs and like if they are stupid then you're. The last one is like you find projects that are already running or in process of in building of being good right and then you say like bro use my API bro you build the project yourself though no MBE work on my side but you know the API.  
+Them: No, but then you know what that requires, right? The requires developers.  
+Me: On the other side not yours.  
+Them: Yeah. But we're just saying that they don't have developers.  
+Me: Developers but they could still be using someone like you know like. You know like. Yeah yeah but in the end like when the thing goes live right. They still need an API to run it. They just similar.  
+Them: What's interesting is like ben laugh told me that like every deal they have is so high stakes because there are so few deals. Like possible. In this like so few deals possible in Southeast Asia. That if they start losing like any deal they lose. Impacts the market size. So.  
+Me: The software factory on is kind of cooked in. I guess.  
+Them: Actually I think I feel more bullish about cognition now. Who is the model routing stuff is actually quite important.  
+Me: Model. Why.  
+Them: I mean because like you.  
+Me: School. Things.  
+Them: Won. Yeah, but I think coalition has, I mean, cognition will do much better. They can have orchestrator model that routes to like cheaper models. Yeah, I mean that's what they're doing with people.  
+Me: And then they. Use it they. Use like something cheaper. On the. Codes.  
+Them: Yeah, and they're doing it like really smart. So like when they do the multimodal thing. They only change models during compaction. So when you're going to do a cache miss anyway. They change models. And so I mean like that's quite smart.  
+Me: When you do the. Cash. List already change model.  
+Them: So when you compact context, right, you will miss the cache. Because you are changing the.  
+Me: Why okay then I guess like you just have. Arbitrary I guess you can compact manually right so that makes sense. Yeah.  
+Them: Yeah, but the pair model change with the compaction event so that. Like yeah, so it's like. I mean it requires like smart engineering I guess.  
+Me: Don't. Really think so you just need a hook to say like okay I want to compact at this point then.  
+Them: No, no, but like that's not the only thing they're doing right so they're stacking on like.  
+Me: You.  
+Them: A ton of things and like they're using classifiers to figure out where to route the models like all that is like I guess fairly useful. Like I'm starting to see a world where like multi kind of multimodel is a like really really like big thing. That people don't want to just be on the frontier all the time.  
+Me: Because. Of course is it.  
+Them: Yeah.  
+Me: Yeah then you use like geoim which is like self hostable and free. And then you run your own server. Because I don't think pricing is any cheaper than open the eyes.  
+Them: Yeah.  
+Me: Like it's basically the same price but they have better margins with it right.  
+Them: No no they have they have this thing called fusion.  
+Me: Oh I just saw it what is it.  
+Them: That's the multimodal router.  
+Me: Like. A curse is a long one. Right. Yeah. That makes sense. And I guess this is. The engineering stuff that. Yeah man honestly I feel like competing on selling engineering like end to end software development lifecycles are pretty high.  
+Them: Yeah.  
+Me: Like codex is. Like really good.  
+Them: Yeah.  
+Me: Actually it depends what I mean like which models do you think they use behind the hood that's so good like pretty sure 5.6 is the best in the market right. Yeah. But. Yeah. People and 5.6.  
+Them: Maybe use favor to orchestrate identify point six to go deeper.  
+Me: They use geoim as well. Look at this table here.  
+Them: Yeah but 5.6 is. Like okay the difference between 5.6 and feeble is 5.6 is like I think an iteration of 5.5 so it's it's like fast. And like nimble and people like large and clunky so I think that makes 5.6 like a different use case compared to fable I guess.  
+Me: See I guess my point is that like the engineering stuff is really hard to continue. Yeah not both of them just provider angle right but also just from. Like know how angle right it's a very hard sell unless you are like you have an FDE pilot right. There and still like bro I am smarter than your engineer I guess what connection is really doing now they're saying like behind this smart partners it's more like 50 Olympics and whatever top nonsense he's faster than you just use our bro.  
+Them: Yeah that's pretty much it. Yeah.  
+Me: Ken engineering angle is pretty cool. Thing knowledge work and like the consumer facing API is probably where the money is that right. So that's my hundred.  
+Them: I guess that's just not a treatment cell cycle. And probably a lot more of a miss and a hit kind of ratio.  
+Me: Yeah but the market is way bigger though if you think about that.  
+Them: Yeah yeah.  
+Me: How many. How many every single that's what I was thinking about how Sierra happy robot. Wonderful all these guys are expanding here you know what I mean for like companies that's the biggest boys who all come at the same time and compete right and the market is definitely open because these guys just open shop. And the last thing we're doing voice managers like literally everyone has been boys and doing theater. So like I guess like most companies have a project.  
+Them: I think like the value f for text is not that high.  
+Me: 4.  
+Them: For text I don't think the value adds a high for them.  
+Me: Oh you mean as an augmentation on top of the model. Well there's all these.  
+Them: Like voices are much harder problem.  
+Me: Is it. Yeah I guess it is.  
+Them: No I mean because it's live right yeah you you need a lot more like. I don't know latency issues and like and you have to stitch the pipeline together.  
+Me: Also like just being a CS server except a voice you know me. I don't know I feel like customer support is definitely something big right that you should just look into. 100% that's a market there because everybody's in it they cannot be no market and the market has to be big enough that everybody is like it we're gonna hire like a peanut cost 10 million to go try. Right because deep cam just launched just just hide their hit on the GM for Asian as well which is like deep gram DE.  
+Them: Who.  
+Me: EP GRM. IS same thing as CRL they all the same I look through everybody and they're all the same every robot Sierra. Yeah so my guess is that a lot of people have these kind of projects running right. And. Yeah you know even if Sierra sells the project right if you just sell the API and isn't it like a win for you too?  
+Them: Knows here I will solve the API and the guy in the US will get a win.  
+Me: There is a partnership model. Right.  
+Them: Yeah.  
+Me: You'll go through CR.  
+Them: It means a win for the company but not for me.  
+Me: Then so if you want to sell you need to sell the full department.  
+Them: This like that what X problem as well right? Like when you have partners then you kind of like the revenue attribution becomes very challenging.  
+Me: With partners then the revenue distribution for the AE who want to make money is very challenging.  
+Them: Correct. Correct.  
+Me: Specified.  
+Them: I mean to be fair this is something that we dealt with and it's the same problem and it's not solvable. Yeah.  
+Me: I'm not trying to say it's the thing like.  
+Them: Yeah. I mean. Yeah. Everybody hates interlocking.  
+Me: How did they make money in the US do they sell deployments they cannot be selling codex only right I mean the market.  
+Them: Okay so the way I think this works is like it's probably at 90 10. A few customers make up the bulk of revenue. So for instance if you're like the for like. I don't know fucking like github or cursor then like yeah. You're bringing your life is I mean your life is bad if you lose the customer or you you know lose share. But. Yeah but arguably also you have all the support in the world. Because like everyone will want to talk to your customer. And they'll be eligible for like everything. So.  
+Me: Is to find like the big fish in southeast Asia that can be on fuel forever.  
+Them: Yeah correct.  
+Me: Because I don't know I feel like selling codex seeds for engineering is a tough sell right so pivot ish I guess something else.  
+Them: I have one Vietnam prospect but.  
+Me: Even though.  
+Them: A bit stuck. The one coming maybe two 300k I think 600 developers.  
+Me: When all use codec. You. Know.  
+Them: Yeah I have to I have to win that.  
+Me: I don't think I've ever win everything though in my opinion.  
+Them: We have done it before.  
+Me: Yeah but it's very hot because of the propaganda everybody is spreading. Right this multi-year role model routing I never know no one has really. Like proven that it worked that well it's a lot of marketing to be honest. Exactly what a multimodal company would.  
+Them: Youe should try that. Yout can trailer.  
+Me: Yeah. Sure I'll try I'll try curses damage.  
+Them: No and cursor like apparently like composer is pretty good as well I don't know if that's true. But.  
+Me: Composer is just community 2. 5 like fine tune.  
+Them: Fine tuna yeah.  
+Me: Yeah but it's nowhere close as good to make you as using a frontier model mandate like 100 guarantee this. I've tried geoim and geom is a bit harder than.  
+Them: Who?  
+Me: Gim know the chinese.  
+Them: Oh. Yeah yeah it's just very heavily bolstering.  
+Me: Yeah yeah but I mean the open source model is just aren't that good on as good.  
+Them: I know I know but I think the pre-train is where it's like. Hot. Pulse training is. I guess not as hard I don't know if that's true but. When you post train a lot you get very spiky capabilities like very jagged. Yeah.  
+Me: But my point is that open the eye has the best of the best researchers and you guys get the goo goo guy the peak guy go all the guys show your models will be the leading model for the remaining like three to five years right until someone.  
+Them: Man Anthropic has hired a bunch like of really like sick people in the past. Like they're not as probably not as good as the one guy we hire from deep mine but they hire like 10 for every guy we hire.  
+Me: Okay I put orange kind of thing right like okay you guys will be one of right so I think like the ads is that you always have the fundier model. You know what I mean and like concerned for sell their bootleg jank post train the gyo crap right I don't think it would just ever be as good as a good old 5.6. Yeah is it like marketing by them to say like hey bro if you're poor right just use the cheap money.  
+Them: True. True but honestly like that like people who think like that. I mean aside from the fact that my incentives are to tell them they're stupid I feel also like stupid. La. Ugh. Like why would you buy a worst product for productivity. If it's going to make you less productive like yeah I don't know. Anyway.  
+Me: You buy someone else some other AEs pitch. With. All thinking. Too much about it then that's what happens all right because like yeah it's like there's a big problem with like benchmarking right. Yout know the sakuna whatever the Japanese cuckoo right I bet.  
+Them: You know. One of the guys is the one who wrote the paper.  
+Me: Yeah I'm sure he's probably great it's just not better than 5.6 of people. The game benchmark. Yeah.  
+Them: Yeah.  
+Me: I mean if they did it Lima like it really works better than. Like. A good old just a fable going for. But actually my I guess my thought is that like multimodal or multimodal is much more inconsistent as well you know I mean because you have all these edges of spikes right let's know that a consumer is saying like API needs to be able to run evals on like one models generations because you know your eval type 9 if you use multimodal right it becomes like mini parts. You need to eval you know you know how if you're trying to take a test that and saying like okay this course we run it through this model and it should produce this result. But if you have like multimodal then you then you probably run eval from that run emails from every stage where the handover occurs.  
+Them: No but you just evaluate the end result.  
+Me: Yeah but the model handovers can change and then it's a lot harder to sort of figure out like what the problem is right.  
+Them: Oh you mean the variance is higher?  
+Me: Yeah for sure right when you talk to different models they really sound completely different. I can imagine like you know you're on a customer CSR support right then suddenly your boy starts speaking Chinese brother you go from autistic codex to oh hi I'm cold I'm cheery and chubby. That's what I think like maybe the multimodal shit is useful for engineering but like it is not that useful for consumer use cases. Or knowledge work I think because then you know that experience end of end matters right.  
+Them: Yeah.  
+Me: Also it's probably like somewhat fake news multimodal has been around for like many years. People keep talking about it. Even chat GPT did it right they tried to route models internally but then it solved.  
+Them: That's different that's different that's still single model.  
+Me: No there was a phase where they tried to multimodal it.  
+Them: That uses a classifier to route the model.  
+Me: So you roused from like 5 to 4.4 right.  
+Them: No it routes just to one model it doesn't like ping between different models. First for this kind of thing you need sub agent workflow.  
+Me: Because then you hand over to it's basically the.  
+Them: Correct and the frontier models have only recently become like you cannot use the fucking GLM to steal. Right because only frontier models have that capability.  
+Me: Right.  
+Them: To be good enough to. Steer.  
+Me: Yeah. Yeah. Well okay but I get this for like really intensive engineering work to think about it. You know because there's only point where you really need to save cost. I think. Right. Here.  
+Them: Well no knowledge work can burn as well man.  
+Me: Research lab. I guess. Yeah.  
+Them: Yeah I'm part of the one one billion dollar club now sorry one billion token club. We have a channel for people who regularly exceed one billion tokens a day.  
+Me: My entire like usage is like 5 billion for like this last two months.  
+Them: On my personal is like 20 million. In the past 38 days after 15 billion tokens.  
+Me: I don't know. How you spend. Some although I can see how you create a taxi.  
+Them: You experiment with like very chunky skills that you just run it run iterate monitor it.  
+Me: Because. You don't get exhausted like. That I feel like I felt like two days working then I was like managing like 15 threads right I'm just so tired.  
+Them: Erating right then anytime you don't like something you just tweak. You know what I mean?  
+Me: But don't you get the promise like you know like you know because like we just fight for five right but like you cannot let it run you need to like read the outputs and make sure that it's running like goals don't.  
+Them: I know but like.  
+Me: Work.  
+Them: Let's say I to run something really long but I don't like the third sentence I'll run it I'll change it I'll run again.  
+Me: Yeah but any change sentences. Right?  
+Them: Like I'll run it from the start to the end again because what I'm like nowadays what we're doing is we're developing pipelines right skills. End to end and the skills have like many many steps. Like I every time I find like something I don't like I like generally don't like to review everything else I give feedback let it run again. Because it doesn't cause me anything so that's why it becomes very expensive. Because it's very iterative I'm not iterating on the output I'm iterating on the workflow.  
+Me: Yeah but in the edit the skill right.  
+Them: Yeah my skill has like 50 steps.  
+Me: Let me guess we've never read your skill.  
+Them: I've never wrecked my skill.  
+Me: The information has been worked on the scale level. And if you want to do it this way.  
+Them: So what I do is usually I will start a thread and then I'll keep iterating on the workflow and then after another thread to read that second thread and pull out all the steps. Then I'll get the model to like arrange it in a logical way where there minimizes repeats then I'll just let go yeah.  
+Me: Because. I mean I mean school creation is actually quite hard as well. Right so like.  
+Them: Nobody reads our skills anymore though.  
+Me: What I mean your 50 set skill is your own right surely.  
+Them: Yeah yeah but nobody reads skills anymore because nowadays like skill files. Are like my one skill is like nine different files.  
+Me: No no but my point is that like usually because usually my method is always the same right I just take skills that have been eval on Twitter like someone has basically like done it. Like tuned it.  
+Them: You're not saying I'll say no fair enough yeah.  
+Me: I trust the skill.  
+Them: I think I could do that.  
+Me: Implicitly and then I only iterate on the output. Because I don't want to touch this because you know skills like if you think of it skills like sop. Right and the sop if it gets too complex or messy or whatever right this is the thing I was running for JX for you know because not him but more like you know the skills getting getting bloated is a pain in the ass dude holy especially when the bloat is in one line line like 80 and then line 80 gives you two contradictory outputs. Because the skill can contain like things that are not messy.  
+Them: Oh yeah. Yeah yeah yeah yeah.  
+Me: Going there take the parking skill right.  
+Them: Can you point a model at it. And see if you can see yeah.  
+Me: Yeah but you need to audit your skill very often to say like okay I'm running an audit pass on the scale tell me what doesn't make sense what makes sense.  
+Them: Yeah.  
+Me: Whether it's also as tiring as iterating on the output.  
+Them: If you read the output.  
+Me: You didn't read one or the other right I did a skill that you trust your school implicitly or you read the output and you trust output.  
+Them: Yeah okay so I usually I read the output if I don't like it I annotate on it.  
+Me: Yeah.  
+Them: I get the threat to run again then I start another thread to say look at what I did in this thread can you help me change the skill so I do a lot of that.  
+Me: Make sense I'll try. That's the ultimate maxi.  
+Them: Yeah that's what you do when tokens are free I think.  
+Me: Then.  
+Them: Like I do a lot of getting codecs to read thread so that I can understand the process and bundle it and then optimize it like a lot of like meta review.  
+Me: Okay just some thoughts here on the skills part right if you read the official docs right it says that you shouldn't be more than 250 likes. This is one thing to. Yeah yeah skills are meant to be really short I like I can tell you my entire skill bank I've like curated like 80. 900 that you know all have at least 1,000 likes on the left I'll say to you after this take a look you'd see like. I don't know man I don't I don't I don't like writing skill so I just trust other people's skills.  
+Them: Also I do think that with each model the skill paradigm changes.  
+Me: Yeah. Yeah.  
+Them: Because previous models were not as stable right but 5.6 is just so stable and so autonomous that I'm okay with like giving it very chunky things. I'm actually curious like about fable man and how.  
+Me: Better than. 50. 6. I'm so curious about this 5. 6 thing maybe I'll just buy payable for the sake of trying it.  
+Them: You should try stable it so that you have a benchmark.  
+Me: Of. How.  
+Them: Right. Yeah just buy the $20 plan.  
+Me: But yeah. Makes sense.  
+Them: Yeah.  
+Me: Because. No I thought the argument is that if the model is smarter then you need lesser like thinner skills. Okay.  
+Them: Correct.  
+Me: Then you need like lesser instructions right.  
+Them: Okay. So for instance my skill is I want you to consider these three sources and that stuff. What I find is that the model does not have contact on internal systems. And where to find things so I feel that no matter how trunky the model is the agentic switch always hits a limit after a certain depth. So from that sense I need to specify sources. Because like no matter how smart the model is it doesn't know what's on slack versus what's on. Like in my email so I always need to point it in a certain direction. And I need to say like. I want you to do zoom info and cognition scripting do LinkedIn in this particular case. So that you it gets longer because you pump it with more context.  
+Me: To. To map the. Flow.  
+Them: Yeah and that it has no reason a lot of chance of achieving. Because I mean I don't know unless we yeah the model the raw model has no chance of getting to know that stuff because it's like organizational context.  
+Me: Yeah yeah.  
+Them: Oh and he's well working in a company is very different from working on your own. Yeah because you start having internal systems you're starting like like for instance I might know that this system has this policy on privacy that I need to follow and previous iterations of the model have just kept running against this like policy and sailing so I need to specify that on my skills so I mean that bloats your skill for sure.  
+Me: Back to my back to the prospecting point only I've been thinking about for the interview right isn't this the perfect use case to sell. Like what you're describing it's like okay my company has a lot of internal data and stores I connect everything through codecs I'm an employee I need to pull the information. Does. It all right I think that's a good pitch.  
+Them: You get more creative yeah.  
+Me: Like roll here we connect like your five apis or via like the official connectors I mean using something legit live they're not exactly legitimate they are really damn half part I have knowledge for the thing to get context. I mean I feel like that is expensive to run by the way you make your money because yes you said these data styles can be quite large right. And. Your knowledge worker suddenly has. Useful enough. Like operating surface without spending without having to teach too much. Right. Image engineering is just like in itself its own siloed forum right. But I think that that form is very hard to solve it requires like real frontier shipment like this multimodal crap that cursor and develop pushing a lot this whole like verification loops I read too much about that to know that it is actually really hard to sell. Because. You run evals on the pipeline then you can sell that if you don't do that then you're just like saying on titter. Knowledge book is probably stupid and the money is that right. And all these monkeys you know what they're doing right they're public copying and pasting from like 10 taps. Like or worst case right not copying and pasting you know basing it of their memory it's actually very common as well.  
+Them: Well I got scolded yesterday by somebody because I demoed computer use. Man she was like what it takes six minutes to do this that's so expensive I'm like okay sure.  
+Me: To demo the computer use.  
+Them: I was using it to demo or like RPA replacement.  
+Me: It's not expensive right.  
+Them: I don't think it is. But computer use only works for the absolute frontier models. Right.  
+Me: Token use it's not that expensive I think.  
+Them: Good point actually.  
+Me: Because time isn't. Like you could blend the token here.  
+Them: Yeah because it's probably the latency.  
+Me: Yeah. And model just like. Reading this. Like reading the image. Right images are actually cheap to read by the way it's not like a cold base of a million like fouls or some yeah you can I don't know that there's a command for it. If you probably end up being like. 200,000 something. I don't know. Because I like the length of the how long it takes to do stuff right doesn't equate the token use it's something that I've noticed like just offhandedly.  
+Them: Yeah I request to sometimes local processing sometimes latency.  
+Me: So when you get scolio like that right you should have the answer be like you you stupid so expensive you buy only 100k tokens bonus how many cents I don't know man like this is the stuff that I always do in the e right I'm just building the memory of people say to me that I get annoyed at and then I'm like you you're wrong sometimes I kind of like touch the truth as well just like well kind of wrong but you know what you anyway.  
+Them: Yeah.  
+Me: I'm sorry I'm right though. So yeah I don't know. Everything can sell a lot. Yeah I don't know it's not actually what you're gonna go after next the you're gonna go after more engineering. Or.  
+Them: I think I think I need to just spend my time prospecting again.  
+Me: Just. Like go back to.  
+Them: Yeah like I need to just like significantly spam the market because of like. What my predecessors have done.  
+Me: They've taken. The good stuff. Is there like a repository of like interesting use cases in the US.  
+Them: You can point correct the slide.  
+Me: But you don't have a CRM or some no they do right.  
+Them: It was an LX thing.  
+Me: How.  
+Them: People don't update.  
+Me: But I thought you could take no excuse enough the.  
+Them: Correct sometimes are they.  
+Me: On. Cr. Ms.  
+Them: Yeah because.  
+Me: There.  
+Them: Then because it tries to infer the strategy and like put it in. And yeah the codecs used a lot has a lot of slot words that are annoying.  
+Me: Yeah. The song was a kidding me. Bro.  
+Them: Governance everything is like govern bounded.  
+Me: Yeah. I would not overstate this I don't care oh my god it's such a paranoid little sometimes yeah okay sorry sorry open yeah go please forgive me when the question is take over.  
+Them: Yeah.  
+Me: Yeah. But you know I mean my husband there are a lot of interesting use cases that you can just like squeeze and milk because like if you think about it right like technically like this the way I thought about it when I was building my stupid CRM right because I codex can. Doesn't do anything if you just think hot enough about what you could do you could just do anything. You know like what you can't do is the you probably can't be like in-house. Engineering agent built by stripe you know what I mean? Firstly they have their whole two factory on the cloud they have everything I mean they set everything up nicely from the full sldc based on their best practices engineering in engineering right from the smart you can't compete that.  
+Them: True.  
+Me: Why you can compete with is stupid use cases like you know if a company wants to build a CRM and you can use codex to run it works good. On me right I don't know. I I don't know if consumption is actually quite high. In different use cases get really expensive pretty fast.  
+Them: I need to find people who don't mind paying more money I think that's what it is.  
+Me: For the subscription.  
+Them: Yeah no for for API or codecs or whatever it is because codex is for enterprises built by usage as well.  
+Me: Yeah but you need to find the use cases for them right. Here. Outside of engineering. Though. And then the truth is only knowledge for us. Right that's how.  
+Them: Yeah.  
+Me: It's going. Okay it's quite interesting right I guess it's just tough because the use case is not clear.  
+Them: Only a few weeks in and I feel that. I guess if other people have picked the low hanging fruit then it's gonna just life is hard laugh that's all.  
+Me: Nothing. Can do about that.  
+Them: It's like number five joining a wallet same thing.  
+Me: Exactly I was like e number two right that was the best time of my life. Bro.  
+Them: Yeah the only thing better number one.  
+Me: It's okay number one said expectation is really low I was pretty happy. I was like yep this is this great yep yep the ball is very low guys don't worry about me. Yeah I saw the profiles of everybody who. S right wow they are. Bread and butter sales people so.  
+Them: Yeah I I don't know I feel I don't belong but let's see.  
+Me: In the sales grinder.  
+Them: This profile wise.  
+Me: Yeah actually it's quite interesting that they hired you to be honest.  
+Them: Yeah but if you join don't ever say that.  
+Me: I'm just kind of curious because what.  
+Them: I know you might drink a lot and then talk.  
+Me: I'm not drinking anymore remember no more drinking.  
+Them: You said for six months right.  
+Me: A drink for a very long time.  
+Them: Okay good.  
+Me: With my girlfriend so we don't keep it that way right. No more tricky. Making it this bad okay bad for me no wonder I'm more productive. Just play total. Thing. But yeah no I guess like the.  
+Them: Sorry.  
+Me: They've just called dicks on the good ones then you just need to go created molar like me no.  
+Them: Yeah. Yeah I mean that also honestly like. For me. This that was also the reason why I took the role out because I saw other people in the role I was like okay like I don't mind.  
+Me: Yeah and actually I still think there's a lot of money we made. Because. It's.  
+Them: Yeah.  
+Me: Like. This. Is hot.  
+Them: Yeah and every few months research will pop up with the new use case.  
+Me: Exactly it's not. Like airbox right away you know how long we got published there's something that was supposed to like three two years.  
+Them: This is the opposite this one they just pop up with a use case that nobody asked for.  
+Me: Yeah which is great.  
+Them: Like no nobody was asking for security.  
+Me: Opening.  
+Them: Like codec security or philanthropic like glasswing or whatever nobody else nobody asked for it. Nobody ever said hey I wish AI could make you know. My like pen test me.  
+Me: You know why. Because. Some researcher decided to pen test it and I was like oh. We just agreed the idea of it like can you sell that can you sell codex currently you can right?  
+Them: Yeah.  
+Me: Like the there are more use cases is actually like insane like it's the most breath of the company that you ever find. Right I think company that's more graphic. Like literally because you think it's called right I'm missing multimodal music boys they're good like certain things like front end but the truth is open your hair is the most and also it's all pretty good right things like it's not trash I think the breath is like the main thing that it's like kind of cool.  
+Them: There's a lot of researchers I think internally as well that we have an advantage.  
+Me: Because of. What?  
+Them: In terms of research breadths but what we are seeing is that anthropic is quite good at branching into other use cases. Like bio research I think they started what cloud health or some.  
+Me: I help. Right.  
+Them: More comprehensive I think.  
+Me: Yeah. But you know. But yeah it was not pretty sure.  
+Them: Yeah.  
+Me: Like the question is like. Is it good enough to compete I think. In general. Except for the B2C like sora.  
+Them: Yeah.  
+Me: Yeah well technically like you can sell any use case. That's kind of interesting as long as they pay for build.  
+Them: Even the sora one. Like. I mean. I love enterprises actually making money out of like video. Like sea dance.  
+Me: Making. Money generating. Videos.  
+Them: Yeah.  
+Me: Like. Pick the ad. And.  
+Them: All commercials and stuff I think movies games. Like by that actually it's quite a chunky business doing that.  
+Me: You can tell that right. If you think about. It.  
+Them: If you had ISRO so like I think the thing the problem is because it released to consumers so it kind of fuck the economics up.  
+Me: The B2C player is not play.  
+Them: Yeah and apparently the research mode is also different. Like the models like there's.  
+Me: Like.  
+Them: Apparently voice text and images are on the same path but video is a different research bus.  
+Me: That. What is what is the internal consensus of what opening. Is at?  
+Them: I think we are very secretive for that research. So some people are very bullish on the research.  
+Me: The mult.  
+Them: The multimodal thing people are bullish about.  
+Me: Iple.  
+Them: We think we are very bad at making end products. Except for. Like packaging stuff and we're very better marketing.  
+Me: You guys.  
+Them: Yeah.  
+Me: Like who thinks that like the researchers are there. On sam. Ple.  
+Them: Like every I mean Sam doesn't post in public channels now but a lot of people think that we're just very bad at messaging.  
+Me: Packaging. Things get a nice. Design.  
+Them: Yeah, well we are off like really powerful features people don't know about. Like you can very easily create like a slackbot at open AI. With chat GPT but nobody knows that. Like. Yeah. Yeah like you can connect the slack right and you can tag a bot. You can link it through connectors the right context and it'll just reason to everything and like you can even give it instructions right but I don't think anybody knows that we can do that.  
+Me: Yeah I mean. That's your. Fault.  
+Them: Yeah.  
+Me: You mean right you can just tell that I feel like that would be a hit once before like oh you guys can do that even if I use codex you know can use chat GPT as a.  
+Them: But code made like cloth tag which is like. Super well branded.  
+Me: I am 90% sure that openai pack will come out in the next two. Months. Right. 95. If anything. Right. There's no way. On I just wonder why he hasn't come out already. Because the frontier of these guys were actually like a vector AI they raised like 75 male.  
+Them: Yeah.  
+Me: Clock copied it. S not an easy problem to solve actually if you think about it. But yeah you know what I mean like I don't know man like stupid just having a chat to be connected clock to slack right it's like you know I talked to all my friends at you know I'm army friend including JJ right I mean the fact that. This exists and they don't know how to do it that means that no one in top position knows how to. Like magic for them they're like whoa you can connect to your what. And I think like you really solve like a lot of value into my game. There right.  
+Them: Whole communication piece is just pretty shit.  
+Me: That's what you come in right you can go in and just sell that kind of blown dude.  
+Them: Yeah. Yeah.  
+Me: I've been checking my slide every day copying and pasting. Right I don't know this kind of my hand the skills for example right I think it's like normal normalized like piece of information as well. I just wonder like how the buying motion would look because you have to convince the whole team. In the company that they should change their operating model. And these are probably like finance. People. Like you are like. Just retards or in general. Because it's not an engineers who are. Like okay but introduces a comment that was kind of wrong like look at gx's engineers. Everything is hard. Yeah I don't know anyway. Just thinking.  
+Them: I think let me I can experiment with more things like the only cost is my time I guess.  
+Me: You can afford to do like low effort experimentation.  
+Them: Yeah.  
+Me: Like like slop. Slot. Outreach. Which is what me and by the way. Just do that. Why because when the market is so big right you can afford to slop your way through a lot of things. And just hit you don't mean narrow one what my strategy for with him was I thought like very simply it's like there'll be more ease joining and when the ease joined they want to kind of dips at the market you know they're always tells us this is the greatest thing I've ever done and I said like okay we'll dips every single market first and find out all the and then we'll pick the ones that we like and we will say the rest of the one. Right so what we did was we sent out like 20,000 emails to every single vertical. We got like 0.1% like reply we had some but it's enough to for me to identify like okay these are the four places then I was like I'm very beat.  
+Them: I guess because there's SME right enterprise the market is much smaller.  
+Me: Yeah no but it's still big for you right now it doesn't make sense.  
+Them: I hope so.  
+Me: If you have the whole market of let's say like oh Vietnam whole Malaysia right there's still a lot of enterprises there.  
+Them: Thinking of taking a swing for the zone natives like Pakistan.  
+Me: I mean if. No one is like stopping you right. I highly recommend taking a swing and like doing it fast and now and not like doing too much work. Right and just getting a flavor of like what the is going on. Because five meetings. Yeah go ahead.  
+Them: In mount Pakistan bank where like. I'm doing like an RFP type thing now. Which is. For. Yeah but Pakistan is. Pakistan should be a big market.  
+Me: And. See what happens and then you can say sorry to your manager in six months.  
+Them: And then one of my colleagues is speaking to one of the stands.  
+Me: One of the. Worst.  
+Them: Another than like it's a country that is even smaller than Uzbekistan or less well known.  
+Me: There's still at least like 200 enterprises.  
+Them: Yeah. Kurdistan.  
+Me: The economy of. Their country found that. Bad day.  
+Them: Is.  
+Me: Okay.  
+Them: It.  
+Me: They're quite sophisticated. They are very good payments instruct.  
+Them: Can you find out what's your what your job will be like through this because I don't think Zhelei knows.  
+Me: Ions. I think. It's very clear they're hiring a mid-market account director with seven years experience. Right. I saw the job posting yesterday. So this is basically just. Like tutorial mode to get to that stage. It's just simple. And I think the idea is that if your FDR. And you can the market is big enough I think they want to wipe the whole market fast. Now. Because they can see the competitors like Sierra everyone coming in. Right they want to make sure that they get. Dips. And then when you have dips then you can sort of say like well. Yeah. Just doing this. Because immediate if they finish higher than six or three hours and you have about 10 EDS right that's 16. That's starting how you come up.  
+Them: But the as the earth cover not just my markets I think.  
+Me: I think. They cover everything.  
+Them: They covered India and like Japan Korea Australia as well. Because like. Those. Are like I think you can have just like four SDRs for Australia for India for example.  
+Me: New. Probably more. Actually. But I think the SDF drop resist to figure out what the market is like. Right now that's my hunch looking the competition that is coming up. Just like you think of the use cases you have like almost like infinite level use cases. Acts. Number of people who can run the sales range. So use cases aren't very I mean what more I'm hearing from you right it doesn't feel like they have an internal operative model of what if they should be anyway.  
+Them: I think it's not super clear you have to find out yourself.  
+Me: Yeah so I.  
+Them: There's no there's no structure.  
+Me: Think. But I'm really curious about is that surely the US has like some sort of table or you think they have no paybook for their land expand sort of.  
+Them: I think the market is quite different I was looking at the planning document. And I don't know man I think the motion is different because the US banks have just a lot more resources to do more. And as a result we can invest a lot more resources to help them. Whereas here. Like the I think in the US the biggest accounts are like 100 million and above. In market so yeah it's much easier to say the way we win is I'm going to put a team on you and help you implement like your your. Right.  
+Me: So you think. The. Really only driven by. These meg. A accounts and nothing else? Is that.  
+Them: Accounts but like I don't think they really receive a lot of attention a lot of the new guys that I met right in my onboarding cohort. Like one of the guys is just purely going to focus on pharma. And going to work with he has only like six accounts that's it. That is. Vote. So yeah it's like quite different scale.  
+Me: Because they are only operating on the mega the real enterprise user let's put this. Way.  
+Them: Well dude I tell you once you work in this kind of company like you can just never unsee how. These issues. Like you cannot unsee it it. Just. It just makes you realize like no matter how well you do. Your views will never matter.  
+Me: But yes yes well you're right unless you go into palm tree. Farming or something.  
+Them: For software.  
+Me: Pretty profitable I'm thinking like it you know if everything fails I don't get either two jobs that I'm doing a book right no one else has pride me I don't get any of either of these chops first because it's sort of a death shop get done for themselves. Rent a piece of land and say like bro we're gonna put some GPU. There's nothing else to do in so.  
+Them: Yeah.  
+Me: I guess let's say I think you're hunted that the use they are so making so much money off this mega account. Invested all the resources into those accounts and they don't have that many long tail use cases that are interesting. Because they're not beggars they can just do the big town.  
+Them: And the big accounts can implement that's the difference.  
+Me: Yeah assume that in some of these issues there'll be no implementation.  
+Them: Yeah so there's minimal customization even in Australia there's quite a bit like we invest resources to work with like some of the banks in Australia but those fields are like. 50 to 100 million kind of thing.  
+Me: Northern bang. S there. Yeah. You were not gonna. Find a Vietnamese. Bank we're gonna pop that. Last bit this. Way.  
+Them: Yeah that's like four thousand.  
+Me: Their corruption quota is 100 mil. Es we spent all the money elsewhere bro I'm sorry the I can kick you okay with my money come in my pocket.  
+Them: Okay. The good thing is one of my accounts can reach that potential. But no no no it's it's like tech company I can't I can't share who it is but yeah I do have one that's a fucking hard win. That probably won't be this quarter.  
+Me: Here in Singapore H2. And the US.  
+Them: Technically Singapore Singapore.  
+Me: Oh. Okay that means. Big ass. Green. Oh it doesn't stop. You.  
+Them: Yeah.  
+Me: Everything.  
+Them: Yeah.  
+Me: Yeah I don't know man it's so interesting like I guess like what do you think the play is the play is like go for smaller account and just scoop many many smaller deals. If there are no more megas.  
+Them: I'm just going to do both I think I'm going to do both but I'm going to try the knowledge triangle that you tried. Off I'm just going to say. Put me in touch with your CFO I'll settle the finance use case.  
+Me: Yeah. Well I guess. Finance. Right there's a lot of different. Workflows.  
+Them: Yeah but the other thing is like for us to be considered like for us to sign an agreement the deal needs to like be above as an internal so if I get like 20 finance people.  
+Me: That.  
+Them: I also actually can't even sign an agreement. Can I.  
+Me: There's any point. As well. That it's like not enough money. For you already.  
+Them: Yeah.  
+Me: So like. That's like. I don't. Know who are the shitty travel companies that I just said no thank. S. No but.  
+Them: Maybe maybe sales. Use cases I can look for people with huge fleets of salespeople.  
+Me: My I guess my bigger point was that like you know these enterprises right you can start maybe grouping them by hit count per department right and so on which is the biggest department let me talk to the guy in there and there are shock be run very poorly right and if the CEO is a bit worried about that department performance then this when you come in and say you know you just use codex 100 subs 200 subs for everybody get a codex subscription.  
+Them: Yeah.  
+Me: And then I'll write the skill for you personally. And then.  
+Them: Right now we're done with software development and then we. Branch to. Knowledge. Work that's like the thing today. Yeah.  
+Me: Expensive. Right. You know Vietnam the engineer at the same price as your I mean it's like multiply of two right but if one thousand dollars two thousand dollars not that big. You know what I mean?  
+Them: Yeah.  
+Me: As engineer in Vietnam 2K 2k the shittiest operations person 1k maybe. You know but in sf to ng best engineer is 500k. And then the mom and pop guy is like 50k on a big multip. Ly some I don't know my hand is the engineer just won't work in this region not not not there will be a few big but cognition and cursor with the sweep though you know cursor is doing an FD motion as well you just released it. For some reason yeah yeah they've been talking about doing fd deployment so basically they're doing what connection does they go in and build a software factory in your sustain the article itself. But if they're doing that right then it's like you can't compete because they are deploying people to build software. So you think I jumped it? Thinking a jumping.  
+Them: I'm actually curious.  
+Me: Do I think they will go long run. I think they will but because they dominate one niche. Which is will help really we are very very technical but more technical than your technical team and will build the entire software factory like for you using fd motion. Is a very complex operation holy so like you need to run firstly there's also parts to it right one is like. The connecting to slack is the easy part then you need to spin up a massive. BTS right this VPS like I think what the track was saying that just has like picking a few terabytes of ram dude and then you partition it so that every pull request that comes in from git right gets then you need a massive two factory so it's actually there are tools are stored in another BTS and this two factory has all the tools that has been approved by stripe. So you need to have a pipeline to get skills into your unified experience for engineering. And on top of that right now what you need to do is kick out the git commit nudging problems because everybody's like doing pull requests and there's some kind of activity going on and how do you make sure that your cope is doesn't have like a whole bunch of commits that are like incompatible or whatever right. Last is that you need to run evalu these things and because you only can you must use frontier models right then your job also is to sort of say like okay how can we get the most performance using our harness as opposed to top coat or codex right and that's where they come out of the stupid naughty model multimodal like my harness is better than your harness we benchmarks this right so that you can see how that sale is like very different from codecs which is like okay well. Use it already right so that's kind of why I see and cursors going in this space because it's clearly the future if you see the air engineer talk they're running an AI war event today and three yesterday right just check out the tweets on that right it's very clear that the next angle for these kind of like companies like commission is. This soft factories that optimize. And everybody's going to want that. Yeah and I guess the thesis would be just be that your Vietnamese outsourced label. Eventually. It's not going to help them.  
+Them: Lever will make mistakes and at some point AI shouldn't make mistakes.  
+Me: I don't know if that is. True. I think that a very skilled engineer can probably do a really good job you just can harder and slower and also if you have one really skilled engineer running the software factory that guy can do a ton of work. Engineer in us outsourced to Vietnamese people and get their outputs and they say you do again now you just go well yeah sometimes go do this you go do it again now I can run 10 of the same time and also more importantly they don't say what the is this back to you. Yeah. I think the outsourcing part of. Engineering will get at some point when this thesis like flies and then condition will just benefit the most because they are well the world's premier software. I think they are actually the number one right. There's no one else.  
+Them: Cool cognition.  
+Me: Should just came out of it Gran.  
+Them: Yeah yeah highest value after cursor got a quiet. One. Actually you know condition is like one of the highest value companies outside of the labs. It's like the two labs and now I think two other companies that is cognition.  
+Me: Because they're building very important piece of this entire puzzle right which is software factories.  
+Them: Yeah.  
+Me: All right and that's extremely technical like holy moly. That's the.  
+Them: Like even livable is. Half the valuation.  
+Me: Lover was a trash product like what does it do codex is live like 100. You know what can liveable people that codex can't do tell me. Nothing.  
+Them: We will take care of that soon.  
+Me: Is not complicated problem.  
+Them: As a you as like like normie you don't want to like just go fiddle around with hosting.  
+Me: S log into this.  
+Them: Yeah but normim doesn't want to sign up for sale.  
+Me: I can literally answer without. The open air connects to just create a comp for me and then to stop it. Let you do that at some point right agent can create a car your problem is solved any. Way. Condition is on the up because something is super technical bee that I don't understand I get this. But I've given up my understanding and the sandbox thing is a big problem sandboxing within the environment that they've built it's like wow this is insanely hard. Dude yeah I mean why are you curious actually. Why you're curious I don't like condition competitors in the strictest sense.  
+Them: Of course our competitors. Like if your engineer is using davin will they still use correct I don't think so.  
+Me: Well cod. Ex what connection still use openai model to run the workshop.  
+Them: I think more of the workloads are in anthropic still. Just looking at the evals for like coalition on conditions eval right opus is better than 5. 5. Like significantly better. So I don't actually I don't know if that's.  
+Me: Condition. As an insurrection. This is. Whoever. S better now.  
+Them: True. But again I don't benefit from like commission using. This.  
+Me: But that's what I'm saying like that like if you if you want to fight them on the. Engineering engineers I think the thesis especially in Southeast Asia. There's no way he's gonna make him censor. Ing I feel like the us has a very favorable router because just because they're from the US engineer 200k. Right it is what it is and they go up to 700. As a senior fang.  
+Them: Yeah yeah. Really.  
+Me: More than six apparently asked guys working at a dev shop one of the deeper than that I was just curious. There was a king for sure. But he's also.  
+Them: Top 1% in Vietnam.  
+Me: Like. Ly. Working with king. Of Singapore is.  
+Them: No because he was asking me how much he can get if he joins like as a country head. Of what company I don't even know who was hiring him as a country.  
+Me: World. First.  
+Them: Dude that's also that funny man can you imagine there was a country.  
+Me: I don't I don't think he'll get it because he showed me the JB request 10 years of experience.  
+Them: Yeah but apparently he was telling me that they told him they don't care because they desperately want a singapore who can speak chinese instead of Vietnamese person.  
+Me: Like if you want to be country here right there's a lot of work. You're gonna be stressed out in tits bro I wouldn't want to become drinking.  
+Them: That's true.  
+Me: Himself like dude I don't know man I don't think Daryl can be not yet la I'm sure he will be honest just not right now.  
+Them: He's never managed people before.  
+Me: It's not just that I don't think he's ever run an end to end sales process himself as well. That's the problem more stressful part.  
+Them: That's true. As the other country head.  
+Me: Of the insane the climb rose but we skip the thing we put the management thing like if I'm management I'm not scared to say what's going on everything. Does even know what a sales cycle is doesn't even know what serum is I don't even know if he knows what it's German. So yeah anyway I don't like candidly like dude if you want to do this you might drop everything else you can't do anything else you're gonna get fired. But you know. Also I don't think you'll pay more than his legal is illegally remote working right. Basically.  
+Them: I know.  
+Me: Now so I guess.  
+Them: Something.  
+Me: Again.  
+Them: He's yeah.  
+Me: Maybe 13.  
+Them: So I think he was asking me how much people get paid even now I was telling him that. The country manager for and group doesn't even get paid that much.  
+Me: Makes sense.  
+Them: Like 45.  
+Me: Yeah. Makes sense. Yeah. The labor ar. Bitrage not worse than us. Anyway. Yeah I don't know.  
+Them: But I've been thinking about what you told me. And focusing on some of these things. I think I need to just run my like top prospects a lot more deliberately. Yeah but I feel that. One of the things I'm struggling with here is that there's very little certainty in a lot of like our promotions and stuff. So like I'm pricing and packaging so it's actually quite hard to. Manage the sales process as someone who's new who like doesn't know what the ages are.  
+Me: If you should allow yourself some. Grace to. Fudge is. That. This. Is my honest answer. To you.  
+Them: Now I'm speaking to a prospect about trial that's expired. And like. Leading him on.  
+Me: Can. Just say it's already. Mesh. Right.  
+Them: So now he's like super interested because he thinks he's getting a ton of like free.  
+Me: You have a back. Up. To smooth this over later.  
+Them: My backup is I. Like I promised him 300 receipts I might only be able to give him like five.  
+Me: Five. Didn't do somehow I guess. Five why five is very low dude.  
+Them: The promotion expired because he. Like I proposed it with like four days to go because with the understanding that he could move very quickly but he's moving damn slowly.  
+Me: Yeah.  
+Them: So the promotion is over and so I can flick him three credits but I can't like. Do 300 maybe I don't know maybe I can do like 10 seats or something like that.  
+Me: The classic trick here is you know. You talk to yourself but like yeah you know I spoke to management is me is management like you guys are too slow. Something like that.  
+Them: No yeah I told him that any exceptional approval I'm not sure if I can get it but let me try.  
+Me: This is a very like every single skills that I top to include the one who was like saying like yeah I always talk to management. Unless somebody stupid why does every single sales person do that I don't know like surely has caught on in the world that when you say I spoke to management you really don't mean always buy it for some reason.  
+Them: It's information is asymmetry.  
+Me: Yeah yeah so that's like something. To there's a bit of punching like a fudge game. So you know. Clinical.  
+Them: I just yeah I just need to think of a really good comeback from this because I'm actually hostile he is I'm not confident of getting the trial anymore. Yeah because 300 seats we value that. About. $300,000 of credits. And I can give him like 5k maybe for free. Yeah.  
+Me: Yeah. I think like one way to say is like. This is. We'll get the queries on a rolling basis like once you finish the first five cable unlock something else. And then using 5k is actually quite low.  
+Them: We currently talking but yeah.  
+Me: You can you can row it a bit right and then you sort of say like don't worry about it like then once it hits like five they're like actually you know not that you really love codex what do you think about buying. Like you just buy this how many how many credits do you need to right it's like rolling is probably the best right but yeah. This trench. Unfortunately the second tranche has the big wall. It cost exactly the same as the.  
+Them: I guess I can make it. Conditional on yeah I can do something that makes it conditional in signing a contrary I guess.  
+Me: Annual. Contractor right and then. Actually you can just. The commercial structure can just be a sweetener like a discount. Even at 20 off and then those are the free credit. That gets used across. It's really asymmetry and it's fake. But the way it matters more than what you actually think is what I've learned.  
+Them: Put it this way this is at least not as stressful as a 3 million one I promise.  
+Me: Up jobs.  
+Them: Do it. Because the owner was like two weeks away and I thought they'll be done. Then the like. Is like three weeks and it's not even close to being done. And it's kind of their fault out but like customers never think it's their fault right.  
+Me: Yeah but. Okay I think this is definitely a mistake right in the sense that like if you thought you could be done fast is crazy. Like nothing ever moves fast.  
+Them: No no the previous person promise this so I kind of inherited the deal.  
+Me: No. I actually think.  
+Them: The previous Lim promised 1K my mistake was upping it to 3k. Yeah 3 million credits. You promised one million dollars.  
+Me: You like double on trip or nothing.  
+Them: Yeah.  
+Me: Yeah.  
+Them: Because we ran this for more than a lot actually allowed companies to codex max right.  
+Me: But in general.  
+Them: And actually a lot of companies move very quickly because like for 1 million free stuff is. Like in musa.  
+Me: In southeast Asia.  
+Them: Yeah.  
+Me: Okay this guy is a ret. Arded.  
+Them: Yeah so.  
+Me: Bro.  
+Them: And it doesn't help that my boss keeps saying that don't worry they'll get it and actually. Okay I guess if I don't know yeah he's like don't worry we'll work it out.  
+Me: Ther. From 3 billion to zero.  
+Them: I was like dude if I can't get approval for this I need to backtrack now and like manage expectations is like no just keep going don't worry I said okay sure.  
+Me: The bigger than. Like I'm gonna be honest with you man do you read the too much.  
+Them: I already did the bullshitting today.  
+Me: The fact that you feel bad about it is a mistake.  
+Them: So.  
+Me: Zero empathy for your client okay.  
+Them: I don't have empathy I actually don't like I'm fine I just. Don't want it to cost me like. Youe know something that I could have otherwise managed differently that's all.  
+Me: So your boss stay in the backtrack.  
+Them: No you think don't backtrack just keep going. Okay.  
+Me: What did he say is he said promise three million and then like when it doesn't deliver the animal happens.  
+Them: If you don't need that I'll keep going.  
+Me: Yeah you know what I think they annoyed the transport that really that far.  
+Them: I'm damn confused.  
+Me: Is a.  
+Them: Yeah but he's like he's super yola he's it's quite interesting because for him. As long as. Like he's actually he's kind of like you she's like to just stretch it until someone says no. And calls you off. Internally.  
+Me: That's how you. Do well in. Sales that. Leave. Or. Yeah. It's like the only. Way you do sales. Is if the. Product is. Like you know cognition right the skills will be just be oh tell me about which sandbox environment do you use? In your life.  
+Them: I feel like condition is like not not too hard to sell because you don't have that much competition. Right. And.  
+Me: CTOs on the. AP release. Today? Like. That's basically. What's gonna happen.  
+Them: I don't know the guy I was speaking to earlier as an enterprise architect and he was drooling over the fact that.  
+Me: Like.  
+Them: We. He was drooling over the fact that like we could do computer use so I'm also damn confused.  
+Me: Yeah because commun. Ities is cool as. But. It's. It's see that's one of the things that like frontier life has everything. Is not easy to solve actually if you think about it. It's really hard. Yeah. Like the pitch there is like super technical I would guess like because it's the only cell to the CTO.  
+Them: Yeah.  
+Me: Right and I think if you don't have an engineering background mate it would be really hard to sell.  
+Them: But you know what's good about them you only have to focus on one thing like the thing about having a lot of things to sell is like you need to be an expert in everything.  
+Me: Really true I think you just need to.  
+Them: At some point I need to sell I probably will sell ads as well.  
+Me: Yeah I think it's like you can probably just need more pretend like what you're doing less so know everything you know. Because. Like. Yeah you know I mean if you want to sell a connection I think you must really be best I think there's two criteria one is that you must have at least some sort of like strong engineering background right because the product that they sell are so complex right that even if I read on like the entire dots were a few times over I still don't really get exactly the needs. You know.  
+Them: Actually I've done a demo of cognition before it's not that hard.  
+Me: As in my you want to sell to a real CTO. Right. Who care.  
+Them: So what I hear from ben is that the questions aren't crazy.  
+Me: Level. But why like so you think the CTOs just say like yeah sure go ahead.  
+Them: Like it's not I mean there's not so much the objections right because his job is not to manage objections his job is. To figure out the technical questions and. Like just make sure a demo goes well. Objections around pricing that's not his job. Or like the non technical objections and on the technical side because the objections are can we do on-prem easy the answers no right. Anything more complex I think he can take back an answer and the demo is like complete within his control.  
+Me: Zy. Is. What does f. Meaning condition again.  
+Them: I don't know that he's doing the most.  
+Me: But. I think it's supposed to FD. Is like you go in and build the thing for them. Right.  
+Them: FDE for him I think he's supposed to run pilots.  
+Me: Here is a good. Thing for them now. Right.  
+Them: Yeah.  
+Me: The brilliant thing is not easy. That is you can't like code soft it's like real deployment in prior. And like.  
+Them: So for him he's learning a lot about networking about. Like. Yellow networking like the banks networks and stuff.  
+Me: Yeah but I guess it's a very strong clinical background.  
+Them: Yeah yeah.  
+Me: Like all my people right I already use this. Is just my general experience with them.  
+Them: But I feel that you can study this kind of thing.  
+Me: Oh. It will take you a long time. To understand.  
+Them: Is it.  
+Me: Minimum six months. Okay minimum six. Months like even with I know roughly where you're based on knowledge I often wear mine in a very high up. You know what I mean even though we read a lot like there are layers of this bro. Like dude in Friday like so hot. Man. Not just you know I mean right like you could learn your classic deployment front end backend databases right which is one scope in itself that you need to learn this one school and then the last thing you learn is like actual intra work which is like DMs sandboxing. Audit. Niche. Crap right. On-prem what is on prem you know.  
+Them: Actually you know what I don't think that a lot of enterprises sandbox here I can't be sure but I actually don't think that's the norm.  
+Me: Like even if like even in collision is Zhefi sandboxes because.  
+Them: Yeah condition they do but do developers you know I don't think so. They probably run like a docker and then exit like. That's it. Right.  
+Me: A docker environment to sandbox.  
+Them: Yeah. Docker is not really a sandbox is it?  
+Me: It is. The stuff that I.  
+Them: Docker is a container it's not a sandbox.  
+Me: M not exactly but it's not like one that's the Gemini.  
+Them: Yeah.  
+Me: Sandbox but it's not a true sandbox because. A true sandbox has its own gas canal or shrimp. Do you know what this. Bro. This is. Hot. As a kata what's the g visor? Jesus engineering is still hugging. Christ. My little. One. But impartment is really really hard.  
+Them: Which one.  
+Me: Like just anything infra right there are like eight types of VMs right. Five factors one of them the one that is open source. Of. Amount of how close it is to full computer is basically my analogy. And then what workload you. Run depends on then chooses the environment. Dude this is hot dude. They need to spin up the you need to do like vibe suffering which does it coil right which is that whenever. You. Want to run a coex in the cloud then you need to spin it up and the latency needs to be really good I know ban was really proud of this when you were saying but like how it works behind the hood like holy.  
+Them: No even Ben doesn't know.  
+Me: Yeah I guess this might be way true. It goes very fast. Yeah I don't know maybe the technical bias in Singapore and Southeast Asia aren't that strong but you sell this in sf right do it you're going to get roasted. Basically. Because the caliber of people that are so high. That. People can get roast. Ed. Doesn't even know. What the. Cook. What's a cornel. Okay yeah but maybe collision is easier maybe that's possible he said. It's southeast Asia or it's turning to. Us.  
+Them: Southeast Asia.  
+Me: Okay. Maybe. Makes sense the CTO here for you. Like. Kind of dumb. Let this is valid. Maybe it's not that deep. From my this thing I'm like studied. As a. You go to the MIT dropout.  
+Them: Yeah I think selling I feel like. I feel like selling to in the US is just different.  
+Me: Yeah. Bro that.  
+Them: I mean it's like link poker right like your opponent is just. Harder.  
+Me: Is. A few IV. Singapore you're playing against. That Lim with a lot of money in front of him. That makes sense.  
+Them: Now.  
+Me: If you want to if you're good at go there. It's like I actually think that there's some merit to if you don't think that the sale is that hard then it's definitely the future condition is a company I'll bet. Open the. Commission and not now cursor as well. Moving in the same direction as permission right and they have compute more importantly. Everything else. Right. Yeah and then the vertical stuff I will bet on them to make money for the next five and. I don't know if they become like. True gigantic. Beast of their own. Nature right but.  
+Them: Actually it doesn't matter right like it shouldn't be super hard for them to reach. Like. 100 mil 100 bill value I feel that.  
+Me: Yeah. But like are they going to be. A. Generational company. Is hapl.  
+Them: I mean do you care like the.  
+Me: O.  
+Them: Do you think it's easier for them to get to 100 than for open air to get to four.  
+Me: Id.  
+Them: I think it's easier for them to get 100.  
+Me: 100.  
+Them: Bill. Yeah.  
+Me: They're just doing deployment like CR for example just goes in and just does the whole thing for you and then you just solve. Like say like oh I want this and they just do the whole thing. I guess that's where you cannot what you cannot do when you have. Guys my team is here to build the whole thing. For you. Like what's the R has this thing called ghost whisper is there are agent builder that's a I guess like codex but with their primitives. It's been like open source spray water yeah and then you go bur and then you build the thing for the client. Yep this is good. No.  
+Them: That's what.  
+Me: I have anything like that where you can like. Build things for customers no.  
+Them: That minimum is huge are not meant for like small companies demand for like enterprises who can build their own issue.  
+Me: But don't they have like an agent build. Er or something.  
+Them: Getting deprecated.  
+Me: Oh you. Got it got so bad.  
+Them: Yeah.  
+Me: I find it really interesting because you know Sierra for example has this middle ground thing where. They highlight. What. A lot of it is like this is track like node base it's like a graph you know like basically boxes and lines and what's the work you know. Right then.  
+Them: Sure I wonder if I can build something for clients I actually don't know.  
+Me: Actually there must be some capability. To. Like. Some in between you know me right well at least for the client to build themselves. Like like not like. Five million dollar. Level of build of you know what I mean like a simple. No like there must be something right maybe there's nothing right.  
+Them: Like I don't think sales people can do that. I cannot but there are people who can. Like it's definitely not drag and drop I don't think. Okay the workspace agents I told you about drag and drop I think right so those are fine. There's those are no code solutions. So you can guide a customer on how to do that it's not that hard.  
+Me: This. Time or is it. The plan itself.  
+Them: The plan I saw. That's the one where I'm talking about slack box that nobody knows about.  
+Me: Yeah yeah so basically you know when I look at CRI 11 laps right actually there are 11 laps for example right the interface is just drag and drop builder you know and then what they're doing is they go to customers and say like you know my team will build the drag and drop them for you. And then you just run it. Like the drag and drop thing is not very complicated I've looked at the. Interface and everything right. Actually most workflows are not that complex.  
+Them: Yeah.  
+Me: This is a few notes a few edge cases a few exceptions really not. I think what they've done is they extended the CR for example okay I think MLS for example has exposed MCP to like you build these workflows via codex. It didn't make sense that codex has its own drag and drop thingy that you can use but codec to build. If it doesn't exist I'll just. Be surpr. Ised this is the most obvious thing to do. Yeah.  
+Them: Codex itself doesn't actually.  
+Me: Does it. Itself.  
+Them: Does not know because technically for this dry and drop things you want it in the cloud.  
+Me: Like.  
+Them: Right.  
+Me: Yeah.  
+Them: Yeah so codex is local for now.  
+Me: Codex is local for now yeah I know but you can is it the thing is not running the workflow. It's basically what you call. It.  
+Them: I guess I could make a skill that does that and then have it like blessed officially.  
+Me: Yeah and then you just say like you were the client and say like okay this is the workflow all right that you can use. Is really not that deep look at the box click the box. Figure it out you little.  
+Them: I think we've done that for clients so I think that's doable. The parallel that I would think about is like we probably have someone who. We probably have someone who. I think one of the guys was thinking of building like a token usage analyzer or something as a skill and that's probably okay so yeah.  
+Me: Can I pan over the whole thing to them and say. Like shape of it your team has all these your knowledge workers you guys know the sop I think is brainless ask.  
+Them: Yeah.  
+Me: Ing. Just go do it. You know because food is heaven is like really hard right but I think this kind of like project that you just and if it's like easy to use. Then they will just buy. Some more technical enough to actually do this as well. In their. What I was thinking about. After looking at star and level left and what they're selling which you know. Fighting it is a lot easier.  
+Them: Well you just get in and then you see what you can do. Yeah.  
+Me: I don't know what that. Thing is quite interesting as well.  
+Them: Yeah.  
+Me: It sounds like you're not.  
+Them: Okay.  
+Me: Talking about open the eye door.  
+Them: Yeah. Okay man I gotta go but I chatting all the best let me know how it goes Stanley is good even today actually I need to text him.  
+Me: Okay cool cool cool all right.  
+Them: So now we fine. Yeah.  
+Me: Cool see you.  
+Them: Oh you know what they did to him right. They cut his coms.  
+Me: Huh.  
+Them: Yeah.  
+Me: To advice the card is combs.  
+Them: So. Yeah technically him quitting. I don't know could be part of the story I don't know.  
+Me: How much?  
+Them: Apparently quite a bit like you can ask him.  
+Me: Any has done for you this are you.  
+Them: Okay you can't be too surprised though.  
+Me: Why.  
+Them: You can.  
+Me: That they. Had. For a long time. I mean the way Stanley described himself is that if he leaves the whole organization. False apart which I believe to be true. Because he's a good. And apparently the only good one.  
+Them: Well you guys.  
+Me: Keep my vote for them bro.  
+Them: Yeah.  
+Me: Thers you.  
+Them: Well honestly like last year that's all I was doing and that's why I like was I had so much conflict in the in the company right because like I was facing comms pressure but instead of cutting comps they were like increasing targets there's a difference. Which is the same thing yeah. So that's why like I mean that was one of the main reasons why I quit. I just didn't like so I was like fairly sure that was going to happen this year.  
+Me: Call this quarter. Right.  
+Them: No no no for next one.  
+Me: On this quarter so it's like a company like com card.  
+Them: I don't know you have to ask him.  
+Me: Okay I'll ask.  
+Them: Yeah but.  
+Me: If we go to Bali bro talk about this. On a. Downhill and.  
+Them: Okay man I got to go I got I got dinner meeting all right see yeah. 

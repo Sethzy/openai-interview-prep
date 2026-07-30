@@ -1,0 +1,118 @@
+{"kind":"deck","id":"pr/b3uadx","name":"Deck"}
+{"kind":"layout","layoutId":"a5f52990-68ca-463b-894e-f60bfcafc68a","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"00a3bd68-7f9d-4715-9e9b-5f87b7019fda","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/d33lbw","slide":1,"title":"WHY ME / WHY OPENAI / WHY IHH","textShapes":8}
+{"kind":"textbox","id":"sh/dsji5sne","slide":1,"name":"eyebrow-1","text":"WHY ME / WHY OPENAI / WHY IHH","textPreview":"WHY ME / WHY OPENAI / WHY IHH","textChars":29,"textLines":1,"bbox":[42,40,520,28]}
+{"kind":"textbox","id":"sh/61032lsz","slide":1,"name":"main-title","text":"IHH Healthcare: governed AI for international patient operations","textPreview":"IHH Healthcare: governed AI for international patient operations","textChars":64,"textLines":1,"bbox":[42,116,760,230]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":1,"name":"subtitle","text":"A 7-minute strategic customer case template for OpenAI SDR interview prep","textPreview":"A 7-minute strategic customer case template for OpenAI SDR interview prep","textChars":73,"textLines":1,"bbox":[42,372,620,80]}
+{"kind":"shape","id":"sh/oj2t83it","slide":1,"name":"right-field","bbox":[862,0,376,720]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":1,"name":"proof-1","bbox":[862,132,312,92]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":1,"name":"proof-2","bbox":[862,274,312,92]}
+{"kind":"shape","id":"sh/vy90je9c","slide":1,"name":"proof-3","bbox":[862,416,312,92]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":1,"name":"proof-1-text","text":"Seth angle\nAPAC enterprise GTM + regulated-buyer judgment","textPreview":"Seth angle | APAC enterprise GTM + regulated-buyer judgment","textChars":57,"textLines":2,"bbox":[884,154,270,56]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":1,"name":"proof-2-text","text":"OpenAI angle\nBusiness-user + builder surfaces, sold by workflow","textPreview":"OpenAI angle | Business-user + builder surfaces, sold by workflow","textChars":63,"textLines":2,"bbox":[884,296,270,56]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":1,"name":"proof-3-text","text":"IHH angle\nLarge APAC healthcare network with digital readiness","textPreview":"IHH angle | Large APAC healthcare network with digital readiness","textChars":62,"textLines":2,"bbox":[884,438,270,56]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":1,"name":"footer-1","text":"Internal prep template - recheck prompt, account facts, and exact OpenAI claims before recording","textPreview":"Internal prep template - recheck prompt, account facts, and exact OpenAI claims before recording","textChars":96,"textLines":1,"bbox":[42,668,980,22]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":1,"name":"slide-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1184,660,54,25]}
+{"kind":"notes","id":"nt/d33lbw","slide":1,"text":""}
+{"kind":"slide","id":"sl/rixi94","slide":2,"title":"OPENAI SDR LOOM CASE","textShapes":14}
+{"kind":"textbox","id":"sh/neloj2t8","slide":2,"name":"section-2","text":"OPENAI SDR LOOM CASE","textPreview":"OPENAI SDR LOOM CASE","textChars":20,"textLines":1,"bbox":[42,36,360,26]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":2,"name":"title-2","text":"Account point of view: patient operations is the wedge","textPreview":"Account point of view: patient operations is the wedge","textChars":54,"textLines":1,"bbox":[42,70,900,82]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":2,"name":"metric-89","bbox":[42,212,260,170]}
+{"kind":"shape","id":"sh/u54zidon","slide":2,"name":"metric-190","bbox":[332,212,260,170]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":2,"name":"metric-rm","bbox":[622,212,260,170]}
+{"kind":"shape","id":"sh/cbulwval","slide":2,"name":"metric-virtusa","bbox":[912,212,286,186]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":2,"name":"m1","text":"89","textPreview":"89","textChars":2,"textLines":1,"bbox":[66,232,180,70]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":2,"name":"m1b","text":"hospitals in 10 countries","textPreview":"hospitals in 10 countries","textChars":25,"textLines":1,"bbox":[66,318,205,44]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":2,"name":"m2","text":"190","textPreview":"190","textChars":3,"textLines":1,"bbox":[356,232,180,70]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":2,"name":"m2b","text":"healthcare facilities","textPreview":"healthcare facilities","textChars":21,"textLines":1,"bbox":[356,318,205,44]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":2,"name":"m3","text":"RM25.7B","textPreview":"RM25.7B","textChars":7,"textLines":1,"bbox":[646,232,210,70]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":2,"name":"m3b","text":"FY2025 reported revenue","textPreview":"FY2025 reported revenue","textChars":23,"textLines":1,"bbox":[646,318,205,44]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":2,"name":"m4","text":"GenAI + Agentic AI","textPreview":"GenAI + Agentic AI","textChars":18,"textLines":1,"bbox":[936,238,230,54]}
+{"kind":"textbox","id":"sh/7u54zido","slide":2,"name":"m4b","text":"public digital transformation direction with Virtusa","textPreview":"public digital transformation direction with Virtusa","textChars":52,"textLines":1,"bbox":[936,310,230,70]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":2,"name":"thesis","text":"Three-year POV: IHH can move from isolated digital initiatives to a governed patient-operations layer across markets.","textPreview":"Three-year POV: IHH can move from isolated digital initiatives to a governed patient-operations layer across markets.","textChars":117,"textLines":1,"bbox":[42,438,790,72]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":2,"name":"why-now","text":"Why now: cross-border demand, multilingual coordination, patient experience pressure, workflow modernization, and an SI path already in motion.","textPreview":"Why now: cross-border demand, multilingual coordination, patient experience pressure, workflow modernization, and an SI path already in m...","textChars":143,"textLines":1,"bbox":[42,532,980,54]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":2,"name":"footer-2","text":"Sources: IHH public pages captured in the case package - final recheck required before recording","textPreview":"Sources: IHH public pages captured in the case package - final recheck required before recording","textChars":96,"textLines":1,"bbox":[42,668,980,22]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":2,"name":"slide-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1184,660,54,25]}
+{"kind":"notes","id":"nt/rixi94","slide":2,"text":""}
+{"kind":"slide","id":"sl/bd6nkk","slide":3,"title":"OPENAI SDR LOOM CASE","textShapes":14}
+{"kind":"textbox","id":"sh/ed8bat47","slide":3,"name":"section-3","text":"OPENAI SDR LOOM CASE","textPreview":"OPENAI SDR LOOM CASE","textChars":20,"textLines":1,"bbox":[42,36,360,26]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":3,"name":"title-3","text":"High-impact use case: multilingual patient concierge","textPreview":"High-impact use case: multilingual patient concierge","textChars":52,"textLines":1,"bbox":[42,70,900,82]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":3,"name":"use-case-title","text":"Start narrow: international patient inquiry, routing, preparation, and follow-up.","textPreview":"Start narrow: international patient inquiry, routing, preparation, and follow-up.","textChars":81,"textLines":1,"bbox":[42,176,880,60]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":3,"name":"step-1","bbox":[42,286,250,178]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":3,"name":"step-num-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[60,304,44,44]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":3,"name":"step-text-1","text":"Patient asks about a procedure from overseas","textPreview":"Patient asks about a procedure from overseas","textChars":44,"textLines":1,"bbox":[60,360,210,76]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":3,"name":"step-2","bbox":[342,286,250,178]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":3,"name":"step-num-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[360,304,44,44]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":3,"name":"step-text-2","text":"Agent captures language, timing, admin context, and urgency","textPreview":"Agent captures language, timing, admin context, and urgency","textChars":59,"textLines":1,"bbox":[360,360,210,76]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":3,"name":"step-3","bbox":[642,286,250,178]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":3,"name":"step-num-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[660,304,44,44]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":3,"name":"step-text-3","text":"Retrieves approved hospital, service, specialist, and policy information","textPreview":"Retrieves approved hospital, service, specialist, and policy information","textChars":72,"textLines":1,"bbox":[660,360,210,76]}
+{"kind":"shape","id":"sh/fyxobm58","slide":3,"name":"step-4","bbox":[942,286,250,178]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":3,"name":"step-num-4","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[960,304,44,44]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":3,"name":"step-text-4","text":"Drafts next steps, schedules follow-up, and escalates clinical questions","textPreview":"Drafts next steps, schedules follow-up, and escalates clinical questions","textChars":72,"textLines":1,"bbox":[960,360,210,76]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":3,"name":"measure","text":"Measures: time to first response, inquiry-to-appointment conversion, coordinator capacity, escalation quality, patient satisfaction.","textPreview":"Measures: time to first response, inquiry-to-appointment conversion, coordinator capacity, escalation quality, patient satisfaction.","textChars":132,"textLines":1,"bbox":[42,526,1040,56]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":3,"name":"footer-3","text":"Internal prep template - recheck prompt, account facts, and exact OpenAI claims before recording","textPreview":"Internal prep template - recheck prompt, account facts, and exact OpenAI claims before recording","textChars":96,"textLines":1,"bbox":[42,668,980,22]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":3,"name":"slide-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184,660,54,25]}
+{"kind":"notes","id":"nt/bd6nkk","slide":3,"text":""}
+{"kind":"slide","id":"sl/ez0d5s","slide":4,"title":"OPENAI SDR LOOM CASE","textShapes":16}
+{"kind":"textbox","id":"sh/bulwval8","slide":4,"name":"section-4","text":"OPENAI SDR LOOM CASE","textPreview":"OPENAI SDR LOOM CASE","textChars":20,"textLines":1,"bbox":[42,36,360,26]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":4,"name":"title-4","text":"How it works: narrow, permissioned, observable","textPreview":"How it works: narrow, permissioned, observable","textChars":46,"textLines":1,"bbox":[42,70,900,82]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":4,"name":"arch-0","bbox":[42,196,250,296]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":4,"name":"arch-head-0","text":"Patient channels","textPreview":"Patient channels","textChars":16,"textLines":1,"bbox":[60,218,210,36]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":4,"name":"arch-body-0","text":"Phone\nWeb form\nEmail\nWhatsApp","textPreview":"Phone | Web form | Email | WhatsApp","textChars":29,"textLines":4,"bbox":[60,278,210,164]}
+{"kind":"textbox","id":"sh/032lszqt","slide":4,"name":"arrow-0","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[302,322,40,36]}
+{"kind":"shape","id":"sh/tovahoza","slide":4,"name":"arch-1","bbox":[342,196,250,296]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":4,"name":"arch-head-1","text":"Workflow layer","textPreview":"Workflow layer","textChars":14,"textLines":1,"bbox":[360,218,210,36]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":4,"name":"arch-body-1","text":"Concierge agent\nFollow-up agent\nHuman handoff","textPreview":"Concierge agent | Follow-up agent | Human handoff","textChars":45,"textLines":3,"bbox":[360,278,210,164]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":4,"name":"arrow-1","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[602,322,40,36]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":4,"name":"arch-2","bbox":[642,196,250,296]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":4,"name":"arch-head-2","text":"Approved systems","textPreview":"Approved systems","textChars":16,"textLines":1,"bbox":[660,218,210,36]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":4,"name":"arch-body-2","text":"Service catalog\nSpecialist directory\nScheduling\nInquiry CRM","textPreview":"Service catalog | Specialist directory | Scheduling | Inquiry CRM","textChars":59,"textLines":4,"bbox":[660,278,210,164]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":4,"name":"arrow-2","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[902,322,40,36]}
+{"kind":"shape","id":"sh/at47y1kr","slide":4,"name":"arch-3","bbox":[942,196,250,296]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":4,"name":"arch-head-3","text":"OpenAI surfaces","textPreview":"OpenAI surfaces","textChars":15,"textLines":1,"bbox":[960,218,210,36]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":4,"name":"arch-body-3","text":"Realtime if voice\nFile Search / retrieval\nTools / function calls\nStructured outputs\nEvals / tracing","textPreview":"Realtime if voice | File Search / retrieval | Tools / function calls | Structured outputs | Evals / tracing","textChars":99,"textLines":5,"bbox":[960,278,210,164]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":4,"name":"governance","text":"Governance guardrail: scoped permissions, consent, audit trail, DPO/security review, no diagnosis, human escalation for clinical or high-risk moments.","textPreview":"Governance guardrail: scoped permissions, consent, audit trail, DPO/security review, no diagnosis, human escalation for clinical or high-...","textChars":150,"textLines":1,"bbox":[42,546,1120,56]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":4,"name":"footer-4","text":"Exact deployment, residency, healthcare, and model choices require official/account-specific validation","textPreview":"Exact deployment, residency, healthcare, and model choices require official/account-specific validation","textChars":103,"textLines":1,"bbox":[42,668,980,22]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":4,"name":"slide-number-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184,660,54,25]}
+{"kind":"notes","id":"nt/ez0d5s","slide":4,"text":""}
+{"kind":"slide","id":"sl/dhlhyu","slide":5,"title":"OPENAI SDR LOOM CASE","textShapes":15}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":5,"name":"section-5","text":"OPENAI SDR LOOM CASE","textPreview":"OPENAI SDR LOOM CASE","textChars":20,"textLines":1,"bbox":[42,36,360,26]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":5,"name":"title-5","text":"30-day executive engagement plan","textPreview":"30-day executive engagement plan","textChars":32,"textLines":1,"bbox":[42,70,900,82]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":5,"name":"timeline-rule-0","bbox":[150,208,920,2]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":5,"name":"period-0","text":"Days 1-5","textPreview":"Days 1-5","textChars":8,"textLines":1,"bbox":[42,174,130,44]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":5,"name":"plan-0","text":"Build account thesis, workflow map, and stakeholder hypothesis","textPreview":"Build account thesis, workflow map, and stakeholder hypothesis","textChars":62,"textLines":1,"bbox":[214,174,870,44]}
+{"kind":"shape","id":"sh/byhgn29g","slide":5,"name":"timeline-rule-1","bbox":[150,290,920,2]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":5,"name":"period-1","text":"Days 6-10","textPreview":"Days 6-10","textChars":9,"textLines":1,"bbox":[42,256,130,44]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":5,"name":"plan-1","text":"Align with OpenAI AD on proof, approved claims, and first wedge","textPreview":"Align with OpenAI AD on proof, approved claims, and first wedge","textChars":63,"textLines":1,"bbox":[214,256,870,44]}
+{"kind":"shape","id":"sh/0fepkzup","slide":5,"name":"timeline-rule-2","bbox":[150,372,920,2]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":5,"name":"period-2","text":"Days 11-15","textPreview":"Days 11-15","textChars":10,"textLines":1,"bbox":[42,338,130,44]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":5,"name":"plan-2","text":"Open with patient experience, international services, ops, or digital champion","textPreview":"Open with patient experience, international services, ops, or digital champion","textChars":78,"textLines":1,"bbox":[214,338,870,44]}
+{"kind":"shape","id":"sh/0z61032l","slide":5,"name":"timeline-rule-3","bbox":[150,454,920,2]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":5,"name":"period-3","text":"Days 16-22","textPreview":"Days 16-22","textChars":10,"textLines":1,"bbox":[42,420,130,44]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":5,"name":"plan-3","text":"Multi-thread technology, DPO/security, clinical governance, procurement, SI path","textPreview":"Multi-thread technology, DPO/security, clinical governance, procurement, SI path","textChars":80,"textLines":1,"bbox":[214,420,870,44]}
+{"kind":"shape","id":"sh/72x4nap4","slide":5,"name":"timeline-rule-4","bbox":[150,536,920,2]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":5,"name":"period-4","text":"Days 23-30","textPreview":"Days 23-30","textChars":10,"textLines":1,"bbox":[42,502,130,44]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":5,"name":"plan-4","text":"Co-design POC scope, success metrics, risk gates, and next meeting","textPreview":"Co-design POC scope, success metrics, risk gates, and next meeting","textChars":66,"textLines":1,"bbox":[214,502,870,44]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":5,"name":"output-panel","bbox":[42,602,1090,42]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":5,"name":"output-text","text":"Output by day 30: a narrow POC with a business metric, data boundary, review path, and expansion thesis.","textPreview":"Output by day 30: a narrow POC with a business metric, data boundary, review path, and expansion thesis.","textChars":104,"textLines":1,"bbox":[62,612,1030,24]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":5,"name":"footer-5","text":"Internal prep template - recheck prompt, account facts, and exact OpenAI claims before recording","textPreview":"Internal prep template - recheck prompt, account facts, and exact OpenAI claims before recording","textChars":96,"textLines":1,"bbox":[42,668,980,22]}
+{"kind":"textbox","id":"sh/ulwval87","slide":5,"name":"slide-number-5","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184,660,54,25]}
+{"kind":"notes","id":"nt/dhlhyu","slide":5,"text":""}
+{"kind":"slide","id":"sl/c5dsej","slide":6,"title":"OPENAI SDR LOOM CASE","textShapes":11}
+{"kind":"textbox","id":"sh/0fepkzup","slide":6,"name":"section-6","text":"OPENAI SDR LOOM CASE","textPreview":"OPENAI SDR LOOM CASE","textChars":20,"textLines":1,"bbox":[42,36,360,26]}
+{"kind":"textbox","id":"sh/bulwval8","slide":6,"name":"title-6","text":"Close: outreach, risks, and why OpenAI","textPreview":"Close: outreach, risks, and why OpenAI","textChars":38,"textLines":1,"bbox":[42,70,900,82]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":6,"name":"outreach","bbox":[42,174,552,210]}
+{"kind":"textbox","id":"sh/tovahoza","slide":6,"name":"outreach-head","text":"Outbound message","textPreview":"Outbound message","textChars":16,"textLines":1,"bbox":[66,196,270,34]}
+{"kind":"textbox","id":"sh/032lszqt","slide":6,"name":"outreach-body","text":"I saw IHH is modernizing technology across key markets, with patient experience and workflow improvement as themes. Would it be useful to compare where OpenAI could help test a narrow, governed POC around international patient coordination?","textPreview":"I saw IHH is modernizing technology across key markets, with patient experience and workflow improvement as themes. Would it be useful to...","textChars":240,"textLines":1,"bbox":[66,246,500,110]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":6,"name":"risks","bbox":[642,174,556,210]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":6,"name":"risks-head","text":"Risks to name early","textPreview":"Risks to name early","textChars":19,"textLines":1,"bbox":[666,196,320,34]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":6,"name":"risks-body","text":"- Integration and data boundaries\n- Patient trust and escalation quality\n- Clinical accountability and DPO/security review\n- SI alignment and total cost of ownership","textPreview":"- Integration and data boundaries | - Patient trust and escalation quality | - Clinical accountability and DPO/security review | - SI ali...","textChars":165,"textLines":4,"bbox":[666,246,500,110]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":6,"name":"why-openai","bbox":[42,430,1156,126]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":6,"name":"why-head","text":"Why OpenAI","textPreview":"Why OpenAI","textChars":10,"textLines":1,"bbox":[66,450,240,34]}
+{"kind":"textbox","id":"sh/bulwval8","slide":6,"name":"why-body","text":"Not a generic better-model pitch: breadth across API, agents, voice, retrieval, structured outputs, evals, and enterprise trust layers lets the account plan start with a workflow, then expand from evidence.","textPreview":"Not a generic better-model pitch: breadth across API, agents, voice, retrieval, structured outputs, evals, and enterprise trust layers le...","textChars":206,"textLines":1,"bbox":[300,450,840,62]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":6,"name":"standout","text":"Standout move: use source-backed account intelligence, regulated-buyer judgment, and a stakeholder map before asking for time.","textPreview":"Standout move: use source-backed account intelligence, regulated-buyer judgment, and a stakeholder map before asking for time.","textChars":126,"textLines":1,"bbox":[42,592,1000,42]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":6,"name":"footer-6","text":"Internal prep template - recheck prompt, account facts, and exact OpenAI claims before recording","textPreview":"Internal prep template - recheck prompt, account facts, and exact OpenAI claims before recording","textChars":96,"textLines":1,"bbox":[42,668,980,22]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":6,"name":"slide-number-6","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184,660,54,25]}
+{"kind":"notes","id":"nt/c5dsej","slide":6,"text":""}

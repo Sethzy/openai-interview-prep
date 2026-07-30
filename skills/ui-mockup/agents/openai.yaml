@@ -1,0 +1,3 @@
+display_name: "Ui Mockup"
+short_description: "Reusable UI mockup workflow."
+default_prompt: "Use ui-mockup for this workflow."

@@ -1,0 +1,690 @@
+  Knowledge AI
+  (aka AVA, aka Knowell)
+
+
+
+
+  MAR 2023
+Confidential. Copyright © 2020 by Boston Consulting Group. All rights reserved.
+                                                                        Copyright © 2022 by Boston Consulting Group. All rights reserved.
+BCG X contacts on
+this topic               Hicham Mhanna            Jay Van der Lyn
+                    Partner and Vice President,    Lead Engineer
+                            Engineering
+
+
+
+
+                                                                    2
+Knowledge AI
+Technology & Offering
+Knowledge AI
+Proprietary AI offering and toolkit
+that transforms how organizations
+find answers from their unstructured
+
+
+
+
+                                                                                                             Copyright © 2022 by Boston Consulting Group. All rights reserved.
+data
+
+
+
+
+     Cognitive AI                      Bionic                             Outcome-driven
+     Natural-Language Understanding    Human-in-the-loop training         Dramatically decreases search
+     model ingests unstructured data   module continuously refines        times (94%), enabling clients to
+     to generate searchable            accuracy & precision of search     operate faster & leaner to fully
+     knowledge graph                   results, and actively identifies   leverage their knowledge
+                                       knowledge gaps
+
+                                                                                                        4
+       Use Case | Knowledge AI capabilities can be deployed to help contact center
+       agents find answers quickly and accurately with notable results*
+               -15 to 20%                                          +3 to 7pts                                       -2 to 4 weeks            -95%                        94%
+           Call Handling Time                              First Call Resolution Rate                               Weeks of Training   Time to resolution          Search accuracy
+
+
+
+
+                                                                                                                                                                                           Copyright © 2022 by Boston Consulting Group. All rights reserved.
+        Natural language
+                                                                                                                                                             • Solution built and
+           questions                                                                                                                                           deployed for one of the
+                                                                                                                                                               biggest BPOs in the world
+                                                                                                                                                               with over 100,000 agents
+                                                                                                                                                             • BPO serves many global
+                                                                                                                                                               brands across many
+                                                                                                                                                               industries and
+           Curated ‘Best                                                                                                                                       geographies
+             Answers’
+                                                                                                                                                             • Metrics are based on our
+                                                                                                                                                               first deployment with 500
+                                                                                                                                                               of their agents serving a
+                                                                                                                                                               major North America
+                                                                                                                                                               retailer for over a year
+                                                                                                                                                             • BPO continuing to scale
+           AI-Generated                                                                                                                                        the solution to their
+                                                                                                                                                               other brands
+             Responses
+
+
+
+
+                                                                                                                                                                                      5
+* Based on 500+ agent deployment for a year with a major North America retailer. Overall productivity improvement of 15-25%
+Knowledge AI has a suite of apps with proven       … and rapidly delivers benefits to your
+impact, that automates surfacing best              company, customers, and employees
+answers to employee or customer questions
+                                                          Lower Average Handling Time
+                                                          -15 to 20%* in AHT with higher proficiency and smarter technology
+
+            Employee Facing      Customer Facing
+
+
+
+
+                                                                                                                                      Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                                          Higher First Call Resolution
+                                                          +3 to 7pts* in FCR with higher proficiency and smarter technology
+ Search
+
+
+
+
+           Employee Assist    Web self-service            Faster Speed To Proficiency
+                                                          -2 to 4 weeks of training for agents with better process & smarter
+             Smart search     Smart search                technology
+
+
+          Employee Co-Bot     Virtual Bot                 Increased call deflection rate
+                 Assistant    (Web, SMS, Voice)
+                                                          -20 to 40% of calls avoided leveraging digital omni-channels capabilities
+ Bot
+
+
+
+
+                                                          Higher Customer/Employee Satisfaction
+                                                          Target to be assessed based on current data, less calls, faster
+                                                          resolution, efficient self-service alternatives …
+
+
+
+
+                                                                                                                                6
+Toolkit| Components of the Knowledge AI toolkit can add value to contact
+center operations along the value chain
+                                                   95% reduction in                                         94% search accuracy,
+                                                  time-to-resolution                                            best-in-class
+                                        Highly Distinctive              Highly Distinctive
+
+                                      INGESTION                 LLM-POWERED                   ACTIVE LEARNING                PERFORMANCE
+
+
+
+
+                                                                                                                                                           Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                       PIPELINES                 KNOWLEDGE                        WITH HIL                     ANALYTICS
+                                                                   SEARCH
+          Problem to           80% of business data is       9 out of 10 people prefer       How to continuously         How to measure &
+          Solve:               unstructured1                 to speak with an live           refine & control learning   monitor value-generation
+                                                             agent directly2                 with human-in-the-loop      of solution
+
+
+                                OCR and NLP models           AI-assist directs agents        Human-in-the-loop           Performance analytics
+          Knowledge AI          allow PDFs, HTMLs and        to the exact page &             continuously refines        tracks gaps in knowledge,
+          Solution              any other documents to       paragraph they’re               AI-generated results, and   and precision of recalls to
+                                be ingested                  looking for                     can curate ‘best answers’   refine over time
+
+
+                                Content Management Portal:   Agent Assist Front-end:         Annotation Dashboard:       Accuracy & Precision KPIs:
+
+
+          Knowledge AI
+          Demo
+
+
+
+
+                                                                    TRAINING & CHANGE MANAGEMENT
+
+1. Gartner 2. Salesforce 3. Zendesk
+                                                                                                                                                       7
+    An omni-channel leading-edge enterprise search and knowledge toolkit that leverages natural
+    language processing and LLMs to provide precise answers from volumes of unstructured data
+
+                                 Built on a closed domain system, which allows close control of the knowledge that
+       PRIVACY & SECURITY        the AI learns from
+
+
+                CONTINUOUS       Human-in-the-loop learning results in higher accuracy search than either
+
+
+
+
+                                                                                                                            Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                LEARNING         human-alone or machine-alone
+
+
+
+                                 Flexible integration with any NLP model (e.g.: Cohere, OpenAI/GPT3), so the optimal
+                   FLEXIBILITY   model can be selected based on specific domains or fields
+   Key
+Attributes
+                                 Read—to-implement toolkit that can pilot to quickly demonstrate value and validate
+                   SPEED
+                                 hypothesis
+
+
+
+                ACCURACY &       Inject premium curated content into AI responses using any CMS tool or structured
+                CONTROL          data sources for added control
+
+
+             PERFORMANT          Best-in-class AI and Data Science that is competitive in today’s market, and trained
+                                 using proprietary techniques that result in the high response accuracy
+                                                                                                                        8
+                           Capabilities:
+                           • Conversation management (i.e.: chatbot)
+                           • Semantic search
+                           • LLM augmentation (ALM) with plugins tools (e.g.: internal/external APIs,
+                              databases querying, analytics APIs, etc…)
+
+                           Models:
+                           • Multimodal support for completion and embeddings
+                           • Online and offline models
+                           • Custom model support
+                           • Model fine tuning
+
+
+
+
+                                                                                                            Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                           • Model benchmarking
+                           • Metering and Token cost management
+                           • Prompt engineering and management
+Benefits of Knowledge AI   • Multi step LLM execution chain
+
+         Toolkit           Analytics & HIL:
+                           • Extensive analytics dashboard
+                           • Reporting
+                           • Human in the loop
+
+                           Scalable and configurable Data Pipelines:
+                           • Data preparation and cleansing
+                           • Data management
+                           • Multi content formats including HTML, Text, PDF, others
+                           • Multiple vector store support and scaling
+
+                           Deployment:
+                           • Public or private or hybrid cloud deployment
+                           • Full Source code availability (MVP)
+                           • Royalty free license granted to client                                     9
+Client ROI and Investment
+                                                  Agent Assist—Smart Search
+
+                                                                  ~ $180M agents costs baseline
+                                                                  Assumptions
+                              Total agent cost                     • # agents: 5000
+                                                                   • Cost per minute: 30cts/min
+                                                                   • Time worked: 40h/w, 50 weeks/y
+
+
+                                 Savings by                       ~ $18M savings potential
+
+
+
+
+                                                                                                                         Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                 improving                        Assumptions
+                                 efficiency                        • % efficiency gains: 10% overall
+Example ROI
+
+$33M savings on                               Agent Assist Bot & Self Service Bot
+contact center                                                    ~ $180M agents costs baseline
+operating costs                                                   Assumptions
+                                                                   • # agents: 5000
+                              Total agents cost                    • Cost per minute: 30cts/min
+Assuming 5000 agents in                                            • Time worked: 40h/w, 50 weeks/y
+North America
+                                                                  ~ $15M savings potential
+Longer term up to 45% total                                       Assumptions
+                                 Savings by                        • % call deflection: 15%
+cost reduction                    boosting                         • % calls fully virtualized: 30%
+                                   digital                         • % efficiency gains with co-bot: 50%
+                                  channels                         • % interaction length reduction: 30% (through
+                                                                      pre-authentication, intent understanding …)
+
+                                                                                                                    11
+Knowledge AI as a rapidly-deployable toolkit accelerates time-to-value by enabling BCG case
+teams to pilot, validate hypothesis and track value faster
+                                                                                                                     3     Pilot & Scale
+                       1     Diagnostic                                2     Detailed Solution Design
+
+                            Estimate of potential value and       Prioritized solution roadmap with savings,          Value capture and tracking from
+                           hypothesis / levers to drive value             costs & resource requirements                     prioritized initiatives
+
+
+
+
+                                                                                                                                                                   Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                       ~2–6 weeks                                     ~8-10 weeks                            Initiative Dependent
+
+                   •   Baseline financial assessment              •   Detailed solution development to          •   Design mini tests / pilots
+                   •   Detailed call driver breakdown                 identify specific initiatives:                and associated KPI goals
+     Focus Areas
+                   •   Side by side agent interviews and               – Granular savings estimates             •   Expand mini tests to phased rollouts
+     People,           call listening's                                – Costs (opex and capex) for             •   Adjust labor requirements in
+     Process       •   Development of shrink waterfall                   execution                                  collaboration with workforce
+                       to assess employee utilization                                                               management to realize savings
+     & Finance                                                         – Resource and subject
+                   •   Industry benchmarking vs key                      matter expertise                       •   Rollout additional intents to capture a
+                       metrics (AHT, utilization, CSAT)                  requirements                               higher number of calls
+                                                                       – Executive buy in / sponsorship         •   Ongoing financial tracking
+                                                                       – Articulating KPI targets
+                                                                       – Define target architecture across
+                                                     Double-Click On Next Slide: Commercial uplift enabled by Knowledge.AI
+
+     Focus Areas   •   Decide on cognitive options: smart         •   List of AI/ Automation initiatives with   •   Build MVP and launch in select
+                       search, voice, chatbots, agent assist          PoC as need                                   markets and/or segments
+     Tech          •   Technology stack review (CRM, IVR,         •   Member journey map, conversation          •   Conduct mini tests, track associate
+                       telephony)                                     flows for MVP                                 KPIs, refine initiatives
+                                                                  •   Technology Implications and target
+                                                                      architecture
+                                                                                                                                                              12
+Knowledge AI as a rapidly-deployable toolkit accelerates time-to-value by enabling BCG case
+teams to pilot, validate hypothesis and track value faster
+                                                                                                                          3      Pilot & Scale
+                          1     Diagnostic                              2     Detailed Solution Design
+
+                               Estimate of potential value and     Prioritized solution roadmap with savings,              Value capture and tracking from
+                              hypothesis / levers to drive value           costs & resource requirements                         prioritized initiatives
+
+
+
+
+                                                                                                                                                                    Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                          ~2–6 weeks                                   ~8-10 weeks                                Initiative Dependent
+
+     Focus Areas      •   Decide on cognitive options: smart       •   List of AI/ Automation initiatives with       •   Build MVP and launch in select
+                          search, voice, chatbots, agent assist        PoC as need                                       markets and/or segments
+     Tech             •   Technology stack review (CRM, IVR,       •   Member journey map, conversation              •   Conduct mini tests, track associate
+                          telephony)                                   flows for MVP                                     KPIs, refine initiatives
+                                                                   •   Technology Implications and target
+                                                                       architecture
+
+
+
+
+               Knowledge AI-enabled                                      +3 FTEs                                 +5 FTEs                        +7 FTEs
+               Additional FTEs
+                                                                         Pilot Setup                             Pilot Rollout              Scaling & Tuning
+
+
+
+               Knowledge AI-enabled
+               Additional NCCs
+                                                                                         +$1.5M                                               +$3.0M
+                                                                                                                                                               13
+Demo
+Demo | Knowledge AI’s Cognitive Search and Conversational Chatbot (LLM/ALM*)
+
+                                            Cognitive Search Demo                  Conversational Chatbot Demo
+  Description                               Search tool for Call center agents     Chat with Insurance Policies, Google and a lot more!
+
+  Knowledge Sources                         Google Cloud Storage                   Combo of a Local data store and external APIs
+
+  Knowledge Domains                         PDF manuals for electronic devices     PDF Insurance policies, Google and a Math Calculator
+
+
+
+
+                                                                                                                                               Copyright © 2022 by Boston Consulting Group. All rights reserved.
+  Core LLM (for Reasoning,                  Allen Institute for AI’s ELMo/BiDAF    OpenAI’s GPT text-davinci-003
+  completion, summarization, etc.)
+
+  LLM # of params                           113 Million                            175 Billion
+
+  Semantic Vector Store                     Elastic Search                         FAISS
+
+  Embedding LLM                             Google Universal Sentence Encoder      OpenAI’s ada-002 Embedding
+
+  Human in the loop                         Yes                                    Yes
+
+  User Interface                            Web app + HITL + Analytics dashboard   Chatbot app + multi-domain augmentations
+
+
+
+
+  Click on screenshot to see a recorded
+  demo!
+  Password: smartsearch
+
+
+
+
+                                                                                                                                          15
+ *LLM: Large Language Model   ALM: Augmented Language Model
+Demo | Knowledge AI’s Conversational Chatbot (LLM/ALM*)
+
+ The demo highlights 4 key aspects of Generative AI critical to
+ the implementation of an enterprise solution:
+
+1.    Conversation: a powerful language model and other
+      technologies behind it make the chatbot feels very natural.
+
+
+
+
+                                                                         Copyright © 2022 by Boston Consulting Group. All rights reserved.
+      LLM* capabilities used: reasoning, embedding, question
+      answering, summarization and transformation
+
+2.    Question Answering: chatbot answers question precisely vs.
+      returning pages of text for the user to read through
+
+3.    Augmentation: chatbot augmented with private/public
+      knowledge domains including:
+        • Insurance Policies Info Lookup
+        • A mockup Customer Lookup API
+        • Google Search
+        • Math Calculator
+
+4.    Interpretability: the chatbot keeps track of how it’s
+      performing a specific task by using behind the scenes
+      detailed trace logs.
+
+
+*LLM: Large Language Model   ALM: Augmented Language Model
+                                                                    16
+Why BCG/X?
+                 We move fast
+                 We prioritize and build Generative AI use cases to deliver
+                 immediate value and accelerate your Generative AI journey
+
+
+                 We tailor our AI@Scale approach to your needs
+                 We start by understanding where you are in your journey, what your needs
+Our              are and tailor our approach to maximize outcomes for you
+
+differentiated
+                 We look beyond the algorithm
+approach         We know that 70% of the success comes from the people and we
+drives lasting   engage to enable your organization and transfer our knowledge
+
+
+
+
+                                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+impact for our
+                 We build lasting impact
+clients          We don't stop at design and ideation but have the capabilities to see
+                 the entire journey through with you, as a partner, side by side
+
+
+                 We always bring the best of BCG
+                 We engage the right people at the right time to ensure you always
+                 have the best support across academia, science, industry and tech
+                                                                                         18
+                                                                                         18
+What does Knowledge AI help a client do that they can’t do with OpenAI? What
+are its benefits?
+
+Our Knowledge AI toolkit is built to be vendor agnostic, so we leverage OpenAI and other Large Language Models (LLMs)
+vendors as needed including competitors like Cohere, Google, and Hugging Face…
+
+In any case, BCG/X believes that:
+
+
+
+
+                                                                                                                                       Copyright © 2022 by Boston Consulting Group. All rights reserved.
+ • 10% of a solution is the LLM/Models
+ • 20% is the IT integration and customization
+ • 70% is change management
+
+We don’t have to use Knowledge AI however; we believe Knowledge AI it has many benefits that we can leverage for our
+clients including:
+•   Ease of integration: the toolkit simplifies the process of incorporating LLMs into a final solution, allowing developers to
+    quickly leverage LLMs capabilities without having to spend time on the low-level details of LLM integration (e.g.: data
+    sources, additional LLMs beyond OpenAI).
+•   Improved productivity: by providing a higher-level of abstraction, the toolkit helps developers build applications more
+    efficiently, which in turn can result in faster time-to-market for new products and features.
+•   Customization: the toolkit offers customization options and configurations tailored to the contact center where we
+    initially deployed it, making it easier to adapt the LLM technology to their specific needs.
+•   LLM scalability: the toolkit addresses some scalability concerns, such as efficiently managing and optimizing LLM token
+    usage, it can help us build applications that can handle growth in user demand more effectively.
+
+
+                                                                                                                                  19
+Our offering goes beyond just providing a powerful tech; it's also about helping
+our clients successfully navigate the complex process of change management
+ In addition to the technical benefits of the toolkit, BCG/X bring a lot of value in terms of change management and
+ successful implementation:
+  •   Holistic approach: the solution is not just about providing a powerful technology like LLM, but also ensuring a smooth
+      integration and adoption within the organization. This includes addressing cultural, operational, and technical aspects
+      of change.
+
+
+
+
+                                                                                                                                     Copyright © 2022 by Boston Consulting Group. All rights reserved.
+  •   Change management expertise: BCG/X have extensive experience in helping organizations adapt to new technologies
+      and processes and scaling them. This expertise can be invaluable as they navigate the challenges of incorporating GenAI
+      into their existing workflows and systems.
+  •   User training and support: we can offer comprehensive training and support for end-users to ensure they can
+      effectively use the GenAI powered applications and maximize the benefits of the technology. This can include
+      workshops, documentation and/or ongoing support services.
+  •   Stakeholder engagement: BCG/X engages with key stakeholders across the organization to build consensus and support
+      for the implementation of GenAI solutions. This can help ensure that everyone is aligned and working towards a shared
+      vision of success.
+  •   Measuring success: we help our client define and track key performance indicators (KPIs) to measure the impact of the
+      solution on their organization. This can help them continuously improve and optimize their use of the technology.
+  •   Iterative improvement: we are committed to working closely with them throughout the implementation process,
+      regularly reviewing progress and making necessary adjustments to ensure a successful outcome.
+
+
+ Our offering goes beyond just providing a powerful technology; it's also about helping our clients successfully navigate the
+ complex process of change management, ensuring they can fully realize the value of GenAI in their organization.
+                                                                                                                                20
+The full value of GenAI solutions is only realized when weaving AI together with
+people. A tech solution is only the 30%, Change management is the 70%
+
+                                                                                 95% reduction in                                        94% search accuracy,
+                                                                                time-to-resolution                                           best-in-class
+
+                                                                      Highly Distinctive              Highly Distinctive
+
+
+
+
+                                                                                                                                                                                       Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                                                  INGESTION                 LLM-POWERED                        ACTIVE                  PERFORMANCE
+         Algorithms                                                PIPELINES                 KNOWLEDGE                      LEARNING WITH                ANALYTICS
+   10%   Generative AI models                                                                  SEARCH                            HIL
+                                                              80% of business data         9 out of 10 people              How to continuously       How to measure &
+                                                              is unstructured1             prefer to speak with            refine & control          monitor
+                                                                                           an live agent directly2         learning with             value-generation of
+                                                                                                                           human-in-the-loop         solution
+         Technology / IT
+   20%   Data platforms / Visualization tools / Integration
+                                                              OCR and NLP models
+                                                              allow PDFs, HTMLs
+                                                                                           AI-assist directs
+                                                                                           agents to the exact
+                                                                                                                           Human-in-the-loop
+                                                                                                                           continuously refines
+                                                                                                                                                     Performance analytics
+                                                                                                                                                     tracks gaps in
+                                                              and any other                page & paragraph                AI-generated results,     knowledge, and
+                                                              documents to be              they’re looking for             and can curate ‘best      precision of recalls to
+                                                              ingested                                                     answers’                  refine over time
+
+         Processes, People & Culture                          Content Management Portal:   Agent Assist Front-end:         Annotation Dashboard:     Accuracy & Precision KPIs:
+
+
+   70%   Data quality & availability / New ways of working
+         Embed model in business processes
+
+
+
+
+                                                                                             TRAINING & CHANGE MANAGEMENT
+
+
+
+                                                                                                                                                                                  21
+Human + AI is the right way to                                                               …unlocking 70% of value when
+create better businesses…                                                                    weaving AI together with people
+
+                                                                                                                10% Algorithms
+                                                                                                                    Generative AI models
+
+
+
+
+                                                                                                                           Technology / IT
+                                                                                                                20%        Data platforms
+                                                                                                                           Visualization tools
+
+
+
+
+                                                                                                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                                                    Processes, People &
+                                                                                                                70% Culture
+Sylvain Duranton – Global Head of BCG GAMMA | TED@BCG Mumbai                                                               Data quality & availability
+                                                                                                                           New ways of working
+How humans and AI can work together to                                                                                     Embed model in business
+create better businesses                                                                                                   processes
+
+https://www.ted.com/talks/sylvain_duranton_how_humans_and_ai_can_work_together_to_create_b
+etter_businesses
+
+
+
+                                                                                                                                                         22
+                                                                                                           Midjourney | "iceberg under the ocean"
+We can’t completely rely on ChatGPT/GPT3 or other LLMs from Cohere, Google
+
+For example, many limitations exist today with                      …however still a lot of good stuff to leverage there
+ChatGPT/GPT3
+                                                                   1.   We can leverage reasoning/skills vs. knowledge (e.g.: skills like
+
+
+
+
+                                                                                                                                             Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                                                        comprehension, instruction, extraction, summarization)
+1.   Both have no internet access
+                                                                   2.   We can leverage their massive infrastructure
+2.   Both model knowledge are outdated
+                                                                   3.   Ability to build something quick with it to demonstrate
+3.   They can’t ingest internal enterprise Knowledge
+                                                                        product market fit
+4.   They can’t easily use new skills or knowledge domains
+5.   No Interpretability; tracing back a specific answer
+
+
+
+
+                                Not all models are born equal so for a use case, we have to choose a
+                                     core LM model carefully and augment them where needed
+                                                                                                                                        23
+Knowledge AI leverages Augmented Language Models (ALMs) to provide state of
+the art reasoning and solutions to a large type of problem.
+
+
+     ALMs are LLMs with enhanced reasoning skills that can use tools to
+     elaborate their answers.
+
+
+
+
+                                                                                   Copyright © 2022 by Boston Consulting Group. All rights reserved.
+     Tools such as search engines, calculators, code interpreters, database
+     queries, APIs, etc. can help LLMs produce factual answers.
+
+     ALMs learn to reason, use tools and outperform regular LLMs on
+     benchmarks.
+
+
+
+
+                                                                              24
+Getting started: What we need from you for a pilot
+
+
+Resources                                                            Format             People
+                • Product Information                                                       Executive Sponsor – 10%
+                                                               Any ingestible format          – Eg. VP of customer support
+
+
+
+
+                                                                                                                                     Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                • Knowledge Articles / Q&As
+ Knowledge                                                      (PDF, HTML, Doc, ppt,
+                • Policies & scripts                               xls, txt, RTF…)          Head of site operations – 20%
+ material                                                                                     – To support with all operation
+                • Procedures/SOPs                                                               related questions
+
+                • Other (e.g. Tutorials, training material…)                                Data Analyst – 50%
+                                                                                              – To provide data as described
+
+
+                                                                                            IT Sponsor– 50%
+                • Agent search queries                                                        – To provide IT support
+                                                                  Any ingestible
+ Search &       • Website customer queries                        tabular format
+ Chat history                                                                               Agents
+                                                                     (csv, xls…)              – 2-4 teams
+                • Chat or chatbot conversations
+                                                                                            Interviews / focus groups
+                                                                                              – with training manager
+                                                                                              – with agents
+                                                                                              – with team managers
+
+
+
+
+                                                                                                                                25
+Omnichannel Contact Center Interactions with Knowledge AI
+KAI bots can directly engage the customers or take a backseat assisting voice and chat agents as needed
+
+
+                                       Traditional channels                                                                              Modern channels
+
+    Customer
+    service                                                             @                                                                         Web chat
+                                                                                                                                            SMS
+    channels
+                                                                      Email               Phone Call
+
+
+
+
+                                       IVR & Speech                              ACD1                                                     AMD2
+    Customer
+    contact                                                                                                  Phone              Chat
+                                                                                                             agents             agents
+    center
+
+
+                                                                                                                      KAI BOT
+
+
+
+
+                                                      CRM                                 WFM3                KAI Semantic Search        Content Management   CX management
+    Backend
+    systems
+
+
+
+
+1. ACD = Automatic Call Distribution       2. Automatic Messaging Distribution     3. Workforce Management                                                                         26
+                                                                                                                                                                              26
+

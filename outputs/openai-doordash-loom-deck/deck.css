@@ -223,6 +223,20 @@ h3 {
   max-width: 1280px;
 }
 
+.source-note a {
+  color: inherit;
+  text-decoration-line: underline;
+  text-decoration-color: #b7b7b3;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.source-note a:hover,
+.source-note a:focus-visible {
+  color: var(--graphite);
+  text-decoration-color: currentColor;
+}
+
 .screen-reader-status {
   position: fixed;
   width: 1px;
@@ -593,9 +607,19 @@ h3 {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 100% center;
-  transform: scale(1.9);
-  transform-origin: 100% 50%;
+  object-position: center top;
+}
+
+.role-card:nth-child(1) .role-photo img {
+  object-position: 58% 12%;
+}
+
+.role-card:nth-child(2) .role-photo img {
+  object-position: 60% 8%;
+}
+
+.role-card:nth-child(3) .role-photo img {
+  object-position: 64% 8%;
 }
 
 .role-card figcaption {
@@ -991,18 +1015,46 @@ h3 {
   text-align: center;
 }
 
-.person-card img {
-  display: block;
+.portrait-frame {
   width: 164px;
   height: 164px;
   margin: 0 auto;
   border-radius: 50%;
-  object-fit: cover;
-  object-position: center;
+  overflow: hidden;
   background: var(--linen);
 }
 
-.person-card > div {
+.portrait-frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  object-fit: cover;
+  object-position: center;
+}
+
+.person-card:nth-child(1) .portrait-frame img {
+  transform: scale(1.04);
+  transform-origin: 50% 40%;
+}
+
+.person-card:nth-child(2) .portrait-frame img {
+  transform: scale(1.04);
+  transform-origin: 50% 40%;
+}
+
+.person-card:nth-child(3) .portrait-frame img {
+  transform: scale(1.3);
+  transform-origin: 55% 43%;
+}
+
+.person-card:nth-child(4) .portrait-frame img {
+  transform: scale(1.1);
+  transform-origin: 50% 36%;
+}
+
+.person-card > div:not(.portrait-frame) {
   padding: 22px 22px 25px;
 }
 
@@ -1269,12 +1321,11 @@ h3 {
 
 .requirements-grid article {
   min-height: 390px;
-  padding: 40px 44px 42px 0;
+  padding: 40px 44px 42px;
 }
 
 .requirements-grid article + article {
   border-left: var(--hairline);
-  padding-left: 44px;
 }
 
 .requirements-grid h3 {
@@ -1324,6 +1375,120 @@ h3 {
   font-weight: 500;
   letter-spacing: -0.02em;
   line-height: 1.2;
+}
+
+/* === SLIDE 13: STANDOUT APPROACH === */
+.slide-13 {
+  background: var(--black);
+}
+
+.standout-shell {
+  display: flex;
+  flex-direction: column;
+  background: var(--black);
+  color: white;
+}
+
+.standout-header {
+  max-width: 1580px;
+}
+
+.standout-header .eyebrow {
+  color: #c7c7c7;
+  letter-spacing: 0.004em;
+}
+
+.standout-header h2 {
+  max-width: 1540px;
+  color: white;
+  font-size: 72px;
+  font-weight: 600;
+  letter-spacing: -0.038em;
+  line-height: 1.02;
+}
+
+.standout-strength {
+  color: #d0d0d0;
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: -0.012em;
+  line-height: 1.35;
+  margin-top: 30px;
+}
+
+.standout-strength b {
+  color: var(--dash);
+  font-weight: 500;
+  margin: 0 12px;
+}
+
+.standout-build-flow {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  border-top: 1px solid #5c5c5c;
+  border-bottom: 1px solid #5c5c5c;
+  margin-top: 68px;
+}
+
+.standout-build-flow article {
+  min-height: 254px;
+  padding: 34px 36px 36px 0;
+}
+
+.standout-build-flow article + article {
+  border-left: 1px solid #5c5c5c;
+  padding-left: 36px;
+}
+
+.standout-build-flow span {
+  display: block;
+  color: var(--dash);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.3;
+  margin-bottom: 22px;
+}
+
+.standout-build-flow h3 {
+  color: white;
+  font-size: 29px;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.12;
+  margin-bottom: 17px;
+}
+
+.standout-build-flow p {
+  max-width: 350px;
+  color: #b8b8b8;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: -0.008em;
+  line-height: 1.42;
+}
+
+.standout-close {
+  display: grid;
+  grid-template-columns: 120px minmax(0, 1fr);
+  align-items: baseline;
+  gap: 28px;
+  margin-top: 35px;
+}
+
+.standout-close small {
+  color: #ababab;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+.standout-close strong {
+  color: white;
+  font-size: 29px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
 }
 
 /* === PRINT / PDF === */

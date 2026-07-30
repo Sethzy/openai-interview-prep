@@ -1,0 +1,69 @@
+Case Study Response - IHH Healthcare Berhad
+IHH Healthcare Berhad is Asia's largest private healthcare group by hospital count, operating 80 hospitals across 10 countries with US$6.2B in revenue (FY2024). Singapore and Malaysia together account for 42% of group revenue, anchored by dominant leadership in high-margin medical tourism - foreign patients represent 18% of Singapore revenue and an estimated USD 500M+ across both markets in 2024. IHH is a strategic early adopter of clinical AI, having integrated specialized diagnostic platforms like Annalise.ai for radiology, established a global GenAI partnership with Virtusa to enhance clinical workflows and specialist productivity, and having allocated S$5M for sandbox AI deployments.
+
+What should IHH build and why?
+While IHH’s medical tourism engine is highly profitable, it relies on a manual coordination model that scales linearly with volume: increases in international patient volume require proportional increases in patient coordinators, medical interpreters, and insurance liaisons across time zones. By automating the manual coordination process, IHH would be able to beat industry-standard response times of 24-48 hours, thus improving conversion rates and enabling the business to scale without proportional headcount growth.
+
+OpenAI’s capabilities enable IHH to build a medical tourism concierge platform to automate and scale its international patient business. When a patient from China calls about cardiac surgery, a voice agent handles the inquiry in Mandarin, triages clinical needs, matches the patient to specialists across IHH’s network based on expertise and availability, generates instant cost estimates by querying IHH's proprietary hospital management system, Cerebral+, and books appointments - all in one interaction. Post-care follow-ups happen automatically in the patient’s language, with automated appointment scheduling and escalations where needed.
+
+Once successfully deployed, IHH can expand this platform to domestic patient engagement, network-wide operations intelligence (scaling Malaysia's proven Operations Command Centre globally with AI-powered demand forecasting and capacity optimization), and intelligent revenue cycle management (AI-driven charge capture and claims review, where 1% leakage reduction on $6.2B revenue would equate to $62M incremental profit annually).
+
+How might the solution work technically?
+In the proof-of-concept, Concierge and Follow-up Agents run on IHH’s infrastructure using the OpenAI Agents SDK, and query gpt-4o-transcribe, gpt-4o-mini-tts, and gpt-5.2:
+
+
+Simplified POC architecture diagram
+
+OpenAI Frontier becomes essential as the solution scales from the proof-of-concept stage to 80 hospitals across 10 countries by adding the enterprise management plane: agent-level governance with enterprise-wide scoped permissions (e.g., Concierge Agent reads Cerebral+ but cannot write), centralized audit trails across every agent action at every hospital, and human-in-the-loop escalation for complex cases; and managed hosting so IHH doesn’t need to build, maintain, and scale agent infrastructure internally.
+
+What are the risks or failure points?
+Integration with Cerebral+ (technical). The solution requires programmatic access to IHH’s proprietary Cerebral+ system - without APIs, there is no product.
+Premium patient rejection (adoption). Medical tourism patients are high-value, often older, and typically choose IHH for personalized care; they may perceive AI-driven interactions as a downgrade compared to a white glove human touch.
+Cross-border data transit (operational). OpenAI (excl. Azure OpenAI) offers Singapore storage-at-rest residency, but inference processing is only available in the US and in Europe, meaning that patient data would have to transit overseas during processing. The approval of IHH’s Data Protection Officer would be critical.
+Accountability gap (ethical). Though the Concierge is positioned as administrative, it may make judgments that blur into clinical territory. OpenAI’s ToS disclaim clinical liability, and IHH may not want to accept accountability for AI-generated recommendations.
+
+How would this company evaluate an AI vendor - and why might they not choose OpenAI?
+OpenAI’s wedge is multilingual healthcare voice (the integrated pipeline connecting speech recognition, reasoning on healthcare topics, and voice synthesis) supported by FDEs, with Frontier as a differentiated path to scale. Assuming IHH is bought into the potential of this concept, it would likely consider:
+Regulatory compliance. In healthcare, regulatory compliance is a precondition; any AI vendor handling patient data must clear data protection requirements before being evaluated on its merits.
+case studiesClinical outcomes. Healthcare boards typically require evidence that AI works in their clinical context before approving deployment at scale.
+Total cost of ownership. IHH’s board would compare building on the OpenAI API against purpose-built SaaS vendors like Ambience Healthcare.
+Vendor and product stability. Before committing to a multi-year contract, IHH would want confidence that the vendor, its product, its pricing, and its roadmap are stable.
+Systems integrator alignment. IHH’s partner, Virtusa, will have its own vendor preferences and technical expertise, which may or may not align with the AI vendor.                                                                                          
+
+There are two major reasons IHH might not choose OpenAI:
+No proven track record in multilingual healthcare voice. No peer-reviewed study validates this pipeline; IHH would be the first large healthcare group to deploy it, and healthcare boards are not typically comfortable being first.
+OpenAI provides building blocks, not a complete product. Though OpenAI can provide FDE support, the effort and cost from IHH and Virtusa to build, deploy, and drive adoption are likely to be substantial.
+
+However, IHH is not a typical healthcare company - they have deployed AI across at least 6 vendors, and have allocated S$5M for sandbox experimentation. The risks outlined above are real, but IHH has already demonstrated, repeatedly, that it is willing to invest in AI where the upside justifies the bet. A multilingual concierge platform serving a USD 500M+ medical tourism business that compounds across 80 hospitals, is precisely that kind of bet.
+
+
+
+
+
+Why this use case?
+[Structure - OpenAI uniqueness - vs. other labs and vs. “product” companies, industry readiness]
+Greenfield use case at the frontier of LLM capabilities - GPT-5.2 launched in December, likely isn’t being pursued by other AI companies
+Incorporates OpenAI’s strengths - healthcare, multi-lingual voice
+Suitable for direct build (vs. buy) - too niche for a dedicated product, but big enough for a large player to invest on their own
+Has revenue growth in addition to cost savings elements - changes the “buyer” conversation, a more compelling business case for a buying committee
+
+Why this specific company?
+AI native
+Appointed SI with track record of building custom solutions
+Strong use case fit
+
+Why now?
+Model capability - GPT-5.2
+Medical tourism recovery post-Covid - 2024, 2025
+Platform launch - Frontier
+
+
+
+Why gpt-4o-transcribe instead of gpt-5.2?
+
+Why gpt-4o-mini-tts?
+Steerable (e.g., personality) voice-to-speech
+
+Why would the board care about
+
+Agents SDK is the orchestration framework

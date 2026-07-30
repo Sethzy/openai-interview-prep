@@ -1,0 +1,3 @@
+display_name: "Documents"
+short_description: "Document management with markdown files, always-on entry documents linked through the documents table, and mutation/edit logs for CRM entrie"
+default_prompt: "Use documents for this workflow."

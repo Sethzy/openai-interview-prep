@@ -1,0 +1,1845 @@
+Gen AI in B2B Sales
+General Practice Materials - Teaser
+
+
+JULY 2023
+Introducing your GenAI in B2B Sales team
+
+
+
+
+    Phillip Andersen                           Basir Mustaghni                         Alfonso Abella                      Ignacio Hafner Roda
+Managing Director & Sr. Partner             Managing Director & Partner           Managing Director & Sr. Partner          Managing Director & Partner
+
+
+
+
+                                                                                                                                                             Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                       Johannes Goltsche                       Juan Martin Maglione                          Zina Seibert
+                                  Partner                             Project Leader                     Senior Knowledge Analyst
+
+                                                                                                                                                         1
+                 GenAI context and introduction
+                 Impact of GenAI and value-add in B2B sales
+Outline of the   BCG value proposition and credentials
+document
+                 How to start the journey
+
+
+
+
+                                                                  Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                              2
+     GenAI is already proving to be a game-changer
+     Productivity gains are real                                          Barriers to AI are lower                           Widely expected to create
+     and proven                                                           than ever                                          outsized value
+
+                                                                           Conversational UX eases human
+
+
+
+
+                                                                                                                                                                     Copyright © 2023 by Boston Consulting Group. All rights reserved.
+     55%                                                                   adoption
+                                                                           Same model can handle multiple
+                                                                                                                             ~$120B
+     faster completion of coding tasks                                                                                       expected global market size for
+     with higher success rate using                                        downstream tasks
+                                                                                                                             GenAI by 2030
+     GitHub CoPilot1                                                       Robust against unstructured,
+                                                                           unlabeled messy data
+
+
+
+     37%                                                                  2 months                                           ~$20B+
+     faster completion of knowledge                                       to 100M users for OpenAI ChatGPT,                  of committed VC funding for
+     work with comparable quality                                         the fastest product on record3                     Generative AI in the last three years
+     results using OpenAI ChatGPT2                                                                                           alone4
+
+1.    https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
+2.    https://joshbersin.com/2023/03/new-mit-research-shows-spectacular-increase-in-white-collar-productivity-from-chatgpt
+3.    Reuters, Yahoo! Finance, OpenAI                                                                                                                            3
+4.    Crunchbase, Pitchbook, BCG Analysis
+                 Generative AI
+                    ChatGPT +
+                    Others
+
+
+
+
+                                       Copyright © 2023 by Boston Consulting Group. All rights reserved.
+The Tip of     Foundation models
+the Iceberg…
+
+
+
+                                   4
+Foundation Models are an emerging paradigm for Artificial Intelligence, building
+upon prior advances in Deep Learning and Machine Learning
+
+                                      Power
+                                      (model's
+     Vast data access available for   parameters)
+                                                                                                   To be
+     training                                                                                    disclosed
+
+                                                                                      1.7 T         GPT-5
+     Computational power linked to
+     cloud services and specialized
+
+
+
+
+                                                                                                             Copyright © 2023 by Boston Consulting Group. All rights reserved.
+     hardware (GPUs)                                                        1.6 T     GPT-4
+
+                                                                 175 B
+                                                                            Switch
+                                                    1B   17 B               Transf.
+                                           0.3 B                 GPT-3
+     Innovation in algorithms:
+     Transformer architecture                 GPT-2 T-NLG
+                                           BERT
+
+
+                                                                                                    Time
+                                          Nov 2018    Feb 2020                        Mar 2023         5
+                                               Feb 2019          Jun 2020                           ~ 2024
+Generative AI refers to the application of foundation models in order to create
+original content across various modalities
+                                           PRETRAINING                                                  FINETUNING
+                                      • Several GB or TB of                                        • Very little data (few
+       Dat                              data needed                                                  MB) needed                      Task
+                                      • No labels needed                                           • Labels may be needed
+       a
+                                                                                                                                            Question
+                                                                                                                                            Answering
+
+                   Text                                                                                                                     Sentiment
+                                                                                                                                            Analysis
+                   Images                                                                                                                   Information
+
+
+
+
+                                                                                                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                                                                            Extraction
+                   Speech                                                Foundation
+                                                                                                                                            Content
+                   Structured                                              model
+                                                                                                                                            generation
+                   Data
+                                                                                                                                            Object
+                   Signals                                                                                                                  Recognition
+
+
+
+                                                                                                                                                          6
+Source: “On the Opportunities and Risks of Foundation Models”, Center for Research on Foundation Models, arXiv, 2021; BCG Analysis
+GenAI is more than just "generative" - it has a wide array of problem-solving
+applications
+
+Generative applications                                   Alternative applications
+
+     Text generation                                            Information synthesis
+     Write new text, from responding to factual queries         Organize and summarize existing data; intelligently
+     to composing creative narratives                           classify new items and retrieve existing items
+
+
+     Image generation                                           Tool integration
+     Create new images in a variety of mediums; refine          Learn and employ novel tools such as 3rd party
+     or combine existing images                                 applications and robotics
+
+
+
+
+                                                                                                                           Copyright © 2023 by Boston Consulting Group. All rights reserved.
+     Audio generation                                           Analyze Tasks
+     Create new audio, including composing music or             Break tasks into smaller components and identify the
+     imitating a person's speech patterns                       past way of tackling them
+
+
+     Multimedia generation                                      Function as agents
+     Create new content that combines several                   Combine several capacities to complete objectives,
+     generative capacities, such as videos                      such as analyzing a task and employing tools
+
+                                                                                                                       7
+    With these capabilities, Generative AI will disrupt end-to-end business models…
+
+
+
+                                                              Value proposition
+
+
+What we   Target segment(s)               Offering                  Go-to-market            Revenue model        Competitive advantage
+            Which customers      What do we sell and how do    What is our Go-to-market    How do we get paid?     How do we differentiate
+ offer       do we target?       we connect with customers?     model and channels?          Pricing model?         from our competition?
+
+
+
+
+                                                                                                                                                 Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                              Operating model
+
+
+How we       Business structure             Governance              Processes             People & capabilities         Ecosystems
+deliver   How are we organized & what      How do we steer What are our processes and     How do we leverage our How do we interact with
+               assets do we use?            our business?   roles and responsibilities?   people and capabilities? external partners?
+
+
+                              Shareholder value creation                     Societal impact
+                                                                              What value do we create for society and
+                              What impact do we have on shareholders?
+                                                                              what is our competitive advantage?
+                                                                                                                                             8
+…offering a wide range of possibilities to reshape all elements
+
+
+
+                              Unlock new target segments with an automated and
+     Value proposition        personalized approach
+                              Harness tacit knowledge to drive product innovation at
+                              increased velocity
+                              Enhance existing customer engagement models for sales
+                              and servicing
+
+
+
+
+                                                                                            Copyright © 2023 by Boston Consulting Group. All rights reserved.
+      Operating model
+                              Re-imagine org structure and collaboration models as
+                              skillsets shift
+                              Streamline manual processes to drive time-to-market and
+                              cost optimization
+                              ….
+                                                                                        9
+To drive business model innovation, focus needs to be on understanding the 3
+key features of GenAI rather than the underlying tech
+
+
+
+
+        No Code/Low Code                                                   “Infinite Memory”                                              Lack of Truth Function
+    With a convenient chatbot-like                                 Generative AI, trained on vast amounts                            As a probabilistic model, Generative AI
+interface, Generative AI democratizes                                of data, offers users access to an                               generates the most likely output to a
+
+
+
+
+                                                                                                                                                                               Copyright © 2023 by Boston Consulting Group. All rights reserved.
+access for all including those not well                               automated system that provides                                   query. This can sometimes create
+versed in tech. “English is the hottest                            seemingly infinite memory and acts as                             hallucinations i.e., outputs completely
+new programming language” according                                   a knowledgeable personal aide2                                     separated from objective truth
+         to Andrej Karpathy1
+
+
+
+
+                                    Defining features that will drive Business Model Innovation
+
+Note: 1. Andrej Karpathy is a premier computer scientist and one of the founding members of OpenAI 2. While not technically infinite, GPT-3 was trained on
+~500 billion tokens, which gives users an impression of an "infinite memory" database
+                                                                                                                                                                          10
+Gen AI will not replace AI, but rather seamlessly incorporate it to improve
+enterprise capabilities across the value chain…
+
+          Generative AI is complementary to AI & ML offerings                                              Implications
+
+
+                                      Generative AI
+                                       • Step-change in ability of models to summarize,       Gen AI extends AI capabilities…
+                                         categorize and generate language
+                                                                                               • …by simplifying user interfaces, embedding in
+                                       • Generation of novel examples by learning                workflows and enabling efficiency and
+                                         patterns in the data it is trained on and ability       effectiveness across industries
+                                         to work with other media than just
+                                         text/language
+                                       • Creation of true conversational user interfaces,
+
+
+
+
+                                                                                                                                                       Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                         giving rise to new class of applications
+                                 AI                                                           AI use cases will persist….
+                                                                                               • ...such as attribution modelling, budget
+                                  • Human-led programming sometimes constrained by
+                                                                                                 allocation, personalization, and forecasting.
+                                    predefined rules
+                                  • Performance restricted to tasks within the programming
+                                    scope
+                          ML
+                          • Algorithms designed to analyze vast amounts of data and infer     ML allows AI to learn and improve accuracy…
+                            correlations and causations                                        • …by allowing AI to find and learn patterns in data
+                          • Provides the fuel to enable AI to autonomously improve outcomes      without being explicitly programmed
+                                                                                               • …by helping AI make informed decisions based on
+                                                                                                 data with high degrees of accuracy
+Source: Forbes; BCG analysis
+                                                                                                                                                  11
+…with traditional machine and deep learning models performing better in
+specific use cases
+
+              GenAI is best suited for…                            ….while other AI techniques remain critical
+
+      Capabilities                    Use cases                      Capabilities                           Use cases
+
+     Information extraction   FAQs, Chatbot, Support
+                                                                                                   Retention management,
+1
+                              service, Sale and post-sale
+                                                              1•    Propensities
+     and summarization                                                                             x-sell / upsell, predictive
+                              advisory, policies, contracts
+                                                                                                   maintenance, NBA/NBO
+
+
+
+
+                                                                                                                                      Copyright © 2023 by Boston Consulting Group. All rights reserved.
+2•   Sentiment analysis       Text and voice mining to
+                              comprehend client's
+                              sentiment                                                            Segmentation, centroid
+                                                              2•    Clustering
+                                                                                                   distances, profiling
+3•   Generation               Text, conversation, audio,
+                              multimedia content, code
+
+
+                              Interpretation of images        •     Descriptive                    EDA, descriptive statistics,
+4•   Object recognition                                       3
+                              and video                             analytics                      visualizations and
+                                                                                                   dashboarding
+                                                                                                                                 12
+                                                                                   Personalization use case in next slide
+Personalization is a good showcase for how to use GenAI and augment
+traditional AI
+   Traditional AI                                                                                     Gen AI
+                                                                                                         Send SMS
+      Historical                                                                                                                             Customer
+    Customer Data
+                    Account                                                                              Telephone
+    Accounts
+                  interactions
+                                                 Predict best
+                                                  action to                                                             (Day 1)
+   Campaigns &    Billing &                                                                              Email
+    promotions payment method                     maximize
+                                                    CLTV
+   Incidences &    Channels
+      claims         data                                                                                Chatbot
+
+                                       • X-sell/Up-sell (probability to buy product
+
+
+
+
+                                                                                                                                                                Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                         X/upsell product X)
+                                                                                                         In-App
+                                       • Churn models                                                    Notification
+                                       • Personalization models (message, offer,
+                                         argument)
+
+                                                                                                                                  Powered by GenAI
+
+                                                                  Feedback activation performance
+
+
+
+
+                                                                                 Experimentation &        Action execution
+    Data & AI                                         Intelligent                                                                              Customers
+                                 360º Data                                       always-on AI-based            in Channels
+    Platform                                             engines
+                                                                                            actions     powered by Gen AI
+
+
+                                                                               Interaction outcomes                                                        13
+Our beliefs on how GenAI will continue to develop
+
+Many of today’s limitations will improve…
+    Most adoption barriers will eventually be solved (computing
+                                                                   Carefully evaluate partners today as no all
+    costs, data privacy concerns, domain specificity, ease of
+
+
+
+
+                                                                                                                      Copyright © 2023 by Boston Consulting Group. All rights reserved.
+1
+                                                                   are equal
+    enterprise workflow integration etc.)
+
+
+
+Key implementation imperatives will remain...
+    Significant expertise, testing & validation needed to build    Start experimenting early to learn,
+2
+    new solutions (avoid hallucination, optimize fine-tuning, …)   iterate and test
+
+
+
+Success drivers will get amplified...
+    Data is king. Best models will be those trained on highest     Get ahead of disruption, start today with
+3
+    volume of quality data. Players with best data will win        foundational bricks to be the disruptor
+
+
+                                                                                                                 14
+However, tech engines and foundations are not enough - people and process
+changes will ultimately drive the success or failure of Gen AI implementation
+
+
+
+                                                                      70%
+         10%                        20%
+
+
+Disruptive models           Technology stack                  Business & People
+
+
+
+
+                                                                                                          2022 by Boston Consulting Group. All rights reserved.
+     and tech               and foundations                    Transformation
+
+
+
+ … GenAI, AI/ML models,   … Model infra & MLOps, QA,     … business process reinvention,
+  disruptive tech (e.g.         data foundation,            adoption at scale, org &
+
+
+
+
+                                                                                              Copyright © 2021
+  blockchain), process      architecture design, App       operating model rewiring,
+      digitalization      integration, cloud migration
+                                                                people strategy          15
+                 GenAI context and introduction
+                 Impact of GenAI and value-add in B2B sales
+Outline of the   BCG value proposition and credentials
+document
+                 How to start the journey
+
+
+
+
+                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                              16
+Imagine a world where:
+1   Digital sales are managed and executed E2E without intervention
+
+
+2   Voicebots allow customers to engage with the company and
+    understand its products and solutions – and which work best for them
+
+
+3   Commercial and Marketing material is generated automatically at
+    10x the speed and personalized to the customer need
+
+
+
+
+                                                                            Copyright © 2023 by Boston Consulting Group. All rights reserved.
+4   AI identifies and proactively reaches out to potential customers with
+    personalized marketing content and recommendations
+
+
+5   Simulations and demos are personalized to client's context and
+    adjusted ad hoc automatically
+
+
+
+                                                                     17
+                                      1.   Sales co-pilot in human
+                                           assisted channels
+
+
+  Generative AI can    Sales
+                                      2.   Individualized sales onboarding
+                                           and training
+help B2B sales drive   augmentation
+                                      3.   Personalized engagement
+       productivity,                  4.   Complex solution design and
+     automate, and                         management
+
+
+
+
+                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+transform processes
+                                      5.   Digital Gen AI Seller
+                       Automation
+                                      6.   Gen AI Sales operations
+
+
+
+
+                                                                         18
+Backup | Detail on catalogue of use cases
+Sales co-pilot in human       • Increase productivity of client-facing sales teams ((Key) Account Managers, Inside Sales)
+assisted channels               – from account planning and management to delivering personalized engagement
+
+Individualized sales          • Deliver interactive sales onboarding and training solutions, adjusted to individual
+onboarding and training         personal objectives (case studies, customer negotiations, tools,…)
+
+                              • Provide tailored recommendations automatically to customers with personalised
+Personalized engagement
+                                content and messaging, increasing engagement and base monetization
+
+
+
+
+                                                                                                                            Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Complex solution design       • Analyze requirements and develop a customized complex solution addressing customer
+and management                  needs while assuring delivery and in-life accompaniment
+
+                              • Leverage AI (GenAI and traditional AI) to automate the E2E sales funnel in digital
+Digital Gen AI Seller
+                                channels for low complexity clients, enabling personalized content and journeys
+
+                              • Process massive volumes of (un-)structured customer information and extract
+Gen AI Sales operations
+                                meaningful insights to drive decision-making of sales teams and improve customer exp.
+
+    Sales augmentation    Automation                                                                                   19
+Use cases are composed of multiple elements to drive
+transformation change
+                          Sales onboarding          Personalized              Complex solution                                    Gen AI Sales
+Sales co-pilot            and training              engagement                design and mgmt.          Digital Gen AI Seller     operations
+ Account overview and      Dynamic onboarding        Re-ordering and           Multi-product solution    Personalized product       Build reports and
+ planning (social          for new sales hires       portfolio optimization    design to customer        simulation, demos,         dashboards for sales
+ media, web                (case studies,            for indirect channels     needs                     and product info           funnel management
+ monitoring, sentiment     customer negotiation                                                                                     and reporting
+ analysis and insights)    etc.)                     Personalized content      Delivery planning         Automatic digital lead
+                                                     creation                                            processing                 Contract management
+ Own and competitor's      Dynamic upskilling for                                                                                   and revenue
+                           the experienced                                     Contracting and           (Chat & Voice)
+ product knowledge                                   Trigger-based advice      solution management                                  assurance
+ and insights              team members
+                                                                                                         Sales bot for              Dynamic satisfaction
+                           Internal knowledge
+ Dynamic scripting                                                                                       self-service channels
+
+
+
+
+                                                                                                                                                                Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                           training, specifically                                                                                   surveys
+ Creation of Marketing     designed for every
+                                                                                                         Interactive (digital)      Contract
+ and sales material to     role's needs
+                                                                                                         product activation         summarization and
+ customer needs                                                                                                                     translation to plain
+                           Sales manager                                                                 (for end-user)
+ (e.g., pitches)                                                                                                                    language
+                           upskilling
+ Sales communication                                                                                     Adbot for lead
+ productivity (e.g.,                                                                                     generation
+ email, scheduling)
+ RfP responses and
+ contract drafting
+ Pricing intelligence
+
+                                                                                                          Sales augmentation            Automation         20
+B2B Sales is transformed across all dimensions through
+these GenAI use cases
+                                                            • Thorough understanding of customer needs and tailoring of value
+                                                              proposition and engagement model
+         Market & customer prioritization                   • Decision-support in demand forecasting, territory management /
+                 Gen AI Sales operations                      coverage, and customer segmentation
+
+                                                            • Effective sales methodology with adaptable GTM story
+                   Sales co-pilot in                        • Clearly defined, but personalized sales journey
+                   human assisted                           • Automation of large volume of leads with low complexity
+                       channels              Personalized
+                                             engagement
+                                                            • Increase of sales team productivity from enhancement and automation
+                                                            • Optimization of customer facing selling time vs. non-core activities
+
+
+
+
+                                                                                                                                      Copyright © 2023 by Boston Consulting Group. All rights reserved.
+ Commercial              Sales                Customer      • Accelerating time-to-market and responsiveness of sales teams
+                                                            • Maximizing L2S conversion by deeply understanding client's needs
+   model               execution           Lifecycle mgmt
+                            Complex solution design         • Relentless focus on CX Journeys effectively linked to X-/Up-Sell
+                               and management               • Enhance CX with optimized delivery and resolution of queries
+                                                            • Effective stakeholder identification and management
+                                                            • Increased touchpoint frequency and quality
+             Digital Gen AI Seller
+
+                                                            • Individualized training journeys for sales teams to upskill
+      Individualized sales onboarding and training          • Fully digital and standardized processes
+                       Enablement
+
+
+  Sales augmentation            Automation                                                                                       21
+As a result, the customer journey will significantly be personalized,
+automated, and accelerated along all phases
+
+              Discover                                  Learn                                   Try                                  Buy                         Use
+
+
+
+
+    Engagement through                     Assessment of exact needs               Acceleration of the lead via          Pre-filling of RfP responses       Sales advisor for x-selling with
+   personalized outbound                     and elaboration of the                     highly personalized                 and standard contract                  dynamic scripts
+ marketing, through different               possible solution, using                 trigger-based marketing            Purchase processing through
+     types of specifically                 automated AI sales advisor                        materials                 human assisted or self service         Proactive engagement for
+      designed content                                                                                                     channels with sales bot                   re-ordering
+
+
+
+
+                                                                                                                                                                                               Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                1                    2                    3                   4                  5                 6                   7                8                  9
+
+                       First visit of the website and            Elaboration of personalized          Problem solving and doubts           Interactive digital product
+                        onboarding, facilitated by              pain-points-based demo of the          assessment via different                    activation
+                        web-guides, chat bots and                     product / solution                channels (Chat & Voice)
+                         other type of automated
+                              online assistance                                                       Tailored solution design for
+                                                                                                           customer in hours
+
+
+
+
+Source: BCG analysis                                                                                                                                                                 22
+Use case prioritization | Sales co-pilot is a priority to drive value from GenAI
+
+Use cases have been assessed on 7 criteria…       …to identify high-priority applications
+
+                                                      High
+        Revenue increase
+                                                             Personalized engagement
+        Top-line opportunity                                                             Digital Gen AI Seller
+                                                                                                                  Sales co-pilot in human
+        Cost reduction                                                                                            assisted channels
+        Unnecessary spend
+                                                                                       Complex solution design
+                                                                                       and management
+        Efficiency
+        Output per unit
+                                                   Impact
+
+
+
+
+                                                                                                                                                 Copyright © 2023 by Boston Consulting Group. All rights reserved.
+        Investment ROI                                                                                           Gen AI Sales operations
+        Ratio of cost to expected revenue
+
+        Tech readiness                                                                                           Individualized sales
+        Infrastructure & process for GenAI apps                                                                  onboarding and training
+
+        Workforce readiness                            Low
+        Gen AI advocates and power users
+                                                             Low                                                                       High
+        Proprietary data considerations                                                      Feasibility
+        Low data security and privacy risks
+
+                                                                                       Sales augmentation              Automation           23
+                                                                                                                                            23
+As roles and responsibilities change, Commercial org capabilities will also have to
+evolve
+ Commercial                         Commercial
+ Organization Roles                 Organization Capabilities
+
+                      Demand Generation
+                                                      GenAI skills leveraged for real-time customer sentiment analysis
+Marketing
+
+
+
+
+                       Product Marketing
+                                                      Previous skills like SEO & SEM as prerequisites will be replaced by voice
+                      Marketing Analytics             and natural language AI interfacing and task automation
+
+                     Performance Marketing            Must-have: GenAI functional expertise as key cog in the org
+
+
+
+
+                                                                                                                                       Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                Marketing Comms and Events            Comms become lean and highly automated as productivity rises
+
+                     (Key) Account Manager            Relationship as key remains as GenAI supports tailored engagement and
+                                                      drives higher-qualified leads
+                          Inside Sales                GenAI-powered Sales advisor enhances productivity and product coverage
+Sales
+
+
+
+
+                                                      Shift to building deeper relationships and identify needs
+                 Customer service / success
+
+                 Solution design & architect          Generation of tailored solutions makes innovation and validation critical
+
+                        Sales Operations              Automation of admin and reports will drive focus on insight generation
+
+                                                                                                                                  24
+            Legend         Anticipated GenAI impact
+Transforming the sales function end-to-end with GenAI (combined
+with traditional AI)…
+
+
+
+    x2                 +30%                        x5
+   # Leads               leads
+                      management               Faster time to
+  generation
+                    capacity per FTE              market
+                                                                        … will translate
+                                                                        into substantial
+
+
+
+
+                                                                                                Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                        financial impact
+                                                                        for you—and
+               x2                      x2                 +50%
+                                                                        enhance the
+         sales rep                                       Lead to Sale
+                                  cross-sell
+        productivity            and up-sell lift
+                                                          conversion    experience of
+                                                             rate
+                                                                        your customers
+
+                                                                                           25
+                 GenAI context and introduction
+                 Impact of GenAI and value-add in B2B sales
+Outline of the   BCG value proposition and credentials
+document
+                 How to start the journey
+
+
+
+
+                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                              26
+We support all elements critical to making GenAI a reality – always with a clear
+focus on driving value for you through business and people transformation
+
+
+
+                                                                       70%
+         10%                         20%
+
+
+Disruptive models            Technology stack                  Business & People
+
+
+
+
+                                                                                                           2022 by Boston Consulting Group. All rights reserved.
+     and tech                and foundations                    Transformation
+
+
+
+ … GenAI, AI/ML models,    … Model infra & MLOps, QA,     … business process reinvention,
+  disruptive tech (e.g.          data foundation,            adoption at scale, org &
+
+
+
+
+                                                                                               Copyright © 2023
+  blockchain), process       architecture design, App       operating model rewiring,
+      digitalization       integration, cloud migration
+                                                                 people strategy          27
+  We can help you to deliver…
+
+                     10%         Disruptive
+                                 Models                     20%         Technology
+                                                                        Stack                          70%         Business
+                                                                                                                   Transformation
+
+
+
+
+                                                                                                                                         Copyright © 2023 by Boston Consulting Group. All rights reserved.
+            Define the most strategic models      Collaborate to define necessary             Deliver lasting capabilities and
+            based on what is already available    tech capabilities, developing and           assets, reimagining business
+value add   to you and what we can build          deploying on your existing                  processes while ensuring fully
+            together                              infrastructure                              enabled teams
+
+
+
+
+Guiding     •   What platform investments have    •   What capabilities does your tech    •    What is the vision for an AI-powered
+questions       you made?                             stack already have?                      sales organization?
+            •   What models do you already        •   What additional capabilities will   •    What traditional AI and Gen AI use
+                have available?                       it need to support each model?           cases support your desired business
+            •   What combination of traditional   •   How can we equalize the risks of         outcomes?
+                AI and Generative AI models is        applications you already have?      •    How do we adapt our ways of working
+                best suited to your strategic                                                  to make change sustainable?
+                goals?                                                                    •    How do we bring our teams along the
+                                                                                               journey?
+                                                                                          •    How should we approach training to
+                                                                                               ensure independence?
+
+                                                                                                                                    28
+  …in an approach ranging from holistic business transformation
+  to getting you the full value from existing platforms
+                    Scope
+
+                                  Holistic business
+                                  transformation                            Custom-built AI using data
+                                                                              extrinsic to platforms                      Fully leveraged native
+
+
+
+
+                                                                                                                                                          Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                                                          platform capabilities
+                            Most complex                                                                                                 Least complex
+
+        Change              Drive active change management and target organizational model with a focus on fully enabling teams and
+    management              delivering adoption for sustainable impact
+
+            UX &
+                            User experience optimization, emphasizing understanding the user and process, and workflow configuration
+    configuration
+
+Data management             Responsible AI approach to GenAI deployment, involving health checks and assessments, steering & measuring
+          & trust           impact and responsible AI oversight.
+
+    Co-building &           Introducing extrinsic data into AI use cases & bringing GenAI into
+      innovation            products
+
+      E2E process           Process re-engineering and
+   re-engineering           transformation leveraging GenAI
+
+                                                                                                                                                     29
+                                                               Tech infrastructure & models
+
+
+BCG can guide you through key technology considerations centered
+around model design and implementation
+                      Model design                                     Implementation
+
+
+
+
+                                                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+  What model         How do I design      How do I remain                    How do
+  should I use?      my tech stack?       safe and secure?                   I start?
+
+                     What capabilities    What areas of my             What are key things
+What are the main
+                     will I need within     architecture                to know before
+model archetypes?
+                      my tech stack?      support security?                 starting?
+
+                     What architectural   What changes are             Do implementation
+ How do I identify
+                      design aligns to    required to safety           risks exist, and how
+ the best option?
+                     each model type?      manage Gen AI?              can I manage them?
+
+   How can I         How can vendors
+compare the top        support my
+market solutions?      tech stack?
+
+                                                                                              30
+                                                                                               Tech infrastructure & models
+
+
+How do we select the appropriate platform & model fit for you?
+
+Key steps                  What is it?                                           How will we select?
+1   Select platform &      •   A platform is a service provider which delivers   Via a systematic set of questions to help
+                               all cloud services under one roof                 guide best-fit for your context:
+    model provider         •   Enables build, training & deployment of           • Partner preference (platforms in use)
+
+
+
+
+                                                                                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+    Shortlist platforms,       foundational Gen AI models and scale them         • Geographical presence (location of client)
+    model providers that       Examples include Google vertex, AWS Bedrock,      • Hosting capabilities (support on-prem,
+    are appropriate for        Intel                                                 multi-cloud)
+                           •   A model provider allows access to Gen AI          • Portability provisions
+    client context
+                               models via APIs (integrated SaaS platforms)       • Security considerations
+                           •   Examples include Anthropic, Open AI               • Managed service capabilities (FM Ops
+                                                                                     etc.)
+                                                                                 • Cost
+
+
+2   Select model           •   A model is a system that can perform complex      Via a systematic set of questions to help
+                               cognitive tasks and returns text, images or       guide best-fit based for a use case:
+    Select model(s)            other media in response to the prompts it         • Type of output (text, media etc.)
+    based on the given         receives from the user                            • Model capabilities & complexity
+    use case fit           •   Example – Claude, GPT-4, PaLM, Bridge Tower       • Performance (speed vs accuracy)
+                                                                                 • Ability to fine-tune
+                                                                                 • Portability
+                                                                                 • Responsible AI considerations
+                                                                                 • Cost & compatibility with platforms
+                                                                                                                              31
+                                                                                                                As of June 6th
+                                                                                                                                                                                        Tech infrastructure & models
+
+
+       Platform & Model Provider selection | Fact sheet for decision making
+                                                                                                                                          Platform Providers
+            Non-exhaustive                                                    Google                                 Azure Open
+                                                                                               AWS Bedrock                                      Intel                Scale AI    Open AI             NVIDIA          Hugging Face
+                                                                              vertex                                     AI
+                                          Does it serve all
+              Geography                   geographies?                                                                                       Except OFCA
+        1                                                                                          Only in US               TBC               sanctioned               TBC                              TBC            Multiple Geo2
+
+                                          Does it support on-prem
+        2     Hosting                     /private cloud hosting?                                                                           All cloud & on                                                              Managed by
+
+
+
+
+                                                                                                                                                                                                                                                Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                                                                                                                                Public & private
+                                                                            Private cloud        Private cloud         Private cloud             prem                 In VPC                         cloud4             Huggingface
+              Cloud                       Does it support cloud
+        3                                 portability?                   Only AI models (not                                                                                                        Via Container       Supports multi
+              portability                                                     adaptor)                                                                                 TBC                          orchestration         providers
+                                          Can the solution be
+              Multi-Cloud                 deployed on more than
+        4
+              Support                     1 cloud environment?                   TBC                                                                                   TBC          TBC                 TBC                  TBC
+
+
+              Multi-tenancy               Is it multi-tenanted?
+                                                                                                                                                                                                                       Pub, prot. & pvt
+        5
+                                                                         On Enterprise tenant On Enterprise tenant On Enterprise tenant                                TBC          TBC                 TBC               endpoint3
+
+              Managed                     Does it offer E2E
+        6     Solution                    managed services1?
+                                                                                                                                                                                                        TBC
+                                          Does it offer
+                                          enterprise-level perime
+        7     Security                    ter security and data   Enterprise grade                                     Review Data    Potential access to                        Review data                            Pvt. links to
+                                          privacy ?                   security                        TBC            privacy opt-outs   tokenised data                 TBC         privacy     Enterprise grade          endpoints
+                                          Is the platform
+                                          compliant with
+        8     Responsible AI              Responsible AI
+                                          guidelines?                                                 TBC                                                              TBC          TBC                 TBC                  TBC
+
+
+1.   E2E managed services relate to offers/capabilities provided by platform including model garden, ability to train on customer data, FMOps and DevOps tooling,
+     technical & trouble shooting support, high SLA on model quality & monitoring; 2. AWS in us-east-1 (N. Virginia) & eu-west-1 (Ireland) and on Azure in east us
+     (Virginia) ; 3. Endpoint runs in a public or private Hugging Face subnet depending on deployment option; 4. Supports container orchestration , multi-cloud,       Legend:    Yes          No             Yes, but limited            N/A
+     hybrid cloud (https://resources.nvidia.com/en-us-nvidia-ai-enterprise/nvaie-overview)
+Source: https://resources.nvidia.com/en-us-nvidia-ai-enterprise/nvaie-overview
+                                                                                                                   As of June 6th
+                                                                                                                                                                                                Tech infrastructure & models
+
+
+          Model selection | Model Fact sheet for decision making                                                                                                                                        Legend:           Yes           No
+
+
+                                                                                                                                    Jurassic 2                                                                                          Aleph
+                                                                                 Anthropic                          Open AI                          Amazon          OpenAI            Stable             Meta
+                                                                  PaLM2                            Cohere                           (AI21                                                                                Bloom          Alpha:
+                                                                                 Claude                             GPT-4                            titan           DALL-E2           Diffusion          LLAMA
+        Non-exhaustive                                                                                                              Labs)                                                                                               Luminous
+
+                                   What outputs does it                                                                                                                                                                   Multi-Mod
+    1      Model output            generate?
+                                                                  Multi-Modal         Text              Text        Multi-Modal         Text             Text            Image             Image          Multi-Modal
+                                                                                                                                                                                                                              al
+                                                                                                                                                                                                                                         Multi-Modal
+
+
+                                                                                                       Cohere
+                                                                                                    xlarge 52.4B      GPT 1T9       J1 Jumbo v1                                                            LLAMA 65B                       Luminous
+                                                                                                                                                                      DALL-E2 3.5B
+                                   What sizes of the                              Anthropic LM         (other          (other       178B (other                                             Stable           (other         Bloom        supreme 70B
+    2      Model Size              model are available?
+                                                                   PLM2 540B
+                                                                                      52B             models:         models           models
+                                                                                                                                                     Amazon titan     (other models
+                                                                                                                                                                                         diffusion v2        models          176B       (other models
+                                                                                                                                                                           12B)
+
+
+
+
+                                                                                                                                                                                                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                                    13.1B,6.1B,        175B)         17B,7.5B)                                                            33B,13B,7B)                      30B,13B)
+                                                                                                       410M)
+
+                                                                                                      Semantic                                                                                                            Summariz
+                                                                  Summarize/                                         Summarize                                                                                                          Summarize/sol
+                                   What capabilities are                          Summarize/so      search/analy                    Summarize/s      Summarize/s        Produce           Produce         Summarize/s     e/solve/a
+                                                                  solve/analys                                         /solve/                                                                                                            ve/analyse
+                                   supported?                                      lve/analyse      se/summaris                     olve/analyse     olve/analyse       images            images          olve/analyse      nalyse
+                                                                       e                                               analyse
+    3      Model                                                                                          e
+           capabilities
+                                   How much content                                 100,000          4096 for         ~33,000
+                                   provided in prompts               8,000          (~75,000       representatio      (~32,000          8,192            TBC            1280-TBC           75-TBC          2048-TBC       2048-TBC        2048 -TBC
+                                   (tokens)                                          words)           n model          words)
+
+
+                                   How accurate is it?               High3            High2            High3            High4           High5            N/A              N/A               N/A              High6          Med7             High8
+    4      Performance
+                                   How fast is it?                   Med1             Med2              Low3            Med4            Low5             N/A              N/A               N/A              Med6           Med7             TBC
+
+                                   Is fine tuning
+    5      Fine-Tuning             possible?
+                                   Is it trained through
+                                                                                  Constitutional
+    6      Safety                  RLHF or                           RLHF
+                                                                                        AI
+                                                                                                        TBC             TBC             TBC              RLHF             RLHF              RLHF             RLHF           RLHF             RLHF
+                                   Constitutional AI?
+                                                                                                                                                                                                                             AWS
+                                   What are the                                                                                                                                                                             Azure
+                                                                                     Scale AI           AWS           Open AI           AWS                              Open AI            AWS
+    7      Compatibility           compatible                       Google
+                                                                                       AWS            Scale AI         Azure          Scale AI
+                                                                                                                                                         AWS
+                                                                                                                                                                          Azure         Hugging face
+                                                                                                                                                                                                              TBC           Intel            TBC
+                                   platforms?                                                                                                                                                                              Hugging
+                                                                                                                                                                                                                             face
+
+1. PaLM (540B) 2. Anthropic-LM v4-s3 (52B) 3. Cohere xlarge v20220609 (52.4B) 4. text-davinci-003 5. J1-Grande v2 beta (17B) 6. LLama-65B 7. BLOOM (176B) 8. Luminous Supreme (70B))
+Legend: Result based on Standard HELM, we use min win rate as classifier, High is between 0.7 and 1, Medium is 0.4 to 0.6, anything below 0.3 is low (medium win rate across natural questions, MMLU, BoolQ, NarrativeQA, QuAC, HellaSwag, Open/truthfulQA)
+Use case averages out win rate across: Question answering, summarization, Information retrieval) 9. Source : https://www.learnprompt.org/chat-gpt-3-vs-gpt-4/
+Source https://crfm.stanford.edu/helm/latest/?groups=1
+                                                                                                                  Business & people transformation
+
+
+   We will bring our end-to-end capabilities to transform your business with
+   Generative AI
+
+    Vision       We know how to reimagine your sales organization          Traditional   Generative
+                                                                                                            Tooling         Technology
+                                                                                                                                               People &
+   What we do    if you embed AI capabilities end-to-end by deploying:         AI            AI                                               partnerships
+
+
+
+
+                                                                                           Deep experience in AI & use case delivery                      1
+                                                                                           Proven AI methodology, excellence in strategy, data ownership &
+                                                                                           responsible AI, already delivering various GenAI sales use cases
+
+                           6    Vetted partnerships
+                               Bringing together the best of                                               Best-in-Class Next Gen Sales               2
+                               science, academia & industry
+
+
+
+
+                                                                                                                                                                Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                   through our partnerships                                                Best-in-class NGS capabilities leveraging AI and
+                                                                                                           industry-leading B2B commercial excellence
+Execution                                                                   Value
+  How we do it       5    Multi-disciplinary teams                       proposition
+                     Best-in-class multidisciplinary teaming                                               Speed to value          3
+                     across NGS, data science, engineering,
+                                              and developers                                               We deliver value at scale fast, supported by
+                                                                                                           proprietary tech assets to accelerate your journey
+
+
+                                                                                           Change management               4
+                                                                                           Ready-to-deploy playbooks to fully enabled
+                                                                                           teams for sustainable impact
+                                                                                                                                                          34
+                                                                                                                                                                                                                  Deep experience in AI
+
+
+
+        BCG is recognized as a leader in AI
+
+                                                                                      Stronger
+                                                                                     capabilities
+
+
+
+
+        2023 IDC
+        MarketScape:
+        Worldwide Artificial
+        Intelligence Business
+
+
+
+
+                                                                                                                                                                                                                                                        Copyright © 2023 by Boston Consulting Group. All rights reserved.
+        Services
+
+                                                                                       Weaker
+                                                                                     capabilities
+
+                                                                                                  Weaker strategy                                                                            Stronger strategy
+
+
+IDC MarketScape vendor analysis model is designed to provide an overview of the competitive fitness of ICT suppliers in a given market. The research methodology utilizes a rigorous scoring methodology based on both qualitative and
+quantitative criteria that results in a single graphical illustration of each vendor’s position within a given market. The Capabilities score measures vendor product, go-to-market and business execution in the short-term. The Strategy score
+measures alignment of vendor strategies with customer requirements in a 3-5-year timeframe. Vendor market share is represented by the size of the circles. Vendor year-over-year growth rate relative to the given market is indicated by a
+plus, neutral or minus next to the vendor name.                                                                                                                                                                                                    35
+Sources: "IDC MarketScape: Worldwide Artificial Intelligence Business Services 2021 Vendor Assessment", by Jennifer Hamel, June 2021, IDC # US46741721e
+                                                                                                                                          Best-in-Class Next Gen Sales
+
+
+We have industry-leading expertise                                                                             in B2B Commercial Excellence
+Recognized1 for depth and breadth of knowledge                                                                 … and shaping business leader opinions
+in B2B commercial business model topics …                                                                      via latest research and business publications
+
+Commercial Execution Channel, Category & Sales Mgmt.
+Depth of capabilities1
+       Alexander
+           Group                                                                           McKinsey
+                   Kantar Retail
+                                                                                 Bain &          PwC
+   The                   Blue Ridge Simon-Kucher                                 Company
+   Par-tnering                        & Partners          A.T. Kearney                                  EY
+                         Partners
+   Group                                      Bridge Strategy           Roland Berger               Deloitte
+                                   Solving              L.E.K.                 Accenture
+                   SBI                                                                       KPMG
+                                   Efeso     Kurt Salmon Capgemini Oliver         IBM
+  ZS Associates          Marakon                                       Wyman
+                    Lenati      North Highland       BearingPoint
+
+                                                                                    Breadth of capabilities
+
+
+
+
+                                                                                                                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Working with leaders across industries and segments (examples)
+
+
+
+
+1. ALM Intelligence (formerly Kennedy Consulting Research & Advisory)
+Source: BCG
+                                                                                                                                                                         36
+                                                                                                 Speed to value
+
+
+We deliver superior value fast by combining cutting-edge capabilities
+
+          Best-in-class                        Differentiating                       Unique
+          capabilities                         assets                                approach
+  Generative AI system design &        20+ suites of productized
+                                                                             Business & tech first
+  build                                components, including Gen AI
+                                       platform and application suite
+  Next generation Gen AI research,                                           Value-minded and disruptive
+  leveraging our Global AI Institute   22 patents issued (26 pending)
+                                       across industries
+                                                                             Laser-focused E2E teams with
+  Large scale engineering              Lighthouse: Proprietary data          entrepreneur mindset
+
+
+
+
+                                                                                                                       Copyright © 2021 by Boston Consulting Group. All rights reserved.
+                                       platform with 100+ data sources
+  End-to-end product Management        Launchpad: Own portal with            Reshaping processes & business
+                                       tooling, infrastructure, data,        models, driving op model change
+  Front-end design,
+                                       and services
+  human-machine interaction                                                  Bias for capability building and
+                                       7 Delivery Centers enabling           team empowerment
+  Responsible AI                       scalable build & run
+
+                                       Partner of choice of leading tech
+                                       players, academics and institutions
+
+                                                                                                                  37
+                                                                                              Change management
+
+
+
+We use a ‘build, operate, transfer’ partnership model to enable your teams
+from Day 1 and ensure lasting impact beyond our engagement
+Scaling of
+capabilities and
+                                                                                        Transfer
+agile teams                                        Operate
+over time
+                    Build
+                                                                                  Enable transfer of AI
+                                           Deliver high-value potential use       and pipelines
+                                           cases
+                                                                                  Ensure lasting
+            Define outcomes                Set up digital delivery@scale          capabilities and assets
+                                           mechanisms
+
+
+
+
+                                                                                                                                    Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                  Drive active change
+            Build use cases
+                                           Implement new methods and ways         management
+            Set up GenAI basics            of working                             Consider employee
+                                           Grow center and talent funnel          career path implications
+            Outline training needs
+
+
+                     SPEED                           SCALE                           SUSTAINABLE IMPACT
+            Vertical start,                     Teams learn by doing,          Teams fully enabled and operating
+   value is delivered immediately     solutions deployed, adoption maximized             independently
+                                                                                                                       38
+ Midjourney | "tools of the future"                                                            Midjourney | "tools of the future"
+                                                                      Multi-disciplinary teams
+
+
+
+BCG is not the typical consulting team.                …from business &
+We bring hybrid top-notch capabilities…                tech environments
+    Hardcore AI embedded in your data analytics team
+
+    Rapid experimentation and rapid scale-up                  Generative AI /NLP /
+                                                              NLU experts
+    Systems integrations & automation
+
+    Change Management                                         Full-stack web/app devs.
+                                                              UX/UI Designers
+     • New visionary processes
+
+
+
+
+                                                                                                      Copyright © 2023 by Boston Consulting Group. All rights reserved.
+     • Change incentives
+                                                              Data Scientists
+     • Ways of working                                        Data Engineers
+     • Decisions & action execution                           Machine Learning Eng.
+
+
+    Long lasting impact with full enablement                  Cloud Architects
+                                                              Software Engineers
+                                                              DevOps Engineers
+    Bringing the right people to minimize risk
+                                                                                                 39
+                                                               Vetted partnerships
+
+
+
+BCG Partnerships | Key partnerships to deliver value to our clients
+
+  Our ecosystem brings together collaborative teams and
+   solutions that help our clients and communities thrive.
+
+
+                                               IBM?
+                                               Figure it out
+
+
+
+
+                                                                                          Copyright © 2023 by Boston Consulting Group. All rights reserved.
+   Together, we do more to unlock the potential of those
+                 who advance the world.
+                                                                                     40
+                                                                                                                                                             Vetted partnerships
+
+
+
+BCG Partnerships | Key partnerships to deliver value to our clients
+
+
+
+
+  Partnership gives access to        Partnership allows companies              Partnership offers best            Partnership unlocks client           Partnership brings expertise
+latest GPT models & provides          to securely fine-tune GenAI           practices for scaling AI in the     value using GenAI and digital            in realization of highly
+ orientation on responsible AI       solutions with sensitive data              automotive industry             transformation opportunities           customized GenAI use cases
+
+                                                                                                                                                           Our collaboration with BCG
+
+
+
+
+                                                                                                                                                                                            Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                  When AWS partners with            Our partnership with BCG is
+ I am excited to announce a close       One of the things that we do is                                                                                allows us to help customers build
+                                                                                BCG, this is when we get the    pivotal in translating CxO business
+  collaboration between BCG and       we bring the tools for people who                                                                                  generative AI applications that
+                                                                              breakthroughs. […] When clients    priorities into effective strategy,
+  OpenAI to help our clients solve    are trying to build and train their                                                                                 require technology optimized
+                                                                              are working with BCG X and AWS        design, and implementation
+ the most complex challenges and      own AI models to make them more                                                                                  across the entire stack completely
+                                                                               together, they should expect a   programs that measurably benefit
+    unlock their full potential.                  productive.                                                                                              inside their chosen security
+                                                                                   seamless experience.                    our customers.
+                                                                                                                                                                    perimeter.
+
+
+
+
+     Christoph Schweizer                         Eric Boyd                             Julia Chen                      Kevin Ichhpurani                          Sandra Rivera
+     BCG | Chief Executive             Microsoft | Corporate VP of AI           AWS | VP of Partner Core)       Google Cloud | VP Ecosystems &          Intel | Executive VP & General
+            Officer                               Platform                                                                 Channels                    Manager of the Data Center & AI
+                                                                                                                                                                     Group
+                                                                                                                                                                                     41
+Sources:     Source                                Source                                Source                               Source                                Source
+Case Study | Conversational Sales Chatbot
+
+      Context                       Approach                                          Impact
+
+Large telecom player in           Automate sales process by using a GenAI     €2-6M sales uplift
+Europe aiming to improve          chatbot with conversational web-based       accumulated in 5 years
+digital sales channel             interface                                   facilitated by:
+                                  Define tech architecture & integration      • 20-30% of pro-active bot
+Deployment of multiple sales      requirements in to integrate with core        launches to suggest
+chat bots that provide            systems
+                                                                                customer specific offers
+reactive, static answers leads
+
+
+
+
+                                                                                                             Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                  Build out product recommendation logic,
+to high cost and                                                              • 80% of users interact with
+                                  commercial argumentation, hallucination
+unsatisfactory customer           control, multi-language mgmt.                 chat bot function
+experience.
+                                                                              • 2.8% conversion rate on
+                                  Deploy chat bot across different channels
+                                  and regions to replace existing chat bot      interactions with chat bot
+Goal to deliver cost-efficient
+conversational experience,        solutions
+which provides pro-active
+offers and is globally deployed
+                                                                                                       42
+      Case Study – European          GenAI features
+  telecommunications company
+
+
+
+
+                                                                                                                                            Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                              Products                   Commercial        Hallucination control     Multilanguage
+                                          recommendation                argumentation                                management
+Use case deep-dive:
+Conversational                       Addressed pain points                    Est. impact: €2-6M sales uplift accumulated in 5 years
+                                        Improved conversational
+Sales Chatbot                           experience - previously
+                                        static answers with little
+                                        dialogue
+                                                                                 20-30%                 Proactive bot launches
+                                        Integrated with core systems
+                                        – previously no transactional
+                                        functionalities
+
+                                        Proactive offers and
+                                                                                        80%             User interactions
+ Use case description:                  real-time channel events –
+                                        previously 100% reactive
+ Automate sales process by using a
+ GenAI chatbot with conversational
+ web-based interface
+                                        Integrated across different
+                                        channels, regions –                         2.8%                Conversion rate
+                                        previously multiple
+                                        independent bots
+                                                                                                                                       43
+                                                                                                                                       43
+Case Study | Digital Call Center Deployment via LLM
+
+      Context                       Approach                                            Impact
+
+Large telecom player in North     Establish vision to develop digital call      Identify levers to reduce
+America aiming to improve         center with on-the-spot self service,         cost by ~$35-40M p.a.,
+call center operations            proactive issue resolution and bionic         equivalent to 25% of total BU
+                                  agents
+                                                                                cost
+Large volumes of B2B calls        Define tech architecture & integration
+with inefficient routings leads   requirements in partnership with Google       Reduce call volumes with
+to need for large pool of         PaLM                                          in-build proactive resolution
+
+
+
+
+                                                                                                                Copyright © 2023 by Boston Consulting Group. All rights reserved.
+agents, delays in issue                                                         processes, IVR / app redesign
+                                  Conduct LLM analysis to parse through
+resolution and increased cost     call recordings and transcripts to surface    and on-the-spot call service
+                                  call insights (call categories and drivers,
+Goal to analyze call              sentiment analysis etc.)                      Maximize value of customer
+recordings with LLM to                                                          interactions by directing
+identify opportunities for        Identify prioritized call deflection
+                                                                                inquiries to the appropriate
+savings and higher customer       opportunities leveraging LLM to drive cost
+satisfaction                      savings                                       channel
+
+                                                                                                        44
+      Case Study – American           GenAI features
+  telecommunications company
+                                                                                                                                 Recording transcription: +90% of accuracy in speech
+                                                                                                                                 to text conversion
+                                                                                                                                 Translate insights into initiatives across 4 key
+                                                                                                                                 levers:
+                                                                                                                                 • Call deflected with upstream resolution tweaks
+                                                                                                                                 • Calls rerouted / solved with updated app (feature
+                                                                                                                                    augmentation) and IVR redesign
+                                                                                                                                 • On-the-spot resolution, e.g., direct transfer to Adv.
+                                                                                                                                    Solutions team
+
+
+
+
+                                                                                                                                                                                             Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                                                                 • Virtual assistants and chatbots at scale - calls to be
+Use case deep-dive:                                                                                                                 replaced with LLM models
+
+Call transcriptions                     Addressed pain points                                           Est. impact: 25% cost reduction of total BU cost
+insights to generate
+efficiencies                                    Long avg. handeling time of
+                                                incoming calls                                                           1M                             Calls processed
+
+
+                                                High volume of incoming calls
+                                                                                                                                    25%                          Less call transfers1
+
+
+ Use case description:
+ Analysis of call recordings or
+                                                Large number of transfers
+                                                                                                                                    30%                         Replace calls with LLMs2
+
+ transcripts with the use of LLM to
+                                                Low number of first call
+ identify call drivers, call intent
+ and call outcomes by customer                  resolutions                                                                         20%                         Reduce AHT3
+
+ clusters                                                                                                                                                                               45
+                                                                                                                                                                                        45
+                                      1 | 2 | 3: Estimations that could be achieved based on calls insights extraction. New projects need to be executed to achieve them
+Case Study | Customer Service Co-Pilot
+
+     Context                       Approach                                          Impact
+
+Large global bank aiming to      Develop integrated chat-bot function that   Deliver cost reduction of
+improve customer service chat    can interpret incoming customer messages    10-20% for running customer
+bot operations in Brazil         and provide response options for agents     service chat function
+                                 Build solution in two phases
+Customer service agents spend    Phase 1: Develop searchable knowledge       Customer service agents
+~50% of their time on            base, where agents can insert customer      spend 80% less time typing
+understanding the customer       request and receive a response
+
+
+
+
+                                                                                                           Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                 suggestions. Agents can provide feedback
+request and typing, leading to   to refine the model.                        Suggested answers enable
+delays in resolving requests     Phase 2: Integration in chat front-end      agents to understand 40%
+                                 enabling automatic suggestion of chat       faster the customer concern
+Goal to enable customer          responses that can be edited or instantly
+service agents to respond        send to customer.
+                                                                             Enhanced NPS through
+faster and more accurate in                                                  faster, more accurate
+the chat function to customers   Validate impact in pilot with selected
+                                 control group to measure improvements on    responses
+                                 avg. time required per request and NPS
+                                                                                                     46
+  Case Study – Latin American       GenAI features
+  financial industry company
+                                      1                                                   2
+                                                             Message is captured in                      Tool generates various responses
+                                                             the front-end and send                      automatically in the chat
+                                                             automatically to the tool                   • Agent can select to
+                                                             • No action needed                            (a) send suggested response
+                                                                 from agent                                (b) edit suggestion
+                                                                                                           (c) type new response
+
+
+
+
+                                                                                                                                            Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Use case deep-dive:
+Customer Service                    Addressed pain points                     Est. impact: 10-20% cost reduction for customer
+                                                                              service chat
+Co-Pilot                                  Customer service agent spend
+                                          ~20% of their time to understand
+                                          the customer issue                                           Faster comprehension
+                                                                                         40%           of customer concern
+                                          Customer service agents
+                                          spend ~30% of their time to
+                                          type a response
+ Use case description:
+                                          Response quality is highly
+                                                                                         80%           Less time spend typing
+ Support of customer service
+ agents through chat-bot that can         depended on customer
+                                          service agent
+ interpret incoming customer
+ messages and provide response
+ options for agents                                                                                                                 47
+                                                                                                                                    47
+                 GenAI context and introduction
+                 Impact of GenAI and value-add in B2B sales
+Outline of the   BCG value proposition and credentials
+document
+                 How to start the journey
+
+
+
+
+                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                              48
+Where to start? | We offer three approaches to igniting your
+Generative AI transformation
+
+
+
+
+                                                                                                           Copyright © 2023 by Boston Consulting Group. All rights reserved.
+  Explore & experiment                  Pilot execution             Full-scale transformation
+   Education on opportunity,
+        identification of          Iterative agile pilot approach   Transformation involving full
+  high-potential first use cases          to deliver value            suite of Gen AI use cases
+     and PoC, and scale-up                 incrementally                  across the funnel
+            roadmap
+         4-6 weeks approach               12-24 weeks project           12-18 months transformation
+
+
+
+                                                                                                      49
+                                                                                                              Explore & experiment
+
+
+
+Explore & experiment | Three complimentary phases to kickstart the GenAI
+capability build-up and realise initial results
+
+
+
+               Innovation workshops
+               Education and first exploration of Generative AI use cases                  Sprint to value with
+   Explore     based on potential impact, feasibility and fit within current AI            lighthouse use cases
+               strategy                                                              Incubate         Pilot              Scale
+
+               Targeted use case PoC deployment
+   Test &      Quick development of targeted GenAI use cases where impact
+
+
+
+
+                                                                                                                                          Copyright © 2023 by Boston Consulting Group. All rights reserved.
+   Deploy      and tech maturity have been demonstrated to generate                        Build the foundation
+               momentum
+                                                                                       Digital                  Data platform
+                                                                                       ecosystem                & architecture
+               Roadmap towards GenAI@scale
+   Scale &     Comprehensive transformation program planning, including                Talent &                Organization &
+   Transform   use case roadmap, overall investment & business case,                   capabilities            operating model
+               technology and operating model implications
+
+                          Develop & implement Responsible AI : rules, tools, processes, organization & trainings
+
+                                                                                                                                     50
+                                                                                                              Explore & experiment
+
+
+
+Explore & experiment | Key deliverables from first ignition phases
+
+
+
+              Explore                                  Test & Deploy                          Scale & Transform
+
+ •   C-suite education on opportunity           •   First prototype and proven impact    •   Overview of priority use cases,
+ •   Potential list of first set of use cases   •   Scale-up roadmap, investment case,       investment and business case
+                                                    people and technology implications   •   Assessment of starting point
+                                                                                         •   Recommendations for op model, and
+                                                                                             organization
+
+
+
+
+                                                                                                                                          Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                         •   Transformation roadmap incl.
+                                                                                             detailed workplan and governance
+
+
+
+
+                                                                                                                                     51
+                                                                                                                             Pilot execution
+
+
+
+Pilot execution | We identify the right GenAI use cases to create lasting impact
+at your sales organization
+                      Sprint 1: 2 weeks                                      Sprint 2: 4 weeks
+
+  1                 Idea sourcing                          2          Evaluation & prioritization                 Implementation
+
+
+              Your internal
+              ideas
+
+              Your belief                                                                                       Lighthouse use case 1
+              audits                                     Develop
+                                     Deliver initial      criteria
+                                     definition of                              Deliver            Develop      Lighthouse use case 2
+                                                            for
+
+
+
+
+                                                                                                                                                    Copyright © 2023 by Boston Consulting Group. All rights reserved.
+              Sales                  relevant use                            detailed view        roadmap
+                                                        evaluation:
+              perspective             cases with                            on top five use      for top five
+                                                          Impact
+                                       business                                  cases            use cases     Lighthouse use case 3
+                                                             +
+              Cross-industry         stakeholders       Feasibility
+              perspective                                                                                                …
+
+              Immersion
+              sessions
+
+
+                     3      Long-term outlook: Generative AI strategy and foundations                             Implementation
+Source: BCG                                                                                                                                    52
+                                                                                              Pilot execution
+
+
+
+Pilot execution | We take an iterative, agile approach to deliver value
+incrementally in a pilot
+
+
+
+                     Developing use case
+
+                                                              Experiment & hypothesis validation
+
+
+                                                Define        Iterative experimentation & scaling
+      Refining
+                                                customer
+  intelligence
+                                                touchpoints
+
+
+
+
+                                                                                                                     Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                         5 weeks to                           Collaboration & visibility across entire
+                           insight
+                                                              value chain impact
+
+                                                              Intelligence and model refinement based
+       Measuring &
+                                           Experimenting      on predicted customer impact
+         adjusting
+
+
+
+
+                                                                                                                53
+                                                                                                                                   Full-scale transformation
+
+
+
+ Full-scale transformation | Our philosophy for AI@Scale: start small,
+ demonstrate impact & build the tech stack with added complexity as you go
+
+                                              Scale and transform
+                                              organization
+
+                                 Deploy solution
+
+                 Build, test, iterate
+
+                                                                                                                         Successful B2B sales
+
+
+
+
+                                                                                                                                                                      Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Identify business opportunity                                                          ▪ New ways of
+                                                                                         working                          organizations can
+                                                                     ▪ Iterative       ▪ Refine business
+                                                                       technology        strategy in
+                                                                                                                         build 3-5 uses cases
+                                                ▪ Right design         scale up          lock-step                        per year once key
+                                                ▪ Practical          ▪ Purpose fit     ▪ Right organization
+                                                  applications of      Gen AI tools      and processes
+                                                                                                                          capabilities are in
+                           ▪ Business first
+                                                  Gen AI               and models
+                                                                                       ▪ Gen AI as BAU                           place
+                           ▪ Value focus                               from existing
+                                                ▪ Well defined Gen
+                                                                       technology
+                           ▪ Lean Gen AI          AI use cases
+                             technology
+
+                                                                                                                                                                 54
+                                                                                                              Midjourney | "Team climbing a mountain together"
+                                                                                                                                   Full-scale transformation
+
+
+
+ Full-scale transformation | Our philosophy for AI@Scale: start small,
+ demonstrate impact & build the tech stack with added complexity as you go
+
+                                              Scale and transform
+                                              organization
+
+                                 Deploy solution
+
+                 Build, test, iterate
+
+                                                                                                                         Successful B2B sales
+
+
+
+
+                                                                                                                                                                      Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Identify business opportunity                                                          ▪ New ways of
+                                                                                         working                          organizations can
+                                                                     ▪ Iterative       ▪ Refine business
+                                                                       technology        strategy in
+                                                                                                                         build 3-5 uses cases
+                                                ▪ Right design         scale up          lock-step                        per year once key
+                                                ▪ Practical          ▪ Purpose fit     ▪ Right organization
+                                                  applications of      Gen AI tools      and processes
+                                                                                                                          capabilities are in
+                           ▪ Business first
+                                                  Gen AI               and models
+                                                                                       ▪ Gen AI as BAU                           place
+                           ▪ Value focus                               from existing
+                                                ▪ Well defined Gen
+                                                                       technology
+                           ▪ Lean Gen AI          AI use cases
+                             technology
+
+                                                                                                                                                                 55
+                                                                                                              Midjourney | "Team climbing a mountain together"
+                                                                                                                                               Full-scale transformation
+
+
+
+    Full-scale transformation | Our approach takes commercial Generative AI from
+    stand-alone use cases to a coherent, organization wide transformation
+    Illustrative timeline
+                 Month 1              Month 4                    Month 6                   Month 9                   Month 12                Month 15                  Month 18
+                                                                                             Scale &
+                                      Develop            Pilot                             industriali                     Outside-in perspective on potential
+                                                                                               ze                          sequencing; to be validated through
+                                                        Use Case 1                                                                  Experiment phase
+ Outcomes:                                                                          Use Case 2
+    Use cases
+
+                                                                                                         Use Case 3
+
+                                        Stand up test                                                                                                Run use cases in
+
+
+
+
+                                                                                                                                                                                  Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Technology:          First ignition                                        Iteratively build Gen AI applications to support use cases
+                                          platform                                                                                                     production
+     Data and            phase
+       Digital                                                                       Iteratively define blueprint for future
+                                       Enhance data models & data flows                                                           Integrate outputs into legacy systems
+     Platform                                                                                state technology stack
+
+    Human:                                                                        Build capabilities (Re-skill, Up-skill, Hire)
+     Business
+                                         As needed, adjustments to org / op model
+processes and                                                                                            Continued enablement of cultural change across org.
+  capabilities                           Define, test & adapt agile ways of working
+        RAI:
+ Responsible                                                      Responsible GenAI oversight and go/no-go decisioning
+generative AI
+                                                                                                                                                                           56
+                                                                                                  Full-scale transformation
+
+
+
+Full-scale transformation | Our proven methodology overcomes key roadblocks
+to scaling GenAI capabilities, critically incorporating responsible AI oversight
+                                                                • Business model disruption assessment
+                                               Strategy         • Evaluation of the competitive landscape
+                                                                • Define near and long-term priorities
+              AI Outcomes
+                                                                • Data steering and definitions
+                                           Business ownership
+                                                                • Fit-for-purpose data
+                                                 of data
+                                                                • Data availability
+                                                                • Transform core processes
+                                             AI Outcomes        • Reinvent customer experiences
+                                                                • Disrupt business models
+                Strategy
+                                                                • GenAI model platforms
+                                                 Tech           • New architecture layers
+
+
+
+
+                                                                                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                • Pillars of GenAI technology response
+                                                                • Future work & change management
+       Tech                People               People          • Enterprise: Org redesign & op model rewiring
+                                                                • Individual: Roles & skills redesign
+                                                                • Data governance
+                                             Responsible AI     • Ethics and society considerations
+                                                                • Implementation priorities
+
+               Success at scale requires near-term value deployment while concurrently
+                            building long-term organizational AI capabilities                                                 57
+             The services and materials provided by Boston Consulting Group (BCG) are subject to BCG's Standard Terms
+             (a copy of which is available upon request) or such other agreement as may have been previously executed by BCG.
+             BCG does not provide legal, accounting, or tax advice. The Client is responsible for obtaining independent advice
+             concerning these matters. This advice may affect the guidance given by BCG. Further, BCG has made no undertaking
+             to update these materials after the date hereof, notwithstanding that such information may become outdated
+             or inaccurate.
+
+             The materials contained in this presentation are designed for the sole use by the board of directors or senior
+             management of the Client and solely for the limited purposes described in the presentation. The materials shall not be
+             copied or given to any person or entity other than the Client (“Third Party”) without the prior written consent of BCG.
+
+
+
+Disclaimer
+             These materials serve only as the focus for discussion; they are incomplete without the accompanying oral commentary
+             and may not be relied on as a stand-alone document. Further, Third Parties may not, and it is unreasonable for any
+             Third Party to, rely on these materials for any purpose whatsoever. To the fullest extent permitted by law (and except
+             to the extent otherwise agreed in a signed writing by BCG), BCG shall have no liability whatsoever to any Third Party,
+             and any Third Party hereby waives any rights and claims it may have at any time against BCG with regard to the
+             services, this presentation, or other materials, including the accuracy or completeness thereof. Receipt and review of
+             this document shall be deemed agreement with and consideration for the foregoing.
+
+
+
+
+                                                                                                                                             Copyright © 2021 by Boston Consulting Group. All rights reserved.
+             BCG does not provide fairness opinions or valuations of market transactions, and these materials should not be relied on
+             or construed as such. Further, the financial evaluations, projected market and financial information, and conclusions
+             contained in these materials are based upon standard valuation methodologies, are not definitive forecasts, and are not
+             guaranteed by BCG. BCG has used public and/or confidential data and assumptions provided to BCG by the Client.
+             BCG has not independently verified the data and assumptions used in these analyses. Changes in the underlying data or
+             operating assumptions will clearly impact the analyses and conclusions.
+
+
+
+
+                                                                                                                                        58
+bcg.com
+

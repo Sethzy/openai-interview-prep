@@ -1,0 +1,1151 @@
+Knowledge . AI
+AI Powered Solutions
+
+BCG's proprietary AI capabilities and toolkit
+that transforms how organizations find answers
+
+
+
+
+JULY 2023
+AGENDA
+
+
+01                      02                        03
+WHAT IS KNOWLEDGE.AI?   WHY SHOULD YOUR CLIENTS   HOW TO GET STARTED
+                        USE KNOWLEDGE.AI?
+01
+WHAT IS KNOWLEDGE.AI?
+
+
+
+
+Venture logo            3
+What is
+Knowledge.AI?
+
+
+
+ Proprietary AI offering      Customizable toolkit       In-field technology
+
+
+
+
+                                                                                    Copyright © 2022 by Boston Consulting Group. All rights reserved.
+Transforms how orgs         Accelerates build of      Successfully applied
+find answers from           Generative AI solutions   across global contact
+structured & unstructured   for your business         centers with many other
+data                                                  possible use cases!
+
+
+
+
+                                                                                4
+                              Conversation management
+                              Natural language processing to understand customer
+                              inquiries and generate near human-like interaction
+
+
+
+                              Semantic search
+
+
+
+
+                                                                                               Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                              Natural language search with efficient and easy to
+Knowledge.AI's core set       consume results using generative AI
+of capabilities can be
+customized & configured to
+                              LLM augmentation
+a broad set of applications
+                              Allows for addition of plugin tools such as calculators, code
+                              interpreters, and database queries to increase accuracy
+
+
+
+                              Develop & build GenAI use cases
+                              Create wide-ranging, innovative, and customizable use
+                              cases (e.g., doc. synthesis, reporting, personalization, etc.)
+
+
+                                                                                        5
+                                                                                                                                                             NON-EXHAUSTIVE
+
+Knowledge.AI is the toolkit to accelerate
+build of GenAI solutions across industries
+
+                                                  Financial                                                                                              Technology,
+Cross industry          Industrial Goods          Institutions             Consumer/Retail           Insurance                 Healthcare                Media & Telecom
+
+Call center             Defect detection          Fraud detection          Hyper-personalized        Claims fraud              Accelerated drug          Video and image
+optimization            Quickly identify issues   Generate realistic       marketing                 identification            discovery and design      annotation and search
+
+
+
+
+                                                                                                                                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Use natural language    in production process     synthetic datasets to    Create fully automated,   Create and summarize      Increase speed of data    Manage and edit
+search and chat to      and auto-generate         support testing and      AI generated and          incident reports and      flow through clinical     existing content to
+quickly respond to      production adjustments    facilitate anti-money    personalized              highlight risks           trial cycle times and     boost productivity
+customer inquiries                                laundering and           advertisements and                                  deliver breakthrough
+                        Workplace safety          payments fraud           packaging                 Insurance needs           therapies                 Media generation
+Content management      analysis & optimization                                                      assessment                                          Generate images,
+Increase customer       Reduce human error,       Trade decision support   Conversational shopping   Classify small business   Preventive healthcare     video, and audio using
+engagement with         automate tasks, and       Increase gains and       Browse and shop           risks based on            through predictive        generative AI that is
+tailored products and   provide employees with    control losses with      through natural           comparison leveraging     models                    personalized to
+services                real-time feedback to     advice based on news,    language conversation     updated employment,       Understand risks and      consumer interests
+                        review & improve          performance, financial   with a generative AI      exposure data, etc. to    potential paths of
+Document synthesis      workplace safety          statements, etc.         assistant                 suggest amended           disease progress to       Code generation and
+Distill lengthy                                                                                      coverage                  design more effective     bug detection
+documents into brief    Industrial                Credit decisioning       AI-generated product                                care                      Program/app
+key points              product design            Reduce human capital     development               High-net-worth                                      generation from text
+                        Generate virtual          costs and inform         Generate preliminary      collections value         Patient screening and     and automated logic
+                        product designs based     lending decisions with   sketches for product      assessment and risk       on-demand, personal       testing to ensure
+                        on product parameters     suggested approvals      design and marketing      engineering               care                      accuracy and security
+                                                                           campaigns                 Generate estimates of     Support diagnosis of
+                                                                                                     collection value and      serious health
+                                                                                                     questions for             conditions before usual
+                                                                                                     underwriter to ask        clinical symptoms
+                                                                                                     based on input data       through pattern
+                                                                                                                               recognition
+                                                                                                                                                                               6
+                                      Knowledge.AI toolkit supports numerous
+                                      LLMs and providers…
+
+
+
+
+                                                                               Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Knowledge.AI's core framework can
+support innovation through
+configuration - empowering teams to
+select & configure LLMs based on
+business need and use case
+
+
+
+                                      …BCG's engineering team will work with
+                                        you to determine the best model for
+                                                                your needs!
+                                                                         7
+02
+WHY SHOULD YOUR CLIENTS
+USE KNOWLEDGE.AI?
+
+
+
+
+Venture logo              8
+The Need
+Companies have massive volumes of
+
+
+
+
+                                          Copyright © 2023 by Boston Consulting Group. All rights reserved.
+structured & unstructured data that
+are not accessible or searchable
+without costly manual efforts to
+clean, curate, and transfer data
+into structured databases
+
+GenAI solutions can help
+
+                                      9
+Value Proposition | Knowledge.AI is a customizable and enterprise-grade toolkit
+that accelerates companies’ speed-to-value
+
+
+
+
+                                                                                            Copyright © 2023 by Boston Consulting Group. All rights reserved.
+  Accelerate Value             Enterprise Ready               Service Agnostic
+• Increased speed-to-market   • Secure, modular             • Adapt KAI to company
+  through modular GenAI         infrastructure integrated     specific needs through
+  toolkit                       across your enterprise        innovative use cases using
+• Increased speed-to-value    • Best-in-class compliance      a variety of public and
+  through robust analytics      reduces operational risk      private LLMs, plug-ins, and
+  engine & reduced                                            cloud providers
+  development time
+
+                                                             Azure OpenAI Service      10
+BCG has the keys to AI-driven value capture…                             …by providing E2E GenAI tech
+                                                                         & strategy solutions
+                     We set a high ambition for value creation, driven
+                                                                                 Algorithms
+   Strategic Value   by GenAI capabilities, but rooted in your
+                                                                                 Generative AI models
+                     fundamental business strategy
+                                                                         10%
+                                                                                 +LLM partners
+                     Our E2E capabilities allow us to deliver quickly,
+   Acceleration      accelerating value
+
+                                                                                 Technology / IT
+                     BCG X builds, deploys, and drives end-to-end
+   Technologists     GenAI development, accelerating results
+                                                                                 Digital build capability
+
+                                                                         20%     Data platforms
+
+
+
+
+                                                                                                                 Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                 Digital UX integration
+
+                     70% of value creation lies outside the
+                     technology; our classic BCG teams understand
+   Enablement        change management, organization & process
+                     redesign
+                                                                                 Processes, People & Culture
+                                                                                 Business processes
+                     Our AI governance approach, framework for
+   Responsible AI
+                     decision making, and tools to monitor
+                     responsible use of AI while achieving
+                                                                         70%     Organizational design
+                                                                                 New ways of working
+
+                     transformation business impact, reduces risk
+                                                                                                            11
+    Knowledge.AI delivers strategic value to clients by providing a fully customized
+    and configurable technology solution
+                               Cloud and vendor agnostic model and flexible integration with any NLP model (e.g.:
+                AVOID VENDOR
+                               Cohere, OpenAI/GPT3); the optimal model can be selected based on business need
+                LOCK
+                               and use case
+
+                MEASURE        Digestible analytics dashboard allows for easy performance tracking across defined
+
+
+
+
+                                                                                                                            Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                VALUE EASILY   success metrics
+
+
+
+                INCREASE       Built on a closed domain system, allowing close control of the knowledge that the AI
+                CONTROL        learns from
+Strategic
+ Drivers
+                ACCELERATE     Ready-to-implement toolkit that has been successfully deployed at scale and can pilot
+                VALUE          to quickly demonstrate value and validate hypotheses
+
+
+                               Upload curated content into AI responses and allow users to actively train model
+                CONTINUOUS
+                               (human-in-the-loop) leading to higher response accuracy than human-alone or
+                IMPROVEMENT
+                               machine-alone
+
+                ENSURE         Best-in-class AI and data science that is competitive in today’s market and trained
+                ACCURACY       using proprietary techniques that result in the high response accuracy
+                                                                                                                       12
+                                                                                           Tech
+                                                                                           Value
+                                                                                           Prop
+
+
+    Knowledge.AI's broad customizability accelerates best-in-class solutions across
+    client ecosystems and sectors
+1    Standard apps enable high
+      levels of out-of-the-box
+            functionality
+                                               1                     2
+
+
+
+
+                                                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+2       Custom apps lead to
+       continuous growth and       4       3
+     innovation in product suite
+
+
+3       Several built in and                                             5
+     configurable core services
+                                                                             4
+      underpinned by security
+       and integration layers
+
+
+4    Exceptional configurability
+      & customization through
+      use of a variety of public       4                         4
+       LLMs and private LLMs
+
+
+5    Analytics layer bubbles up
+     insights and enables quick
+          identification of
+           knowledge gaps
+
+                                                                                      13
+K.AI CASE VIGNETTE
+Optimizing speed and accuracy of response
+at a call center
+
+Client context                        BCG X approach                        Impact
+Client                                Identified one of the BPOs clients,   BPO continuing to scale the
+One of the biggest business process   a major North American retailer       solution to their other brands
+outsourcing (BPO) providers in the
+                                      Used K.AI toolkit to create a         Overall ~20% increase in
+world with other 100,000 customer     customized interface for call         productivity
+service agents serving multiple       center employees
+global brands across the world                                              Call handling time went
+                                      Solution used natural language        down by 15-20%
+Challenge                             search to quickly find information
+                                      to respond to customer queries        Decreased time to customer
+The BPO wanted to increase call
+                                                                            problem solution by 95%
+efficiency and improve customer
+                                      Successfully deployed tool with
+satisfaction for inbound calls        500 agents and supported              94% search accuracy using
+                                      implementation of K.AI and            K.AI semantic search
+Ambition
+                                      trained call center team on           First call resolution rate
+Decrease customer call times and
+                                      usage of tool                         improved by 3-7 points
+improve customer satisfaction
+
+
+                                                                                                         14
+SAMPLE ROI                          Call Center Agent Assist—
+                                    Smart Search                            Assumptions
+~$90M savings
+on contact center operating costs    Total agent cost:                      • # agents: 5000
+                                                                            • Cost per minute: 30cts/min
+
+Assuming 5000 agents in North
+                                     ~$180M                                 • Time worked: 40h/w, 50 weeks/y
+
+America & 25% cost reduction
+                                                         Savings by
+Longer term up to 80% total                              improving
+
+
+
+
+                                                                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+cost reduction                                           efficiency:        • % efficiency gains: 25% overall
+
+                                                         ~$45M
+
+                                    Call Center Agent Assist Chat Bot/
+                                    Customer Self-Service Chat Bot
+
+                                     Total agent cost:                      • # agents: 5000
+                                                                            • Cost per minute: 30cts/min
+                                     ~$180M                                 • Time worked: 40h/w, 50 weeks/y
+
+
+                                                         Savings by         • % efficiency gains: 25% overall
+                                                         boosting digital     – Decreased call deflection
+                                                         channels:            – Increased fully virtualized calls
+                                                                              – Decreased interaction length
+                                                         ~$45M                   (pre-authentication, intent understanding,
+                                                                                 etc.)
+                                                                                                                      15
+03
+HOW TO GET STARTED
+Our commercial approach
+
+
+
+
+Venture logo              16
+  Our AI@Scale philosophy: start small, demonstrate impact & build the tech
+  stack as you go
+
+                                                Scale and transform
+                                                organization
+
+
+                                 Deploy solution
+                                                                                                                               Successful
+                                                                                                                            organizations can
+                  Design, build, test
+                                                                                                                              build 1-3 uses
+                                                                                                                             cases per year
+
+
+
+
+                                                                                                                                                                   Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                    ▪ New ways of
+Start with the business
+                                                                                      working                               once capability is
+                                                                    ▪ Iterative     ▪ Refine business
+opportunity
+                                                                      technology      strategy in
+                                                                                                                                 in place
+                                              ▪ Right design          scale up        lock-step
+                                              ▪ Practical           ▪ Purpose fit   ▪ Right organization
+                                                applications of       tools and       and processes
+                           ▪ Business first                           models
+                                                K.AI
+                                                                                    ▪ Gen AI as business
+                           ▪ Value focus
+                                              ▪ Well defined K.AI                     as usual
+                           ▪ Customizable K.AI use cases
+                             technology
+
+                                                                                                                                                              17
+                                                                                                           Midjourney | "Team climbing a mountain together"
+Knowledge.AI is a readily deployable toolkit that accelerates time-to-value
+by enabling teams to validate hypotheses, and track value faster
+
+
+                                                          2-6 weeks1                                                                      8-10 weeks                                                Scope dependent
+
+                                                 1. Ideate & Prioritize1                                                            2. Design & build                                              3. Launch & scale
+
+
+
+
+                                                                                                                                                                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+Key                    Ideation sprint to generate and refine several K.AI enabled                                 Shape strategic direction and design                            Pilot, operate, and scale impactful K.AI
+outputs                products & services to drive value                                                          and build K.AI products and service                             enabled products and services
+                             Option 1: Holistic                              Option 2: Use-case
+                           opportunity assessment                              development                          • Completed POC for 1 use case                                  • Launch POC
+                                (4-6 weeks)                                     (2-4 weeks)                         • Tech infrastructure and data                                  • Hardening of code for scale
+                        • Definition and alignment                       • Validated &                                assessment
+                                                                                                                                                                                    • Support and maintenance through
+                          of GenAI strategy                                prioritized                              • User testing                                                    dedicated BCG delivery center
+                                                                           highest-value use
+                        • Ideate, validate,                                                                         • Optional: BCG toolkit (code &                                 • BCG knowledge and product transfer
+                                                                           case
+                          and prioritize use-cases                                                                    license)
+                                                                         • Feasibility assessment
+                        • Backlog of high-value
+                          use cases                                      • Business case
+                        • Business & investment                          • Feature roadmap
+                          case
+
+
+
+
+1.   There are two options for entry points into Phase 1 – depending on the development level of GenAI use cases within the organization; more detail on how to select Option 1 or Option 2 in next slide
+2.   Dependent on which transfer option client will be taking (in-house management, BCG managed, 3rd party managed
+                                                                                                                                                                                                                        18
+DEEP-DIVE
+Selected questions to help you set
+your Phase 1 entry point
+
+ If you are wondering…                                If you are already thinking about…
+ What is Generative AI and how does it work?          Which of my pre-defined use cases would be most
+                                                      impactful for my organization?
+ What does Generative AI mean for me?
+                                                      Will my pre-defined use case work at scale?
+ What are potential use cases I could deploy?
+                                                      What does my Gen AI ready tech stack look like?
+ What do I need to have in place to start?
+                                                      How do I need to adapt my op model and org?
+ What are my competitors doing with Generative AI?
+
+
+
+
+                                                                                                                                Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                                      How do I train teams? How do ways of working change?
+ How can I build competitive advantage with Gen AI?
+                                                      …
+ …
+
+
+
+ Option 1: Holistic Opportunity Assessment                  Option 2: Use-case development
+
+
+                                                                                                                       19
+                                                                                 Midjourney | "Future of technology projects"
+        Phase 1: Ideate & Prioritize
+
+
+
+
+              Ideate & Prioritize: Multiple use cases with deep, divergent ideation
+
+                Prep Week 0                      Weeks 1 - 2                             Weeks 3 - 4                             Weeks 5 - 6
+
+                                       • Define key opportunity areas for
+              • Key stakeholders                                                                                      • Analyze impact of POC on
+Biz & Ops
+
+
+
+
+                                         Gen AI within value chains
+                identified & value                                            • Biz & operational requirements          processes & workflows
+                pool data              • Prioritize use cases based on          for prioritized use case              • Align on success KPIs for POC
+                requested                potential tech feasibility,
+                                                                                                                        builds
+                                         strategy fit, and business impact
+
+
+                                       • Facilitated workshop to ideate on    • Preliminary use case testing to       • Refine POC based on initial
+Product
+
+
+
+
+                                                                                validate desirability                   feedback
+
+
+
+
+                                                                                                                                                                  Copyright © 2023 by Boston Consulting Group. All rights reserved.
+              • Value chains             efficiency improvement, cost
+                aligned                  reduction, and innovative use        • Build user stories with internal or   • Map POC rollout strategy for
+                                         cases                                  external users                          initial users
+Tech & Data
+
+
+
+
+              • Data quality           • Tech feasibility on data &                                                   • Path for initial upskilling and
+                baseline assessed        architecture readiness               • Product roadmap identifying POC         support
+              • IT infrastructure      • Align on Responsible AI strategy &     technical requirements                • Draft POC pilot plan to facilitate
+                map                      design (e.g., rules, tools)                                                    future build
+
+                 Venture logo                                                                                                                                20
+                                                                                                                                                       20
+              Phase 1: Ideate & Prioritize
+
+
+
+
+                Ideate & Prioritize: Multiple use cases deliverables
+
+                                             Identify verticals                          Size MVP business                             Craft operations
+                                             with highest                                opportunity,                                  strategy to
+Biz & Ops
+
+
+
+
+                                             business and                                including costs and                           implement POC
+                                             operational impact                          ROI
+                         Opportunity                                   Investment                                Operations Roadmap
+                          Heatmap                                         Case                                         to POC
+
+                                             Conduct stakeholder                         Test MVP concepts                             Build design plan to
+                                             workshop to identify                        to determine                                  enhance go-forward
+Product
+
+
+
+
+                                             opportunity areas                           desirability & refine                         implementation &
+
+
+
+
+                                                                                                                                                                      Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                                                                                       adoption
+                         Opportunity                                   Desirability                                Forward Looking
+                          Workshop                                        Tests                                      Design Plan
+
+                                             Assess data                                 Craft specifications                          Create technical
+Tech & Data
+
+
+
+
+                                             readiness & tech                            needed to fill gaps                           roadmap and effort
+                                             architecture needed                         and build                                     sizing to POC
+                                             for MVP success                             the solution
+                  Tech & Data Readiness                             Dev & Architecture
+                                                                                                                 Tech Roadmap to POC
+                       Assessment                                     Specifications
+                      Venture logo                                                                                                                               21
+                                                                                                                                                            21
+                                                                                                                                            Option 1 only
+Phase 2: Design & Build
+
+
+  Design & Build: Strategic POC Design and Build
+
+
+                                     Weeks 1 - 3                          Weeks 4 - 7                           Weeks 8 - 10
+
+                           • Define operating model &           • Begin implementation of             • Analyze impact of POC on
+          Biz & Ops
+
+
+
+
+                             preliminary implications map for     operating model required for POC      processes and workflows
+                             POC rollout                          success                             • Craft refined processes & future
+                           • Align on KPIs for success,         • Coordinate across stakeholders to     visioning for further
+                             including tracking mechanisms        measure preliminary impact            implementation
+
+                                                                • Implement designs into              • Refine POC experience based on
+                           • Facilitate workshop on in-depth
+                                                                  POC solution to validate              feedback
+          Design
+
+
+
+
+                             MVP desires & implications
+
+
+
+
+                                                                                                                                                     Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                  desirability                        • Map & begin implementing design
+                           • Craft & test designs for POC
+                                                                • Collect feedback to test & refine     strategy for optimizing
+                             rollout
+                                                                  POC launch                            experience
+          Tech & Product
+
+
+
+
+                           • Refine user stories to optimize    • Build POC with a limited launch
+                             POC success                                                              • Refine POC based on feedback
+                                                                  to test solution
+                           • Build POC roadmap including                                              • Craft future roadmap for MVP
+                                                                • Craft continued roadmap based
+                             sizing work & crafting build                                               solution
+                                                                  on feedback collected
+                             backlog
+
+       Venture logo                                                                                                                             22
+                                                                                                                                           22
+         Phase 2: Design & Build
+
+
+                 Design & Build: Strategic POC Design and Build
+
+
+                                      Identify org &                      Refine & implement                      Measure impact of
+                                      operating model                     processes to include                    POC, including ROI
+Biz & Ops
+
+
+
+
+                                      required for POC                    POC solution                            and organization
+                                      rollout                                                                     impact
+                        Operating                            Refined                                Impact
+                         Model                              Processes                             Assessment
+
+                                      Conduct workshops                   Iterate & refine                        Craft go-forward
+                                      & collect feedback                  POC designs to                          design strategy for
+Design
+
+
+
+
+                                      on POC solution                     optimize user                           continued
+
+
+
+
+                                                                                                                                              Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                                                          experience                              improvement
+                  Feedback Collection &                      Refined                                 Design
+                      Prioritization                       POC Designs                              Strategy
+
+                                      Craft roadmap to                    Deployed MVP                            Craft roadmap for
+Tech & Product
+
+
+
+
+                                      create & deploy                     solution & early                        future solution,
+                                      POC solution                        refinement to                           broader rollout, and
+                                                                          improve                                 scale
+                    POC Development                         Deployed                             Future Product
+                        Roadmap                            POC Solution                             Roadmap
+                   Venture logo                                                                                                          23
+                                                                                                                                 23
+                 Teaming
+                 • Identify engineering and operations team members1
+                 • Define day-to-day teaming model and update cadences
+                 • Appoint core working team members
+
+
+
+
+                                                                                                                     Copyright © 2023 by Boston Consulting Group. All rights reserved.
+What we would    Qualitative Data
+need from you    • Current architecture blueprints and tech stack documentation
+                 • Data and product feature roadmap (as applicable)2
+to get started   • Existing CSAT surveys and/or internal Gen AI belief audit reports
+
+
+
+
+                 Quantitative Data
+                 • Customer and financial data as applicable (e.g., 3yr P&Ls, NPS,
+                   transaction data and other use case relevant data)
+                 • Use case specific model training data (e.g., set of product
+                   descriptions & specs, dataset of text documents on IT)
+
+
+                 1.   BCG will work with client teams to determine available resources to support effort
+                 2.   Data can be ingested in several different formats including text, audio, video, and URL   24
+                                                                 For internal use only: do not share with clients
+
+
+Following solution design and build, there are
+options for transferring K.AI to clients
+
+
+
+                               Option 1: Client managed                                            Option 2: BCG managed                Option 3: 3rd Party managed
+
+SITUATION                  Client has in-house tech team that                                Client does not have in-house tech        Client does not have in-house tech
+                           can manage K.AI                                                   team to manage K.AI                       team to manage K.AI
+
+OFFERING                   BCG transfers ownership of customized                             2-4 weeks1 required for knowledge         BCG.X Operate works to identify a vendor
+
+
+
+
+                                                                                                                                                                                  Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                           K.AI toolkit and underlying source code                           transfer from client team to BCG.X        to manage K.AI on behalf of the client
+                           ($1M for toolkit)                                                 Operate team2                             and
+                           BCG provides training to clients' in-house                        BCG.X Operate will actively manage
+                           tech team and transfers developer toolkit                         clients customized instance of the K.AI
+                                                                                             toolkit and ensure ongoing maintenance
+                           Client receives a non-exclusive,                                  of toolkit ($250-$300K/year)
+                           non-transferable license to toolkit
+                           Client can opt to receive regular toolkit
+                           updates for a 25% fee on toolkit price
+                           ($250k)
+
+
+
+1.   Dependent on the product use case; off-the-shelf instances will require less KT than custom builds                                                                    25
+2.   More details on BCG.X Operate team in the appendix
+     For internal use only: do not share with clients
+
+
+
+
+For information and support requests
+complete the Knowledge.AI support
+
+
+
+
+                                                             Copyright © 2023 by Boston Consulting Group. All rights reserved.
+request intake form
+
+
+Knowledge.AI Support Request Intake Form
+
+
+
+
+                                                        26
+Reach
+ Reachoutout
+          to the
+              to team!
+                  the team!
+
+
+
+
+            Hicham Mhanna     Beth Viner      Jeff Ahlquist
+            BCG X             BCG X           BCG X
+            Partner & VP,     MD & Partner,   MD & Partner,
+            Manhattan Beach   New York        Chicago
+
+
+
+
+         Contact team at: KnowledgeAIToolkit@bcg.com
+
+                                                              27
+                                 Vignettes / One-Pagers
+
+
+
+
+28
+
+
+
+
+     Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                            Knowledge.AI by BCG
+                                            BCG’s Generative artificial intelligence toolkit, Knowledge.AI by BCG (K.AI), enables organizations accelerate the build
+                                            and delivery of Generative AI solutions for their business. (Product Link)
+
+                                            Value Proposition
+Context                                     K.AI allows companies to customize their own proprietary
+Generative AI has the potential to          GenAI solution for a wide range of use cases to improve the
+improve revenue growth and cost             overall profitability of the business and support customer
+
+
+
+
+                                                                                                                                                                       Copyright © 2023 by Boston Consulting Group. All rights reserved.
+reduction across all industries and         satisfaction. Built on a closed domain system, K.AI provides a
+numerous use cases                          controlled and private solution for businesses that can flexibly
+                                            integrate with any natural language processing (NLP) model
+Objective                                   (e.g., Co:here, OpenAI, etc.). This ready-to-implement toolkit
+                                            can be piloted to quickly demonstrate value and validate
+Develop a flexible toolkit that allows
+                                            hypotheses using best-in-class AI and data science.
+businesses to customize and deploy
+proprietary GenAI solutions for their
+business                                    Opportunity
+                                            Massive volumes of unstructured data exist in enterprises that
+                                            is not accessible or searchable without costly manual efforts
+Strategic Value                             to clean, curate, and transfer data into structured databases.
+Allows clients to deliver strategic value   K.AI solves this problem leading to profitability and customer
+by processing their structured and          satisfaction gains.
+unstructured data
+                                            Features to Support AI for Sustainability & Decision-Making
+                                            • Conversation management: NLP to understand inquiries and generate near human-like interaction
+Type of Venture                             • Semantic search: efficient & accurate retrieval of info from large corpuses of knowledge
+BCG Product Build                           • Plugin support: calculators, code interpreters, maps, etc.
+                                            • Multi LLM support: online/offline models, prompt engineering support, metering & token cost mgmt.
+                                            • Scalable & configurable data pipelines: data mgmt, configural content formats (e.g., HTML, Text, PDF,
+                                              etc.)
+                                            • Analytics & human-in-the-loop: analytics dashboard, faster reporting
+
+                                                                                                                                                                 29
+            Proof-of-Concept
+
+
+
+
+                                             Improving E2E customer experience using
+Undisclosed Beauty Brand                     GenAI to virtually find and try on makeup
+                                                    Value proposition                             Features to support
+    Context
+    Leading beauty brand wants to        • Improve customer engagement: use natural   •   Semantic search: Using natural language
+                                         1 language search to make it easier for          processing for efficient & accurate retrieval
+    improve customer engagement and
+                                           customers to find products that suit           of info from large corpuses of knowledge
+
+
+
+
+                                                                                                                                          Copyright © 2023 by Boston Consulting Group. All rights reserved.
+    E2E experience using GenAI
+                                           their needs
+
+                                                                                      •   Memory: Remembers previous messages to
+    Objective                            • Increase revenues through personalized         continue conversation
+    Develop “Beauty Companion” digital   2 product recommendations: Customers can
+    tool in-store to help customers        request product recommendations based
+                                           on their specific needs through the        •   Continuous learning & improvement:
+    identify products that suit their
+                                           interactive chat                               Ability to provide feedback to train and
+    needs, using natural language
+                                                                                          improve the model
+    processing
+
+    Strategic Value
+    Improve customer experience and
+    decrease costs
+
+
+
+
+    Type of Venture
+    Proof-of-concept build
+
+
+                                                                                                                                30
+            Proof-of-Concept
+
+
+
+
+                                              AI-Driven customer support transformation
+Undisclosed Network Provider
+
+                                                                The Need                                                  Impact
+    Context
+                                             •1 Diagnose current state: Mapped out current          •   BCG surfaced key pain points and shortcomings
+    A technology company is adopting
+                                                state processes, data, and systems; conducted           in current state workflows and identified key
+    AI-driven automation into their
+                                                stakeholder interviews and shadowed support             areas for automation
+
+
+
+
+                                                                                                                                                             Copyright © 2023 by Boston Consulting Group. All rights reserved.
+    customer support workflow                   engineers to identify internal and external paint
+                                                                                                    •   Identified high quality data inputs to drive-up AI
+                                                points; and evaluated the technical feasibility
+                                                                                                        engine efficacy
+                                                and requirements for AI engine implementation
+    Objective                                                                                       •   Developed detailed future state design
+                                             •2 Design future state: Designed future state
+                                                                                                        for workflows, systems architecture and
+    Their goal is to reduce human touch in      workflow and mapped logical architecture to
+                                                                                                        data strategy
+    customer support by +80%                    ensure enterprise-readiness
+                                                                                                    •   Aligned 40+ key stakeholders across the
+                                             •3 Build a prototype: Developed functioning
+                                                                                                        organization to vision and plan for AI-driven
+                                                prototype for basic support cases with natural
+                                                                                                        customer support
+                                                language dialogue
+                                                                                                    •   Built functioning prototype for proof-of-concept
+                                             •4 Build a plan: Identified key milestones and big
+                                                                                                        based on ~250 support documents
+    Strategic Value                             rocks for implementation of AI engine by release
+                                                                                                        to solve basic support case inquiries
+                                                phase
+    Improve customer engagement and                                                                     (incl. back-end and front-end)
+    expand personalized product
+    recommendations
+
+
+    Type of Venture
+    Proof-of-concept build
+
+
+                                                                                                                                                  31
+             Proof-of-Concept
+
+
+
+
+Undisclosed
+                                                    Using GenAI to accurately and efficiently
+Commercial Property Insurer                         conduct commercial property risk assessment
+                                                             Value proposition                                  Features to support
+    Context
+    A commercial property insurer is            • Summarize 60K+ pages of technical site            •   Chatbot: Pulling context from ingested
+                                                1 inspection content Create pre-site visit plan         material to answer risk assessment questions
+    looking for GenAI applications in their
+                                                  for engineers                                         and provide recommendations to property
+
+
+
+
+                                                                                                                                                       Copyright © 2023 by Boston Consulting Group. All rights reserved.
+    business to more efficiently and
+    accurately derive risk insights from                                                                risk engineers in a conversational manner
+    large amounts of data                       • Support tool to help dynamically assess risk
+                                                2 on-site based on site-specific requirements       •   Integration with internal systems: next
+    Objective                                     (e.g., hospital, school, office building, etc.)       phase of project would be to integrate
+                                                                                                        enterprise-ready POC into existing
+    Provide summarization and intelligent
+                                                                                                        enterprise-wide risk assessment and
+    search capability to support on-site        • Generate risk and recommendation reports              reporting systems
+    guidance for property risk engineers        3 based on the inputs to share with
+                                                  underwriter to support calculating insurance
+    Strategic Value                               premiums
+    Reduce amount of time to conduct
+    site visits, providing additional time to
+    improve customer experience and
+    increase accuracy in determining
+    premiums for commercial property
+
+
+    Type of Venture
+    Proof-of-concept build
+
+                                                                                                                                            32
+                                 Appendix
+
+
+
+
+33
+
+
+
+
+     Copyright © 2023 by Boston Consulting Group. All rights reserved.
+                                         For internal use only: do not share with clients
+
+
+Several Knowledge AI demos
+available across industries
+
+
+                                                                                                                     Building distributor
+
+INSURANCE                  O&G                           CPG                            F&L                         OPS
+Search and chat demo       Extracts insight from         RoboAnalyst search             Chat-based answers to       Analyzes data and
+using Mass Mutual's        the Saudi Aramco              using the earnings file        customer questions          provides answers to
+Variable Life Select       shareholder report            of Mondelez to extract         using website articles      complex supply chain
+(VLS) product                                            insight                                                    questions (e.g.,
+
+
+
+
+                                                                                                                                                      Copyright © 2022 by Boston Consulting Group. All rights reserved.
+document                                                                                                            shipping, pricing, etc.)
+
+
+  Click here to view the     Click here to view the         Click here to view the         Click here to view the     Click here to view the
+    Mass Mutual demo          Saudi Aramco demo                 Mondelez demo                  Lancôme demo          building distributor demo
+
+
+
+                                         To create a client-specific demo reach out to Hicham Mhanna
+
+
+
+
+                                                                                                                                                 34
+When companies are ready to begin developing their custom GenAI solution,
+Knowledge.AI is the toolkit to accelerate build
+                                                        Client has not identified high-value GenAI use-case(s)                  Client has identified high-value GenAI use case(s)
+
+                                                        Option 1: Holistic opportunity assessment (4-6 weeks)                   Option 2: Rapid use-case development (2-4 weeks1)
+
+                                       Phase 1:         • Hold workshop to define and align GenAI & strategy                    • Validation & alignment of high-impact use-case
+                                       Ideate &                                                                            or
+                                                        • Ideate, validate, and prioritize use-cases based on                   • Technical feasibility assessment
+ Develop & implement Responsible AI
+
+
+
+
+                                       Prioritize         technical feasibility, desirability & impact framework
+                                                                                                                                • Create business case
+                                                        • Create business & investment case
+                                                                                                                                • Align on Responsible AI strategy & design (e.g., rules, tools)
+                                                        • Align on Responsible AI strategy & design (e.g., rules, tools)
+
+
+                                                        • Ethnographic research to clarify E2E user journey and identify key frictions and needs within the user experience
+
+
+
+
+                                                                                                                                                                                                   Copyright © 2022 by Boston Consulting Group. All rights reserved.
+                                        Phase 2:
+                                         Design         • Refine high impact opportunity area(s) and conduct infrastructure and data assessment to drive value and de-risk investment case
+                                        & Build         • Build & launch pilot POC for prioritized use case; conduct user testing and gather feedback for refinement
+                                                    1
+                                       8-10 weeks       • Collect feedback from pilot POC & craft feature roadmaps, including tech & ops, for broader scaling
+
+
+                                        Phase 3:        • Execute GTM strategy and scale POC use-case(s) beyond initial launch group while collecting feedback & refining
+                                         Launch         • Provide support and maintenance through dedicated delivery center
+                                        & Scale
+                                                        • Accelerate impact of use-case(s) through technology enhancements, org model/process changes & workforce enablement
+                                      (timing depends
+                                          on scope)     • Implement client methodology & minimum viable operating model to enable new use-cases across organization
+
+
+1. Depending on scope and data readiness                                                                                                                                                     35
+X.Operate ensures a seamless transition from Development to Support /
+Maintenance phase
+
+
+
+             Continuous client                          24x7 Support
+             partnership embedded                       Being a single entity providing global
+                                                        support, clients get same level of BCG
+             X Operate works closely with client
+                                                        experience irrespective of geography
+             stakeholders, thus very close to core
+             business issues
+
+
+
+
+                                                                                                       Copyright © 2022 by Boston Consulting Group. All rights reserved.
+             Hold the fort for client                   Insurance for client
+             Bridges the gap and transfers knowledge    organization
+             if/when client opts to own up Operations   Reduced risk for client while achieving
+                                                        full value of fast go to market
+
+
+
+
+                                                                                                  36
+                                                                                                 Non-Exhaustive
+
+
+
+With multi-disciplined Analytical capabilities, X.Operate team assists clients with
+end-to-end post implementation support
+          Simple                                                         Complex
+
+
+                                                                                    Tech Stack
+                     Level 1                  Level 2                 Level 3
+                                       Techno-functional group
+                                                                 Developers that
+                                       focused on Incident
+               Provides Round the                                focus on code
+                                       management (without
+Definition     clock coverage and
+                                       touching the code) and
+                                                                 corrections and
+               templatized responses                             smaller change
+                                       Client Business
+                                                                 requests
+                                       Continuity
+
+
+
+
+                                                                                                              Copyright © 2022 by Boston Consulting Group. All rights reserved.
+               SLA Management,         Data pipeline
+               Ticket management,      monitoring, Issue
+                                                                 Bug fixes, Minor
+Scope          SOP's, Server           Diagnosis and
+                                                                 adaptations
+               Monitoring, Knowledge   resolution, Workaround
+               base management         provisioning
+
+
+               Data Science, Data Engineering, SW Development, Prod Ops, Data
+Capabilities   Visualization, Data Management, Project Management, Process
+               Management
+
+
+
+                                                                                                      37
+             The services and materials provided by Boston Consulting Group (BCG) are subject to BCG's Standard Terms
+             (a copy of which is available upon request) or such other agreement as may have been previously executed by BCG.
+             BCG does not provide legal, accounting, or tax advice. The Client is responsible for obtaining independent advice
+             concerning these matters. This advice may affect the guidance given by BCG. Further, BCG has made no undertaking
+             to update these materials after the date hereof, notwithstanding that such information may become outdated
+             or inaccurate.
+
+             The materials contained in this presentation are designed for the sole use by the board of directors or senior
+             management of the Client and solely for the limited purposes described in the presentation. The materials shall not be
+             copied or given to any person or entity other than the Client (“Third Party”) without the prior written consent of BCG.
+
+
+
+Disclaimer
+             These materials serve only as the focus for discussion; they are incomplete without the accompanying oral commentary
+             and may not be relied on as a stand-alone document. Further, Third Parties may not, and it is unreasonable for any
+             Third Party to, rely on these materials for any purpose whatsoever. To the fullest extent permitted by law (and except
+             to the extent otherwise agreed in a signed writing by BCG), BCG shall have no liability whatsoever to any Third Party,
+             and any Third Party hereby waives any rights and claims it may have at any time against BCG with regard to the
+             services, this presentation, or other materials, including the accuracy or completeness thereof. Receipt and review of
+             this document shall be deemed agreement with and consideration for the foregoing.
+
+             BCG does not provide fairness opinions or valuations of market transactions, and these materials should not be relied on
+             or construed as such. Further, the financial evaluations, projected market and financial information, and conclusions
+             contained in these materials are based upon standard valuation methodologies, are not definitive forecasts, and are not
+             guaranteed by BCG. BCG has used public and/or confidential data and assumptions provided to BCG by the Client.
+             BCG has not independently verified the data and assumptions used in these analyses. Changes in the underlying data or
+             operating assumptions will clearly impact the analyses and conclusions.
+
+
+
+
+                                                                                                                                        38
+bcg.com/x
+

@@ -1,0 +1,117 @@
+Stanley OpenAI Interview - Things to Prep:
+Elevator Pitch
+I'm Stanley, based in Singapore. I've been in B2B tech sales for about four and a half years — where I started at Datadog as an SDR back in late 2021, then Figma, and most recently Airwallex where I made the jump from BDR to AE.
+The thread connecting all three is that I've never joined a team at steady state. Every role I've taken has been an early or founding team where there was no playbook. 
+At Datadog, I joined as their 4th SDR in their commercial team in Singapore. Within eight months, I was promoted to Team Lead, managing fourteen SDRs across South Asia and ASEAN, and overachieving in my IC quota every quarter.
+Then I joined Figma as their first SDR in APAC. No playbook, so I had to build the APAC BDR motion from scratch: my pitch, prospecting approach, outreach cadence, everything. I managed to overachieve my targets and became the Global Top-Performing BDR for that year. 
+Most recently at Airwallex, I made the jump from BDR to AE — one of the first three outbound AEs in their Singapore commercial team, running full cycles end-to-end. Finished FY2024 in President's Club.
+Why OpenAI — two reasons, both real. First, I built my first AI agent using Glean a few months ago to automate my own pipeline reporting. It was basic but it worked, and it made me realise how much this technology is going to reshape every sales motion I'll be part of.
+Second, the APAC build-out at OpenAI is exactly the kind of role I keep gravitating toward. Early stage, no playbook, real impact. And honestly, I see this as the foundation for the next chapter of my sales career — somewhere I want to build for the long term, not just my next job.
+
+
+
+
+Why OpenAI
+Why OpenAI, why now — two reasons. 
+I built my first AI agent using Glean a few months ago to automate my own pipeline reporting. It was basic but it worked, and it made me realise how much this technology is going to reshape every sales motion I'll be part of. I only sell what I believe in — and I believe in this. 
+Second, the APAC build-out at OpenAI is exactly the kind of role I keep gravitating toward. Early stage, no playbook, real impact. And honestly, I see this as the foundation for the next chapter of my sales career — somewhere I want to build for the long term, not just my next job.
+If she asks: "But why OpenAI over Anthropic, Google, Microsoft?"
+"Fair question. I think Anthropic and Google are building genuinely impressive models. But OpenAI has something the others don't yet: brand and developer ecosystem at consumer scale, combined with a real shot at becoming enterprise infrastructure through products like Frontier. And from a sales perspective — being on the team that translates that consumer credibility into enterprise wins is a once-in-a-decade opportunity."
+If she asks: "What's the OpenAI mission mean to you?"
+"Honestly, I think the mission — ensuring AGI benefits all of humanity — is what i align closely with. Not because I think every product decision will perfectly align with it, but because the people building this technology should be people who care about how it shows up in the world. 
+From a sales angle, what that translates to is the trust-and-safety thread being genuinely real — and that's something I'd want to lead with when I'm talking to enterprise buyers who are nervous about deploying AI at scale."
+
+
+
+If she asks: "Why not just stay at Airwallex and grow as an AE?"
+"Honestly, Airwallex has been great — I've grown a lot there and I'm grateful for the team. But I look at AI as a once-in-a-career inflection point, and I'd rather be at the centre of it as a BDR than on the periphery as an AE. Long-term ambition matters more to me than short-term title. 
+Why would you take a step back from AE to SDR
+"That's a fair question — and one I asked myself before applying. Here's how I think about it.
+If I optimised for title or short-term comp, the answer would be no — I should stay at Airwallex, keep closing as an AE, keep building my book. But I'm not optimising for that right now.
+I'm optimising for 2 things: who I work with & what I'm working on. And both points to OpenAI.
+The role itself — The people I'd be reaching out to are senior leaders at the most important organisations in APAC, having strategic conversations about how their company adopts AI. The buyer maturity, the conversation depth, the trust required — that's closer to enterprise AE work than commercial SDR work. 
+The second thing — I'm playing a long game. I've been in sales for four and a half years and I want to spend the next ten or fifteen years building toward something meaningful. The strongest sellers I've watched in my career didn't optimise for the fastest title progression. They optimised for the right room, the right product, the right learning. And I'd rather be early at OpenAI as an SDR than mid-career at another company as an AE — because the ceiling here is genuinely uncapped.
+The last thing is honest self-awareness. I've been an AE for just over a year. I've done well — President's Club, 126% — but I'm not pretending I've mastered the AE motion. There's still a lot for me to learn about complex enterprise sales, and the SDR seat at OpenAI is, in my view, the best seat in the world to learn that craft from. I'd rather come in, earn trust, learn the motion properly, and then progress on merit — than skip a layer and miss the foundation.
+
+If she asks: "But you'd be quota-carrying differently. Is the comp drop OK with you?"
+"I've thought about it. The short answer is yes — and not because I don't value comp, but because I'm looking at five-year earnings, not twelve-month earnings. The right product, the right company, the right trajectory matters more to me than the next year. If I'm wrong about OpenAI, it'll cost me a year. If I'm right, it'll define the next decade."
+If she asks: "What if you don't get promoted to AE within 18-24 months?"
+"Then I'd take that as honest feedback that I'm not ready yet, and I'd want to know why. I'm not coming in expecting a fast track — I'm coming in expecting to earn it. If after 18 months I'm not closer to that level, the conversation I want to have with my manager isn't 'when do I get promoted', it's 'what am I missing'. I trust the process if I trust the people running it."
+If she pushes: "Honestly, most candidates struggle with this transition. What makes you different?"
+"Honestly? Two things. First, I've already done the harder version of this — going from Datadog Team Lead managing fourteen SDRs back to an individual contributor BDR at Figma. That was a similar kind of step, and the Figma year ended up being the most defining of my career. 
+Second, I genuinely want to learn enterprise selling at the level OpenAI is operating at — and the only way to do that properly is from the ground up. I'd rather be coachable here than comfortable somewhere else."
+That last backup answer — the Datadog Team Lead → Figma BDR move — is genuinely powerful because it's proof you've already done this exact pattern. Don't lead with it unless she pushes, but have it ready. It's the most concrete evidence you can offer that the title regression isn't a problem for you.
+
+
+
+
+Prospecting Motion
+
+"Happy to walk you through it — this is something I've actually built from scratch, so I'll give you the real version, not the textbook one.
+My motion has four stages: research, prioritise, sequence, and iterate.
+First — research and account selection. Before I touch any outreach, I build a target list based on two things: how likely the company is to have the pain I solve, and how much the deal is worth if it lands. At Figma that meant looking for companies scaling design teams or going through digital transformation. For OpenAI it'd be AI-readiness signals — companies publicly investing in AI, hiring for AI roles, in industries where the use case is obvious. I'd rather spend an extra hour on research than blast a generic list.
+Second — prioritise ruthlessly. This is a lesson I learned the hard way at Airwallex. Early on I chased every account and got stretched thin. Now I tier my list — tier one gets deep, personalised, multi-threaded outreach, tier two and three get lighter touches. Not every account deserves the same effort, and pretending they do is how you burn time.
+Third — sequence across channels. I don't rely on one channel. My cadence is usually a mix of email, LinkedIn, and phone, spread over about two to three weeks. But the key thing for me is that every touch leads with a specific insight about their business — not 'I'd love to show you our product.' At Datadog I was averaging around nineteen new meetings a month doing this, and the meetings that converted were always the ones where I'd clearly done my homework on the prospect.
+The messaging philosophy underneath all of it is problem-first, not product-first. I'm trained in Command of the Message and MEDDICC, so I'm always trying to lead with the prospect's Before State — the pain they're living with — rather than our features. The goal of a first touch isn't to pitch. It's to make the person think 'this person actually understands my world.'
+And fourth — iterate. I treat my own outreach like an experiment. I track what subject lines get opens, what angles get replies, what falls flat — and I adjust weekly. When I built the Figma APAC playbook, that's exactly how I figured out what worked here versus what the North America team was doing — constant testing and refining until I had something repeatable.
+So that's the motion — research, prioritise, sequence, iterate. Disciplined at the top, personalised where it counts, and always measured so I can improve it."
+
+"How many touches before you give up on an account?"
+"Depends on the tier. For a tier-one strategic account, I'll run a full multi-channel sequence over a few weeks, then put them into a longer-term nurture rather than fully dropping them — timing is often the reason for no response, not lack of interest. For lower tiers, I'm more disciplined about cutting and moving on. The mistake I see is people either giving up after two emails or stubbornly chasing dead accounts forever. The skill is knowing which is which."
+"What does a good first-touch email look like to you?"
+"Short. Specific. Built around them, not me. I open with something that proves I've done my homework — a recent announcement, a strategic move, a problem I can infer from their situation. Then I name the gap I think they have, not the product I'm selling. And I end with a low-friction ask — usually a question, not a meeting request. The whole thing should be readable in fifteen seconds and make them think 'huh, this person gets it.'"
+"How do you use AI in your own prospecting?"
+"Increasingly, a lot. I built that Glean agent to automate my pipeline reporting so I get time back for actual selling. I use ChatGPT for research synthesis — pulling together what a company's been announcing, what their priorities seem to be — and for drafting and sharpening outreach angles. But I'm careful not to let it make my outreach generic. AI helps me prepare faster; it doesn't replace the personalisation. If anything, it lets me personalise more accounts in the same amount of time."
+"How do you handle a prospect who responds but isn't interested?"
+"I try to learn from it rather than just move on. A reply, even a no, is a signal. I'll ask a light follow-up to understand why — wrong timing, wrong person, no budget, no pain. Sometimes it redirects me to the right person internally. Sometimes it tells me my targeting was off. Either way it's information I'd rather have than not."
+
+
+Who will you target
+
+It depends on which motion you're running, because OpenAI sells a few different things to a few different buyers. Broadly, I see three buying motions, and each has a different persona.
+The first is the org-wide productivity motion — selling something like ChatGPT Enterprise across a whole company. For that, the economic buyer usually sits in the C-suite or one level below — a Chief Operating Officer, a Chief Transformation or Digital Officer. But the people who actually feel the pain and become your champions are often function heads: a VP of Customer Support drowning in tickets, a Head of Operations trying to cut manual work, a Revenue Operations leader. They're the ones who carry the message up.
+The second is the builder motion — companies that want to build AI into their own products using the API. There, you're talking to technical buyers: a CTO, a VP of Engineering, a Head of Product, a Head of Data Science. At startups and scale-ups, often the founders directly. The conversation is completely different — it's about capabilities, latency, model performance, cost per token.
+The third is the governance and deployment motion — the newer enterprise layer, things like Frontier and agents. That's where you're engaging the most senior technical and strategic leaders: CTOs, CIOs, Chief AI Officers — people thinking about how to deploy and govern AI across the entire organisation safely.
+Where I think the real skill comes in — and this is the part I'd focus on as a BDR — is identifying the champion before the economic buyer. The decision-maker rarely takes a cold outreach. But the VP of Support who's measured on resolution time, or the Head of Ops trying to do more with the same headcount — they feel the pain personally and they'll take the meeting. That's who I'd target first, then build upward toward the economic buyer.
+And in APAC specifically, the buying committees tend to be more hierarchical and top-down than in the US, so understanding who has real authority versus who's an influencer matters a lot. That's something I've navigated at both Figma and Airwallex.
+
+
+Competitors
+
+The main competitors I see are Anthropic, Google, and Microsoft — with Meta and the open-source models competing more on the cost end.
+Anthropic with Claude is the most serious enterprise competitor right now. They went enterprise-first from day one, they're strong in coding and document-heavy, compliance-sensitive workflows, and they've actually been winning meaningful business adoption share. I don't think it's useful to pretend otherwise.
+Google has the strongest distribution — Gemini is built into Workspace, Search, Android — and serious compute. But their enterprise execution has been inconsistent because their attention is split across a huge consumer empire.
+And Microsoft is the interesting one — historically OpenAI's biggest partner, now increasingly a competitor as that relationship evolves.
+So how do we win? I don't think the answer is 'our model is better' — at the frontier, the models are all genuinely strong, and that's a race that goes back and forth every few months. I think we win on three things.
+First, breadth and the consumer brand. OpenAI is the broadest platform — voice, image, video with Sora, Codex for engineering, all in one ecosystem. And ChatGPT is synonymous with AI for most employees already. That lowers adoption friction enormously — when the workforce already knows the tool, enterprise rollout is faster.
+Second, the developer ecosystem. OpenAI has the deepest developer mindshare, which compounds — the integrations, the community knowledge, the default-choice effect. For companies building AI into their own products, that gravity matters.
+But third — and this is the part I'd actually own as a BDR — we win on execution and trust at the human level. When the models are this close, the deal is often won or lost on which company's team understood the customer's business best, moved fastest, and earned the most trust. That's not a product feature. That's us. That's the seller. And that's the part I can directly control.
+
+
+What do you know about AI?
+
+"Honestly, I'll give you my high-level perspective — I'm not going to pretend I understand the technical architecture of how transformers work. 
+The way I see it, AI is moving through three rough waves.
+The first wave was AI as a productivity tool. ChatGPT, Copilot, Claude — individual users getting drafts written, code generated, ideas explored. That's still happening, and it's where most enterprise adoption starts.
+The second wave — which we're in right now — is AI as an embedded layer. Companies aren't just letting employees use ChatGPT; they're integrating models into their own products and workflows through APIs. That's where things get interesting commercially, because it's no longer a productivity story — it's a competitive differentiation story.
+The third wave, which OpenAI is clearly pushing toward with products like Frontier and Workspace Agents, is agentic AI. Systems that don't just respond to prompts but actually take actions — researching, writing, executing tasks across multiple tools autonomously. That's the layer that will reshape how organisations actually run.
+What this means for sales — and the reason I'm excited about this role — is that the conversation with enterprise buyers is shifting. It's no longer 'do you want to use AI?' It's 'how does your company want to compete in a world where every competitor has access to the same models?' The differentiator is who deploys it most intelligently, with the right governance and the right business outcomes in mind.
+
+
+
+
+
+Questions to Ask
+
+In your experience & perspective, what distinguishes a great performer from a good one?
+How do you measure success across your BDRs?
+How do you foresee the BDR progression pathway to be like in OpenAI?
+Curious about the team hiring for AEs or experienced closers for this BDR role in OpenAI, is there a particular reason why?
+In your experience, what are the most common objections from customers to OpenAI?
+RAG/Finetuning
+
+How do you reduce hallucination
+What is API
+What is LLM
+What is an agent
+Technical signals of a company that makes them a right fit for OpenaAI

@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OpenAI SDR DoorDash Loom - HTML Anything Swiss Draft</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    /* === SWISS INTERNATIONAL THEME === */
+    :root {
+      --accent: #002FA7;
+      --paper: #fafaf8;
+      --ink: #0a0a0a;
+      --muted: #6a6a62;
+      --line: #0a0a0a;
+      --soft: #ededdf;
+      --font-display: "Inter Tight", "Noto Sans SC", sans-serif;
+      --font-body: "Inter", "Noto Sans SC", sans-serif;
+      --font-mono: "JetBrains Mono", monospace;
+    }
+
+    /* === BASE RESET === */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      border-radius: 0;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: var(--ink);
+      color: var(--ink);
+      font-family: var(--font-body);
+    }
+
+    /* === FIXED DECK STAGE === */
+    .deck-viewport {
+      position: fixed;
+      inset: 0;
+      overflow: hidden;
+      background: var(--ink);
+    }
+
+    .deck-stage {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 1920px;
+      height: 1080px;
+      overflow: hidden;
+      transform-origin: 0 0;
+      background: var(--paper);
+    }
+
+    .slide {
+      position: absolute;
+      inset: 0;
+      width: 1920px;
+      height: 1080px;
+      overflow: hidden;
+      visibility: hidden;
+      opacity: 0;
+      pointer-events: none;
+      background: var(--paper);
+      color: var(--ink);
+    }
+
+    .slide.active,
+    .slide.visible {
+      visibility: visible;
+      opacity: 1;
+      pointer-events: auto;
+      z-index: 1;
+    }
+
+    /* === TYPOGRAPHY === */
+    h1,
+    h2,
+    h3 {
+      font-family: var(--font-display);
+      letter-spacing: 0;
+      line-height: 0.94;
+    }
+
+    h1 {
+      font-size: 132px;
+      font-weight: 900;
+      letter-spacing: -0.04em;
+    }
+
+    h2 {
+      font-size: 96px;
+      font-weight: 900;
+      letter-spacing: -0.04em;
+    }
+
+    h3 {
+      font-size: 39px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    p {
+      font-size: 28px;
+      line-height: 1.18;
+      color: var(--muted);
+    }
+
+    .mono {
+      font-family: var(--font-mono);
+    }
+
+    .label {
+      font-family: var(--font-mono);
+      font-size: 18px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .accent {
+      color: var(--accent);
+    }
+
+    /* === 16-COLUMN GRID SYSTEM === */
+    .grid {
+      position: absolute;
+      inset: 62px;
+      display: grid;
+      grid-template-columns: repeat(16, 1fr);
+      grid-auto-rows: min-content;
+      column-gap: 0;
+    }
+
+    .topline {
+      position: absolute;
+      left: 62px;
+      right: 62px;
+      top: 62px;
+      display: grid;
+      grid-template-columns: repeat(16, 1fr);
+      border-bottom: 1px solid currentColor;
+      padding-bottom: 14px;
+      font-family: var(--font-mono);
+      font-size: 17px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      z-index: 4;
+    }
+
+    .topline .topic {
+      grid-column: 1 / span 8;
+    }
+
+    .topline .count {
+      grid-column: 15 / span 2;
+      text-align: right;
+    }
+
+    .footline {
+      position: absolute;
+      left: 62px;
+      right: 62px;
+      bottom: 54px;
+      display: grid;
+      grid-template-columns: repeat(16, 1fr);
+      border-top: 1px solid currentColor;
+      padding-top: 14px;
+      font-family: var(--font-mono);
+      font-size: 16px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      z-index: 4;
+    }
+
+    .footline .left {
+      grid-column: 1 / span 8;
+    }
+
+    .footline .right {
+      grid-column: 12 / span 5;
+      text-align: right;
+    }
+
+    .ikb {
+      background: var(--accent);
+      color: var(--paper);
+    }
+
+    .ikb p,
+    .ikb .muted {
+      color: rgba(250, 250, 248, 0.78);
+    }
+
+    .paper {
+      background: var(--paper);
+      color: var(--ink);
+    }
+
+    /* === SWISS COMPONENTS === */
+    .ascii {
+      position: absolute;
+      right: 94px;
+      top: 160px;
+      font-family: var(--font-mono);
+      font-size: 15px;
+      line-height: 1.05;
+      letter-spacing: 8px;
+      opacity: 0.22;
+      white-space: pre;
+    }
+
+    .big-title {
+      grid-column: 1 / span 10;
+      margin-top: 210px;
+    }
+
+    .title-note {
+      grid-column: 1 / span 6;
+      margin-top: 28px;
+      color: rgba(250, 250, 248, 0.82);
+      font-size: 30px;
+    }
+
+    .statement {
+      position: absolute;
+      left: 0;
+      top: 180px;
+      width: 1348px;
+      font-size: 104px;
+      line-height: 0.98;
+      font-weight: 900;
+      letter-spacing: -0.045em;
+    }
+
+    .small-note {
+      position: absolute;
+      right: 112px;
+      top: 188px;
+      width: 452px;
+      border-left: 1px solid var(--line);
+      padding-left: 24px;
+    }
+
+    .cell-grid {
+      grid-column: 1 / span 16;
+      margin-top: 58px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      border-top: 1px solid var(--line);
+      border-left: 1px solid var(--line);
+    }
+
+    .cell {
+      min-height: 222px;
+      border-right: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      padding: 28px;
+    }
+
+    .cell .num {
+      font-family: var(--font-mono);
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 44px;
+    }
+
+    .cell p {
+      margin-top: 10px;
+      font-size: 23px;
+    }
+
+    .timeline {
+      grid-column: 1 / span 16;
+      margin-top: 72px;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      border-top: 1px solid var(--line);
+      border-left: 1px solid var(--line);
+    }
+
+    .phase {
+      min-height: 438px;
+      padding: 34px;
+      border-right: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .phase .days {
+      font-family: var(--font-display);
+      color: var(--accent);
+      font-weight: 900;
+      font-size: 54px;
+      line-height: 1;
+      margin-bottom: 96px;
+    }
+
+    .phase p {
+      margin-top: 18px;
+      font-size: 24px;
+    }
+
+    .bars {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 94px;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      align-items: end;
+      column-gap: 40px;
+      height: 315px;
+    }
+
+    .bar-wrap {
+      display: grid;
+      grid-template-rows: 1fr min-content min-content;
+      height: 100%;
+      text-align: left;
+    }
+
+    .bar {
+      width: 100%;
+      align-self: end;
+      background: var(--accent);
+    }
+
+    .bar-value {
+      margin-top: 18px;
+      font-family: var(--font-display);
+      color: var(--accent);
+      font-size: 50px;
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .bar-label {
+      margin-top: 8px;
+      border-top: 1px solid var(--line);
+      padding-top: 8px;
+      font-family: var(--font-mono);
+      font-size: 16px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .split {
+      grid-column: 1 / span 16;
+      margin-top: 62px;
+      display: grid;
+      grid-template-columns: 7fr 1fr 8fr;
+      min-height: 520px;
+    }
+
+    .split-left,
+    .split-right {
+      border-top: 1px solid var(--line);
+      padding-top: 30px;
+    }
+
+    .divider {
+      border-left: 1px solid var(--line);
+      margin: 0 38px;
+    }
+
+    .spec-row {
+      display: grid;
+      grid-template-columns: 180px 1fr;
+      border-bottom: 1px solid var(--line);
+      padding: 20px 0;
+      font-size: 28px;
+      line-height: 1.12;
+    }
+
+    .spec-row span:first-child {
+      font-family: var(--font-mono);
+      color: var(--accent);
+      font-size: 17px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding-top: 7px;
+    }
+
+    .email {
+      grid-column: 1 / span 10;
+      margin-top: 60px;
+      background: var(--ink);
+      color: var(--paper);
+      padding: 36px 42px;
+      min-height: 500px;
+    }
+
+    .email p {
+      color: rgba(250, 250, 248, 0.80);
+      font-size: 29px;
+      line-height: 1.25;
+      margin-bottom: 22px;
+    }
+
+    .email .label {
+      color: rgba(250, 250, 248, 0.62);
+      margin-bottom: 26px;
+    }
+
+    .side-manifesto {
+      grid-column: 12 / span 5;
+      margin-top: 60px;
+      border-top: 1px solid var(--line);
+      padding-top: 28px;
+    }
+
+    .side-manifesto h3 {
+      color: var(--accent);
+      font-size: 46px;
+      margin-bottom: 30px;
+    }
+
+    .outline-list {
+      border-top: 1px solid var(--line);
+      margin-top: 28px;
+    }
+
+    .outline-list div {
+      border-bottom: 1px solid var(--line);
+      padding: 18px 0;
+      font-size: 30px;
+      line-height: 1.12;
+    }
+
+    .blue-panel {
+      grid-column: 1 / span 6;
+      margin-top: 156px;
+      background: var(--accent);
+      color: var(--paper);
+      padding: 44px;
+      min-height: 500px;
+    }
+
+    .blue-panel h2 {
+      font-size: 78px;
+    }
+
+    .closing-list {
+      grid-column: 8 / span 8;
+      margin-top: 156px;
+      border-top: 1px solid var(--line);
+    }
+
+    .closing-list div {
+      display: grid;
+      grid-template-columns: 72px 1fr;
+      border-bottom: 1px solid var(--line);
+      padding: 28px 0;
+      font-size: 34px;
+      line-height: 1.08;
+      font-weight: 700;
+    }
+
+    .closing-list span:first-child {
+      font-family: var(--font-mono);
+      color: var(--accent);
+      font-size: 18px;
+      font-weight: 500;
+      padding-top: 8px;
+    }
+
+    /* === NAVIGATION === */
+    .controls {
+      position: fixed;
+      left: 50%;
+      bottom: 20px;
+      transform: translateX(-50%);
+      color: var(--paper);
+      background: var(--ink);
+      border: 1px solid rgba(250, 250, 248, 0.35);
+      padding: 8px 12px;
+      font-family: var(--font-mono);
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      z-index: 100;
+    }
+
+    .progress {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      height: 3px;
+      background: var(--accent);
+      z-index: 101;
+    }
+
+    @media print {
+      html,
+      body {
+        width: 1920px;
+        height: auto;
+        overflow: visible;
+        background: var(--paper);
+      }
+
+      .deck-viewport,
+      .deck-stage {
+        position: static;
+        overflow: visible;
+        transform: none !important;
+      }
+
+      .slide {
+        position: relative;
+        visibility: visible !important;
+        opacity: 1 !important;
+        pointer-events: auto !important;
+        break-after: page;
+        page-break-after: always;
+      }
+
+      .controls,
+      .progress {
+        display: none !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="deck-viewport">
+    <main class="deck-stage" id="deckStage">
+      <!-- S01 Cover: Why Me / Why OpenAI -->
+      <section class="slide ikb active visible" data-title="Why me, why OpenAI">
+        <div class="topline"><span class="topic">OpenAI SDR Loom — DoorDash Account Strategy</span><span class="count">№01 / 09</span></div>
+        <pre class="ascii">▒▓█▓▒░░▒▓█▓▒
+▒▒▓█▓▒░░▒▓█▓▒
+░▒▓█▓▒░░▒▓█▓▒
+░░▒▓█▓▒░░▒▓█▓
+▒░░▒▓█▓▒░░▒▓
+▒▒░░▒▓█▓▒░░▒</pre>
+        <div class="grid">
+          <div class="big-title">
+            <div class="label muted">Why me / why OpenAI</div>
+            <h1>Enterprise sales.<br/>Technical workflows.<br/>AI proof.</h1>
+          </div>
+          <p class="title-note">A Strategic BDR should turn signal into a real account thesis, buyer map, proof path, and next step.</p>
+        </div>
+        <div class="footline"><span class="left">Seth Lim · Strategic Business Development Representative</span><span class="right">Singapore · 2026</span></div>
+      </section>
+
+      <!-- S03 Statement: DoorDash AI POV -->
+      <section class="slide paper" data-title="DoorDash AI POV">
+        <div class="topline"><span class="topic">DoorDash AI POV</span><span class="count">№02 / 09</span></div>
+        <div class="grid">
+          <div class="statement">Growth with <span class="accent">operating leverage</span>, not more AI for its own sake.</div>
+          <div class="small-note">
+            <div class="label accent">Account point of view</div>
+            <p style="margin-top:22px;">DoorDash already has visible AI momentum. The next wedge is reducing local-operations friction across consumers, merchants, and Dashers.</p>
+          </div>
+          <div class="bars">
+            <div class="bar-wrap"><div class="bar" style="height:105px;"></div><div class="bar-value">3-sided</div><div class="bar-label">Marketplace trust</div></div>
+            <div class="bar-wrap"><div class="bar" style="height:155px;"></div><div class="bar-value">933M</div><div class="bar-label">Q1 orders in source</div></div>
+            <div class="bar-wrap"><div class="bar" style="height:205px;"></div><div class="bar-value">$31.6B</div><div class="bar-label">GOV in source</div></div>
+            <div class="bar-wrap"><div class="bar" style="height:132px;"></div><div class="bar-value">Ops</div><div class="bar-label">Friction repeats at scale</div></div>
+          </div>
+        </div>
+        <div class="footline"><span class="left">Recheck public-company figures before recording</span><span class="right">POV / SOURCE-BACKED</span></div>
+      </section>
+
+      <!-- S11 Horizontal Timeline: Use Case Workflow -->
+      <section class="slide paper" data-title="High-impact use case">
+        <div class="topline"><span class="topic">High-Impact Use Case</span><span class="count">№03 / 09</span></div>
+        <div class="grid">
+          <div style="grid-column:1 / span 11; margin-top:150px;">
+            <div class="label accent">Use case</div>
+            <h2 style="margin-top:16px;">Multilingual Dasher activation voice layer.</h2>
+          </div>
+          <p style="grid-column:12 / span 5; margin-top:176px;">Start with Dashers who completed onboarding or an early delivery, then stalled before becoming reliable supply.</p>
+          <div class="timeline">
+            <div class="phase"><div class="days">01</div><h3>Detect stall</h3><p>Completed onboarding or first delivery, then inactive.</p></div>
+            <div class="phase"><div class="days">02</div><h3>Discover blocker</h3><p>Voice agent asks what got in the way.</p></div>
+            <div class="phase"><div class="days">03</div><h3>Approved answer</h3><p>Explain payout, delivery, or return path.</p></div>
+            <div class="phase"><div class="days">04</div><h3>Write back</h3><p>Recap, escalation reason, structured ops outcome.</p></div>
+          </div>
+        </div>
+        <div class="footline"><span class="left">Value = activation recovery · fewer repeat contacts · cleaner escalation</span><span class="right">USE CASE</span></div>
+      </section>
+
+      <!-- S08 Duo Compare: Workflow and Guardrails -->
+      <section class="slide paper" data-title="Workflow and guardrails">
+        <div class="topline"><span class="topic">Workflow And Guardrails</span><span class="count">№04 / 09</span></div>
+        <div class="grid">
+          <div style="grid-column:1 / span 14; margin-top:150px;">
+            <div class="label accent">Bounded, measurable, reviewable</div>
+            <h2 style="margin-top:16px;">Explain approved paths. Do not decide sensitive outcomes.</h2>
+          </div>
+          <div class="split">
+            <div class="split-left">
+              <div class="label accent">Allowed</div>
+              <div class="spec-row"><span>Tools</span><div>Check fake payout, delivery, offer, SMS, CRM tools.</div></div>
+              <div class="spec-row"><span>Output</span><div>Call recap, blocker, outcome, next action.</div></div>
+              <div class="spec-row"><span>Review</span><div>Every call is auditable by operations.</div></div>
+            </div>
+            <div class="divider"></div>
+            <div class="split-right">
+              <div class="label accent">Escalate</div>
+              <div class="spec-row"><span>Pay</span><div>No autonomous payout or Fast Pay changes.</div></div>
+              <div class="spec-row"><span>Risk</span><div>No fraud, safety, or account decisions.</div></div>
+              <div class="spec-row"><span>Evals</span><div>Test accents, latency, interruptions, edge cases, tool failures.</div></div>
+            </div>
+          </div>
+        </div>
+        <div class="footline"><span class="left">Position OpenAI as workflow partner, not replacement for internal teams</span><span class="right">GUARDRAILS</span></div>
+      </section>
+
+      <!-- S11 Horizontal Timeline: 30-Day Engagement Plan -->
+      <section class="slide paper" data-title="30-day plan">
+        <div class="topline"><span class="topic">30-Day Engagement Plan</span><span class="count">№05 / 09</span></div>
+        <div class="grid">
+          <div style="grid-column:1 / span 13; margin-top:150px;">
+            <div class="label accent">From account thesis to POC path</div>
+            <h2 style="margin-top:16px;">The output is an AD-ready discovery motion.</h2>
+          </div>
+          <div class="timeline">
+            <div class="phase"><div class="days">1-5</div><h3>Build thesis</h3><p>Public AI launches, operating pressure, do-not-claim list.</p></div>
+            <div class="phase"><div class="days">6-10</div><h3>Align internally</h3><p>AD, solutions, product, security: approved talk track.</p></div>
+            <div class="phase"><div class="days">11-20</div><h3>Validate pain</h3><p>Dasher ops owner: drop-off, repeat contacts, pilot metric.</p></div>
+            <div class="phase"><div class="days">21-30</div><h3>Shape POC</h3><p>Success metrics, guardrails, stakeholders, reviewable artifact.</p></div>
+          </div>
+        </div>
+        <div class="footline"><span class="left">Account Director partnership before customer claims</span><span class="right">30 DAYS</span></div>
+      </section>
+
+      <!-- S19 Four Cards: Target, Priorities, Credibility -->
+      <section class="slide paper" data-title="Target, priorities, credibility">
+        <div class="topline"><span class="topic">Target · Priorities · Credibility</span><span class="count">№06 / 09</span></div>
+        <div class="grid">
+          <div style="grid-column:1 / span 13; margin-top:150px;">
+            <div class="label accent">Target the pain owner first</div>
+            <h2 style="margin-top:16px;">Start with Dasher activation. Multi-thread after the pain is validated.</h2>
+          </div>
+          <div class="cell-grid">
+            <div class="cell"><div class="num">01 / TARGET</div><h3>Dasher activation or experience owner</h3><p>They can validate whether the workflow is real.</p></div>
+            <div class="cell"><div class="num">02 / PRIORITY</div><h3>Reliable supply</h3><p>Recover stalled activation into productive supply.</p></div>
+            <div class="cell"><div class="num">03 / PRIORITY</div><h3>Lower cost-to-serve</h3><p>Fewer repeat contacts and cleaner escalation quality.</p></div>
+            <div class="cell"><div class="num">04 / CREDIBILITY</div><h3>Respect existing AI maturity</h3><p>Do not pitch DoorDash as if it just discovered AI.</p></div>
+            <div class="cell"><div class="num">05 / THREAD</div><h3>AI/ML, platform, security, finance</h3><p>Each stakeholder reduces a different risk.</p></div>
+            <div class="cell"><div class="num">06 / PROOF</div><h3>Operator-correctable artifact</h3><p>Specific enough for the buyer to critique.</p></div>
+          </div>
+        </div>
+        <div class="footline"><span class="left">Multithreading protects the champion when it is earned</span><span class="right">BUYER MAP</span></div>
+      </section>
+
+      <!-- S12 Banner: Outbound Message -->
+      <section class="slide paper" data-title="Outbound message">
+        <div class="topline"><span class="topic">Outbound Message</span><span class="count">№07 / 09</span></div>
+        <div class="grid">
+          <div style="grid-column:1 / span 13; margin-top:150px;">
+            <div class="label accent">Narrow pressure-test</div>
+            <h2 style="margin-top:16px;">The ask is not a broad AI transformation meeting.</h2>
+          </div>
+          <div class="email">
+            <div class="label">Draft outbound</div>
+            <p>Hi &#123;&#123;FirstName&#125;&#125;,</p>
+            <p>I saw DoorDash moving quickly on AI commerce, from Ask DoorDash to grocery/cart-building and AI-assisted merchant workflows.</p>
+            <p>One workflow I would like to pressure-test is Dasher activation after onboarding or an early delivery.</p>
+            <p>Worth comparing whether OpenAI could support a narrow voice workflow measured on activation recovery, repeat contacts, escalation quality, and follow-up completion?</p>
+          </div>
+          <div class="side-manifesto">
+            <h3>Selected for judgment, not targeted by automation.</h3>
+            <p>Invite correction. Let the operator say whether the pain, metric, and guardrail are real.</p>
+          </div>
+        </div>
+        <div class="footline"><span class="left">Specific account signal · specific workflow · specific metric</span><span class="right">OUTBOUND</span></div>
+      </section>
+
+      <!-- S04 Six Cells: Demo Setup -->
+      <section class="slide paper" data-title="Demo setup">
+        <div class="topline"><span class="topic">Proof Artifact</span><span class="count">№08 / 09</span></div>
+        <div class="grid">
+          <div style="grid-column:1 / span 12; margin-top:150px;">
+            <div class="label accent">Simulated Dasher reactivation call</div>
+            <h2 style="margin-top:16px;">A workflow artifact operators can critique.</h2>
+          </div>
+          <div class="cell-grid">
+            <div class="cell"><div class="num">01 / TEST</div><h3>Discover blocker</h3><p>Can the agent find the real reason the Dasher stalled?</p></div>
+            <div class="cell"><div class="num">02 / TEST</div><h3>Check facts</h3><p>Payout and Fast Pay explanation from fake demo tools.</p></div>
+            <div class="cell"><div class="num">03 / TEST</div><h3>Handle edge case</h3><p>Customer texted a different address after the app address.</p></div>
+            <div class="cell"><div class="num">04 / TEST</div><h3>Safe return path</h3><p>Challenge pay, source of truth, no guarantee language.</p></div>
+            <div class="cell"><div class="num">05 / TEST</div><h3>Close loop</h3><p>Preview recap and write structured CRM outcome.</p></div>
+            <div class="cell"><div class="num">06 / BOUNDARY</div><h3>No real systems</h3><p>No real data, integrations, payout changes, or account decisions.</p></div>
+          </div>
+        </div>
+        <div class="footline"><span class="left">Demo is a conversation artifact, not production readiness</span><span class="right">LIVE DEMO</span></div>
+      </section>
+
+      <!-- S09 Closing Manifesto: Standout Close -->
+      <section class="slide paper" data-title="Standout close">
+        <div class="topline"><span class="topic">Standout Close</span><span class="count">№09 / 09</span></div>
+        <div class="grid">
+          <div class="blue-panel">
+            <div class="label">Method</div>
+            <h2 style="margin-top:24px;">Make the opportunity real.</h2>
+          </div>
+          <div class="closing-list">
+            <div><span>01</span><p>Researched account thesis.</p></div>
+            <div><span>02</span><p>One measurable workflow.</p></div>
+            <div><span>03</span><p>Working proof artifact.</p></div>
+            <div><span>04</span><p>Guardrails before scale.</p></div>
+            <div><span>05</span><p>Account Director-ready next step.</p></div>
+          </div>
+        </div>
+        <div class="footline"><span class="left">Business pain + stakeholder map + workflow proof + technical judgment</span><span class="right">CLOSE</span></div>
+      </section>
+    </main>
+  </div>
+
+  <div class="controls" id="controls">№01 / 09 · arrows / space</div>
+  <div class="progress" id="progress"></div>
+
+  <script>
+    /* === SWISS DECK CONTROLLER === */
+    class SwissDeck {
+      constructor() {
+        this.stage = document.getElementById("deckStage");
+        this.slides = Array.from(document.querySelectorAll(".slide"));
+        this.controls = document.getElementById("controls");
+        this.progress = document.getElementById("progress");
+        this.index = 0;
+        this.scaleStage();
+        window.addEventListener("resize", () => this.scaleStage());
+        window.addEventListener("keydown", (event) => this.onKey(event));
+        window.addEventListener("hashchange", () => this.fromHash());
+        this.fromHash();
+      }
+
+      scaleStage() {
+        const factor = Math.min(window.innerWidth / 1920, window.innerHeight / 1080);
+        const x = (window.innerWidth - 1920 * factor) / 2;
+        const y = (window.innerHeight - 1080 * factor) / 2;
+        this.stage.style.transform = `translate(${x}px, ${y}px) scale(${factor})`;
+      }
+
+      onKey(event) {
+        if (["ArrowRight", "PageDown", " "].includes(event.key)) {
+          event.preventDefault();
+          this.show(this.index + 1);
+        }
+        if (["ArrowLeft", "PageUp", "Backspace"].includes(event.key)) {
+          event.preventDefault();
+          this.show(this.index - 1);
+        }
+      }
+
+      fromHash() {
+        const match = window.location.hash.match(/slide-(\d+)/);
+        this.show(match ? Number(match[1]) - 1 : 0, false);
+      }
+
+      show(nextIndex, updateHash = true) {
+        this.index = Math.max(0, Math.min(nextIndex, this.slides.length - 1));
+        this.slides.forEach((slide, idx) => {
+          slide.classList.toggle("active", idx === this.index);
+          slide.classList.toggle("visible", idx === this.index);
+        });
+        this.controls.textContent = `№${String(this.index + 1).padStart(2, "0")} / ${String(this.slides.length).padStart(2, "0")} · arrows / space`;
+        this.progress.style.width = `${((this.index + 1) / this.slides.length) * 100}%`;
+        if (updateHash) history.replaceState(null, "", `#slide-${this.index + 1}`);
+      }
+    }
+
+    new SwissDeck();
+  </script>
+</body>
+</html>

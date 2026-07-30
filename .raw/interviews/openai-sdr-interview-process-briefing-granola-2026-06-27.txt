@@ -1,0 +1,548 @@
+
+Meeting Title: OpenAI SDR interview prep — process, sales approach, and deal walkthrough
+Date: Jun 27
+Meeting participants: Zheyi Lim
+
+Transcript:
+ 
+Them: I mean, she never interacted with me.  
+Me: I just assume that it's part of course even if I get a job right what allow it means I start in what? Do I do let me go find some business to do.  
+Them: I heard. So I heard that they are gonna change the. I mean, don't know when, but they're gonna change the. Commission structure to a variable. Soon.  
+Me: Yeah but I mean my take on this is that the product on molar like it's my yeah because.  
+Them: Yeah, true.  
+Me: The opinion you saw already 5.6 came out.  
+Them: Yeah. And then it was blocked.  
+Me: Yeah I mean I think that the only claw and open the eye and the race Gemini is out I don't know if you pull the news but they basically pushed everyone from gemini like recently like everyone the hit Gemini is in open air now.  
+Them: Oh. Shout out to me. They're quite interesting, though.  
+Me: Two horse race you're part of one of the horse.  
+Them: Yeah. True.  
+Me: Yeah. It could be worse though but so hold my other thing.  
+Them: But how's the other? Huh? Also the. Yeah, you had an interview going on. Right?  
+Me: Going for tomorrow for this startup.  
+Them: Oh.  
+Me: Architect role I don't fucking know that but. So far I only heard from these two I applied for seven jobs. Because.  
+Them: Yeah. The Sierra one, did you tell you?  
+Me: Yeah your thanks for leaving what the fuck.  
+Them: I didn't know, though.  
+Me: How you find out your young sin.  
+Them: No, his thinking pose.  
+Me: Oh you post on LinkedIn.  
+Them: Yeah.  
+Me: Four months yeah suddenly the place seems a lot shakier and less comforting I thought it was quite hard but now I'm a bit more like okay maybe there's some questions.  
+Them: I send. You. Yeah, I think. But okay, to be fair, he's the kind of guy, right? They will only leave his solid opportunity. So maybe. Maybe she. S supposed to be, I don't know, man. I'm trying to think something sounding team in Singapore.  
+Me: Yeah. But. Like I mean. There's something good for zero though in effect.  
+Them: Yeah, exactly.  
+Me: Like I mean yeah also I mean they like to hire a lot of the consulting types so I was not very sure.  
+Them: Looking weird. Ah, okay. Familiar that they can of.  
+Me: That's their their pipe I think so yeah I'm also like not.  
+Them: Okay.  
+Me: Like after this plus the I mean I already know that they are because they tried to hire my train my friends in a recruiting partner he's from BCG. So you roughly know what they're looking for money thanks I mean stretch so right now for me like this this startup I'm meeting the guy tomorrow like it's really a question of because like the main thing I'm looking for is like the last small startup I joined right really me up because they're small the variance too high or they're like.  
+Them: No problem, man. Unfortunately. Yeah. Yeah.  
+Me: But if a people horse if I join right I know for a fact that common heat kota this kind of thing like broke opening eye right it's a joke but I mean come on like what else you know you know there's a skewer shoe.  
+Them: Yeah, I get it. Yeah. True. But are you ready for the corporate regime again?  
+Me: Depends L I think the open eye should be more. It should be less corporate because you know there are no middle managers I mean the minimum management layer is very thin that's the way opening operates everybody is a member of technical stuff you know the member of go to market stuff.  
+Them: Yeah. Yeah. Exactly. That was my offer letter, bro. My position is member. Go to market.  
+Me: Yeah yeah I'll start and the idea behind this is that it's like a very flat IC type structure right then you're wrong manager but the manager will actually like not really you know not like award likes how many layers. Open philosophy is will not be like that because I mean from what I've read. So to be good.  
+Them: Okay. I hope so. I hope so, man.  
+Me: Yeah let me let me end the problem is hot so if the product is hot and the culture is not like it's more like IC driven right I think there's a good good trade-off as long as the thing about the promotional path my guess is that the salary is too high to not internally promote you know what I mean?  
+Them: Yeah. True. Yeah. I get it. Yeah.  
+Me: Weird right you pay someone this much then after you tell them actually. Yeah and who are they going to push from and you think about it logically right. Where how many AI sales people are there like.  
+Them: Probably from data. They hire from data. Maybe.  
+Me: Yeah but like do it like it's not like you can really have a big pool of talent trying to get into but I feel like if you work one day one year you probably know more about AI than anyone else right.  
+Them: Yeah.  
+Me: Because yeah so that's my that's my three reasons why I think reasonable I thought about it for a bit also like the fact that they give you unlimited AI tokens right it's quite hot.  
+Them: Yeah. Which is what?  
+Me: Yeah.  
+Them: It's like utilizing, min maxing at the moment.  
+Me: I don't know what channel is doing but he spent.  
+Them: He told me today he built three websites. I don't know for what?  
+Me: Yeah my reasons for yeah don't get it waiting for this.  
+Them: Yeah. No problem. No worries, man. Yeah, I can walk you through the process, actually. Hey, you saw my. You saw my report. I mean, the. The resource sheet.  
+Me: No what you said.  
+Them: The Google sheet.  
+Me: Yeah but that's your interview questions your prep right.  
+Them: Yeah. So I walk you through the processors and I walk you through what they're looking out for. So. Okay. My journey is a bit because I started in December, so let's exclude that. Essentially, the first one is generally a HR rom. Now, hr round followed by a case study. Second one is a case study. So case study, essentially what they will tell you to do is I can say the prep group now. Actually. But I don't know whether it's exactly the same, but this is. Yeah, this is. It's actually a loom video recording of yourself. Presenting. A slide or whatever. About this particular case and an introduction of yourself. Yeah, let me find it.  
+Me: Or the Loom video okay.  
+Them: Yeah, but I. Yeah, this is the one I use called to generate the whole. Wait, give me a second. Let me open up the email. Okay, I got it. Let me just download this. Actually. So you can expect this kind of scenario, this kind of, like, case study, but I don't know if the same exact scenario. Should be similar. One sec. That's any. Way. Yeah, no, not you, telegram. So. Five to seven. Minutes of Loom recording while opening I wide this row. And then after that, basically a dual strategy for me was Uber. And then, like, how. How pitch open AI, like one use case.  
+Me: One second so you got this. So the part one part two is the loom video isn't. Let's see and then after that you would sorry.  
+Them: Yeah. Okay. Okay. I see. Yes, yes, yes, exactly.  
+Me: Business days Loom walk through this link seven minutes or less.  
+Them: I think mine was like six. I don't think.  
+Me: Okay so then this is. How should daughter use AI.  
+Them: It. Actually. Let me see my slides. I did a slide.  
+Me: Okay thanks.  
+Them: But maybe don't copy that.  
+Me: Yeah.  
+Them: Yeah. One second.  
+Me: I do because chalk me free opening I credits. Because you know you can give people right you enjoy you have you can get a referral so he's I'm on like the 200 plan or some.  
+Them: What the. I did not know that.  
+Me: But I got like as far as like end of July but next two weeks I might as well do something very just run like 50 simulations it's basically unlimited yeah.  
+Them: Bro. Yeah. True. Yeah. True. So as anyone telly, but it's quite tailored to my own personal experience. And I. I did a. I did a grab before for one day. I just put that in.  
+Me: And then you just present over this.  
+Them: Yeah. So it's actually seven minutes recording of just walking through this.  
+Me: Then. Sorry what.  
+Them: So this is the second round.  
+Me: S the yeah okay I got it but what's the how come what is line cut off one impact high what was the line here.  
+Them: Sorry, I'll put up your video again. Are you sharing your screen?  
+Me: You just copy and past area. Just like Google is down to sell my Google stocks bro.  
+Them: Oh, yeah. Why the is that? Okay, let me. Let me just copy and paste on you.  
+Me: Thanks.  
+Them: Like that. You got it?  
+Me: Okay cool so basically you prep you did six minutes great.  
+Them: Yep.  
+Me: Then. What next?  
+Them: So this is a case study. Recording of yourself within three businesses. I think they're quite particular about this. Then from there. Once you pass. So that video will be viewed by the VPR, not by the SER manager. So the third round was then a zoom interview with. The North America sales development manager. Like the frontline manager.  
+Me: In us.  
+Them: The gakia. So it's in us, correct? So she just joined us. So she was previously from. Statistic or some.  
+Me: Test. Ing.  
+Them: Yeah, it's a. So the open company called statistic. Wait, me second. I sent the LinkedIn profile. Then she joined as a BDR manager. This one. No idea. What the is that.  
+Me: Okay. Cool and then this person will interview you.  
+Them: Yeah. Yeah.  
+Me: Found. Er oh she was right right okay got it.  
+Them: Yeah. So she tested. Okay, so for her around. Okay, sorry. I jump over the place for the HR round. HR round was very straightforward. He just asked me about things like multi-speed commission, like the bay, and then also asked me, like, things like, why open AI? What are you looking out for? Why are you willing to take a step back? Like that? Like, very generic. Then a case study. Then after that, 3D. So this is the third round. So 3T tested me two parts. The first part was. Like, what do you know about open air? Like, pitch to me as though you're telling your parents, like, how you explain LLM or how you can agent this kind of. Then she also asked me what's my motivations. She also asked me, walk me through, like, a deal. They close end to end and also, like, your prospecting motion.  
+Me: And then prospecting.  
+Them: Yeah. So these are some of the questions you asked, like half. Half is the knowledge of AI and half is your. But basically from. From what. And she also walked me. She also walked through the recording that I did. So she also gave me some feedbacks and then see. Like, kind of. She asked me some questions that to test, like, whether I was willing to learn the kind of. The kind of. Yeah. Like whether I was humble and willing to learn or, like, you know, like,  
+Me: Oh.  
+Them: I don't know. But. So that's for. I think when she asked you about openai and, like, why open AI and, like, explained to me how and all this, I think that don't go into too much detail because I don't think he's super technical. So she just want to understand whether you know your. Yeah.  
+Me: Okay.  
+Them: So it's from this interview onwards, right? Where I did everything value based. So, like, she asked me my prospecting style. I'll take quote things like consultative approach. So I'll throw, like, passwords. Consultative approach. I would say, like, I do command of message. It's all about understanding their priorities. And what. What matters to them. Right. So that's for every starting conversation. I always try to find customers priorities or methods to them what they want to achieve. And then from there, I understand the current setup, the quarantine points. And what you, what kind of business impacts it links to. Right. Elite zoo if they are struggling with all of these current situations. And then from there, I will go into understand what's the idea tools are new setup. And then from there. With the audio tools and ID setup, what they hope to achieve in terms of business outcomes. And then from there, I'll match open the eyes where we do that. Something like that.  
+Me: So long story short it's okay without going into more details here it's really not a case lot of live case. Okay got it.  
+Them: No. Then after 3D.  
+Me: Yeah.  
+Them: Once you pass duty, you then go into interview series. So interview series is done on the same day. It's like typically two to three rounds. For us, it's just two lines. I think for. Because I don't want to say language proficiency, but I didn't define that. So it's two rounds for me. One in the morning and then one in the late night. What? It's with. All enterprises. The coin is all Enterprise ads. Cloud equivalent. So mine was. One was from. Aussie and one was from us, both for, like, quite a lot. Like two years in opening kind of.  
+Me: Interesting.  
+Them: Yeah. So for these two interview series. Right? The first one was a technical fluency product in frequency. The second one is commercial human. So the tanker fluency one, the more in depth of, like, what do you know about, like, hallucination can be 100 avoided? What is RAG? You know, this kind of. So he literally tests all of these Concepts, which everything's in my prep dog now. Everything I've had there, he actually asked.  
+Me: Quite a lot.  
+Them: A lot, bro. Not me, bro. Yeah. So he asked all of that. So that took up about 20 minutes. Everything about product technical fluency. Then the last 10 minutes he actually asked me, so, like, how would you pitch open AI to a competitor who is already using copilot? Not committed. Prospect as you're using. Right. What's anger you're going with? You ask that. That you ask, like, how do we compare compared to anthropic, for example? Like, how do we win? Yeah. So he asked some questions. And then the last one minute or two minutes, I think this event off script. But he asked me, like, he was genuinely curious, like, why the. I want to take a step back into SD. R. I see, bro. Korean non-linear I think one step back, two step forward.  
+Me: This is funny why I need to keep poking you at the it seems like everybody asks you that question right.  
+Them: Zhei. Yeah, exactly. Any higher point, bro, specifically. So, like, I don't know.  
+Me: What the did they want to hear like bro is the best song interesting I mean the idea is just that open has generational company right that's the only reason right.  
+Them: I think so. I think so.  
+Me: Because I will not be at for any other reason I think.  
+Them: Yeah, it's openai. Yeah.  
+Me: If even if I'm mistro offer SDR I will not take because it's open here I guess that's what you want to hear right okay whatever.  
+Them: So. Yeah, I think so. I think so. Then that's for the product integral fluency. Now, the next round, which is the sales arcument one, the common check moment order one is quite intense. So commercial acumen, he literally asked me about things like methodology. What me should I do end to end? Oh, make sure one third thing that you had from a deal. Walk me through some of the, like, how do you prospect into, like, what? Then he has some specifics. Like what's your target? How many run rate deals do you do a month or a quarter? And essentially you want me to show you how you lost. And then also he will say, he'll ask you things like hypothetical questions, scenario based questions. Like, let's say, for example, you to start with open AI, what kind of companies will you start off prospecting or targeting first? Like. Right. Things like that. And then he'll ask you what anger or value driver will you land with. Like basically what the fight is about selecting message, essentially. Right. So what we learn with, he will ask you this kind of stuff, and then he will also ask you. Like, quite repetitive. He also asked, like, let's say, for example, a prospect using anthropic, then they ask you, why should we consider open air? Why should we both? Like, how are you? Like, objection handle. Basically. Yeah. So it's all. Like sales methodology.  
+Me: Okay so if you hear me right all right so he will ask like how you when he asked like specifically what methodology you use or because actually I never I don't really understand what magic I mean I know what these things are right but.  
+Them: No.  
+Me: Did you follow those by the book or is it more.  
+Them: Not exactly. But the essentials are there. So essentially they won't ask you, like, exactly what's the framework you use, right? Or what's the sales methodology you use, but, like, through the questions you asked, right? It's actually elements of value selling in consultation, consultative based selling. Basically, if it's not costly, it's not. Discount based, not cost base selling. Yeah.  
+Me: I. Mean so.  
+Them: Yeah.  
+Me: I don't have to go. Because I mean I never did like formal sales training it's kind of wondering like I guess the framework is just the high level thing and then you just take the elements of it and then construct your own.  
+Them: Correct. And it's always leading with what's your priorities? What's their challenges? What's their pay point?  
+Me: Audio again.  
+Them: S? So it's not about, like, we are cheaper or it's not about our products are so much better.  
+Me: Priorities pinpoints and what's lesson?  
+Them: Challenges. Yeah. So never, ever approach. So if we ask you, right, you shouldn't portray your angle will be landing with cheaper pricing, or you shouldn't be lending with open AI product superior or wider in breadth or whatever. It shouldn't be the case.  
+Me: I see but then when you talk about the versus entropic angle right. What do you come up with.  
+Them: Yeah. So for that one, right? I would say, actually, I structure it in a different way. So I would say. If the prospect tells me they already currently using entropy, I'll say the grade, right? Most companies first step is actually. Trying out AI or establishing AI. But since your company already has entropy in some of our workflows, I think that's great. Green composition here is not repair and replace. Right. I'm not here to replace our entire entropy workflow, but it's actually really that understand your priorities and explore which are some of the projects or workflows that you can potentially use with openai, especially because opening eyes product suite is wider in depth. Right. We have like whisper and a dog like sora and all that. Yeah. So that's the angle I go in.  
+Me: Okay makes sense and like just just to confirm one more point right. When you are so when they ask you when you compete against entropic are they talking about using codex or they talking about like enterprise deployments?  
+Them: Yep. In general, enterprise deployment.  
+Me: Enterprise deployment is it so I buy I ask someone because confusing me sometimes because he's like sort of selling seeds for codex right.  
+Them: Yeah, in general.  
+Me: It's like cut that is that is that what they're really is that the interview angle or is it more like okay we're going to help you revamp your company's AI workflows.  
+Them: Okay. Okay. I get it. No, not your house floor. Okay. TLDR. They are already more about, I rather, I think they are testing you for rather whether you can explore if there's avenues that they can utilize openai rather than the whole rib and place conversation. You know what I mean? So it's not about replacing the entire cloak, but it's like where can open AI land. Within their current stack and then from there will be an expand conversation.  
+Me: So it's like broader it's like trying to understand their pain points their challenges their priorities and then trying to fit an open AI as opposed to.  
+Them: Yes, correct.  
+Me: And it could be across like the whole range of bullshit right and then.  
+Them: Yeah, exactly. Rather than like a street, apple for iPhone comparison should right at the start.  
+Me: Okay so I guess like the use cases can be very varied it doesn't really okay okay.  
+Them: Yes.  
+Me: Okay then I guess one last question here would be.  
+Them: Exactly.  
+Me: On the. Deal what what do you really walk through you walk through what. Your funny but then you just push it the value selling stuff I guess.  
+Them: But so I magic the whole value proposition. But actually the, the traits of the deal that was true was multi-trading and reportedly any personal relationship. So I emphasize the because I say one of the deals I did was a big traditional meat market company in Singapore. Because they are so traditional in nature. Right. The relationship and report method model them. And then from there, I, within the whole multi-trading and like report building.  
+Me: Got it got it okay. Okay got it got it I see.  
+Them: Yeah.  
+Me: This thing. Okay so dual flight is for us so you have like how many deals do you like.  
+Them: One. Bro.  
+Me: I remember prep two because like they ask you like hey tell me about two deals what the okay then I guess like.  
+Them: Yeah. Hey, I can prep to.  
+Me: It's important to know this deal inside lala because I think Charles like I helped Trophy for his interviewer right it seems a bit different basically.  
+Them: Yes. Use nlgl, right? Anjag global travel.  
+Me: Yeah no but he also had like a written case study as well.  
+Them: I think he saw it very in depth. This one is very high level going through.  
+Me: Yeah yeah so okay so this was the commercial and then any pointers on technical and commercial these are all pointers right roughly.  
+Them: Yeah, this is a point. That's correct. When they say walk you through, walk me through the deal end to end. Right. Don't go too much into the deal specifics and like the whole like system or like whatever funk you did. Right. Like pricing or whatever. Basically it's a high level. They want to understand is what you did, whether multi-shreading was involved. What kind of approach to use, whether it's value based or like cost base or whatever. Like how you navigated whatever challenges you experience and then how you close it and what you learn. So that's a whole flow.  
+Me: Okay. Cool. This good stuff good stuff okay makes sense I think yeah okay seems so far seems doable with enough prep this is making my life easy bro.  
+Them: Yeah, for sure. Man. What is she calling?  
+Me: Okay then what's next?  
+Them: Okay, so after you pass the series, right?  
+Me: Hey same day how long's interview for this one or 30 minutes.  
+Them: Essentially after. 30. Yeah.  
+Me: 30 okay.  
+Them: Yeah. All right. It's supposed to happen in the, we didn't span of like two hours. Like for example, it's supposed to be back to back, basically. But like, no, no, they want to us. Then the timing cannot make it last.  
+Me: Interesting to do walking us the us I guess like the august because they have ease in Singapore I guess they're not senior enough right okay anyway.  
+Them: So. Yeah, correct. Maybe, maybe because all the 80s was like one, two years start. Sorry.  
+Me: Don't get used to the whole they operate as a global offer okay which is interesting because I mean you would expect like they were just asking for you okay so actually none of the Singapore the nuance like Southeast Asia thing really matters well because like.  
+Them: Yeah. Oh, yeah. Good point, bro. Yesterday asked me this question on the third round. GT asked me the question. What do you think is different in terms of prospecting APEC? And also in terms of prospecting in globally? Right. So the nuances, the regional differences, the cultural differences, they want to stress a lot about. So I say like, for example, markets in India are a lot more cost sensitive. Whereas, for example, you compare the markets like ANZ in Singapore, there are more tech forward and mature. Right. So the conversation is very different in terms of how you prospect. Also. I also talk about like, bro, in effect. Not everyone with email, right? And some people don't pick up cool calls. So like Vietnam, it will be like Zalo, you know, and then Philippines, you'll be like, I don't know what's it was. Yeah. So it's like all this kind of regional apps that they like to use. And he appreciated that. Then she also asked me this question. If you can pick one market in impact to land with, that means to focus on at the start, which market will be and why.  
+Me: Okay. This is the VP this third round VP of your sales.  
+Them: The bro. That's what I'm doing.  
+Me: Or in the us right.  
+Them: Yeah.  
+Me: I guess he doesn't know actually cuz he's not.  
+Them: Honestly, I don't know, bro.  
+Me: About effect right okay so you can say whatever you want I just have answered.  
+Them: Yeah. Oh, well, she's, she spent early days in Singapore, so she's like, kind of like semi-singaporean or some.  
+Me: Okay. That makes sense but okay cool cool cool.  
+Them: Cool. Okay, so I, I digress. So after the commercial human and the product and good fluency round, the series, right, the back to back series, you, after that, you know, whether you proceed, if you proceed, then it will be another series. It will be the two VPS.  
+Me: What. The.  
+Them: So the VPC.  
+Me: So. Many. Okay.  
+Them: I give it a profile once again.  
+Me: Crazy bro I was expecting like lesser rounds to be honest.  
+Them: Bro. Man, I did so many for this. I don't even know where they were. It's like too much for SDR.  
+Me: If anything you sunk cost fallacy you must take the job before you invest how many hours in this.  
+Them: Yeah. Sir. Yeah, exactly. And it's us timing some. What the.  
+Me: Is a us.  
+Them: Yes, same friend.  
+Me: Crazy okay I better pressure on my sent friendship.  
+Them: Yeah. So these are the two. Basically, the two LinkedIn profile. Lauren is the big boss. The marina is just a VP for Lima.  
+Me: So you send me one on oh Lauren okay got it got it okay.  
+Them: Yeah. Lauren and Marlena.  
+Me: Okay.  
+Them: So it's a series. Also. It's actually you speak with each of them separately. Now for Lauren, she's a very tumila. She's a very intense person, so she does a lot of quick fire. So the whole interview is like, walk me through our AG. Okay. How about hallucination? Okay. What me to do? They close them to N. It's very quick. Fire. So I essentially only had time right at the end to answer one question. And she said she had to jump off. Yeah. So she just be prepared for a very fast paced, intense, like integration style internship interview. Yeah.  
+Me: What's the before we go on further what was the. What was the brief they gave you these are no case nothing it's just like them is that was that what they told you?  
+Them: I'm going to call it brief program. This is the email that the recruiter sent me one second.  
+Me: Oh this good they got sent an agenda or not is it just.  
+Them: Yeah. But it's like a few words on you.  
+Me: Like. It was okay.  
+Them: Give me a second.  
+Me: Well then you you're on the fly must think like.  
+Them: Yeah. Yeah. I saw the I.  
+Me: Your bit.  
+Them: Don't know. I can't fluff it, actually.  
+Me: Funny asking about rg is it.  
+Them: Yeah. Justing RG, I treated for whole process.  
+Me: Interesting.  
+Them: One sec. Let me try to find it. Oh, actually, it's nothing. No, no. Problem.  
+Me: No problem so they just tell you talk to them. So this one is really good I mean at least the technical and commercial one they give you some sort of.  
+Them: Oh, the recruiter told me to prep for like a wallet. Open AI mission and then use. They never asked me about that, bro. So they find me the wrong.  
+Me: Okay okay cool so they ask you pray for mission values I guess I should read into that as well.  
+Them: Yes. You should.  
+Me: The mission.  
+Them: In case they ask.  
+Me: Sometimes this.  
+Them: Yeah. But I honestly don't even know if. I honestly don't know if they ask, but those are to prepare.  
+Me: Don't worry don't worry I'm not I'm not going to screw you.  
+Them: Okay.  
+Me: If anything like I actually feel like I really know the answers to most of these it. S just like if I can prep all right. Yeah don't shit my bedroom. All right.  
+Them: Yeah. Makes sense. Well, so for Lauren, right? Yeah. Quick fire style. Ask me half. Half of it was asking me about single questions, the RG and the hallucination, like same repeat questions. Then second half is asking me more about. Like, you know, those kind of sales situational based questions.  
+Me: Not really.  
+Them: Okay, so essentially she asked me things like. If you want to join open AI, what's the campaign you use to start targeting or prospecting customers? Then basically it's like messaging and all. Then she'll ask me things like. About walk me through that multi trading. She'll ask me things about like. She actually dig into my past deals in a wallet. So she asked, she asked me things like what's my average view size in LX? How many run radios I have in my pipeline? How many views I close per month? What's my target. And things like that.  
+Me: What do you say you got numbers at the back of your hand.  
+Them: On the fly? Though?  
+Me: What's your average this size.  
+Them: So I said 3 to 5K per month.  
+Me: Okay it's very far for enterprise already I guess that's like.  
+Them: Yeah, it's very far off.  
+Me: That.  
+Them: Correct. So I told her like I've been so I was quite upfront for it. I told her my role in LX was SME and growth was literally commercial in makila. Right. And it was a very high velocity based kind of motion. So all these opportunities we had to learn about enterprise. Yeah. So that's Lauren. Basically. Use the start template if you know the style template. Yeah. To answer the new questions, research questions. I should ask you the sales and then also the technical question. So that's for Lauren. For marlina basically she just asked me everything about sales. The whole same like basically like what me to do in the end but like in different phrasing.  
+Me: Do you really want to make you like understand how you think about sales.  
+Them: Yeah correct.  
+Me: Okay. We say like there's anything that you learn from figma and data log. That you. Applied here or because you know what I mean average didn't teach you right like this is the truth you sort of like you go in there you close the deal and you don't really think too much about it right so what you learn from data dog and figma all these kind of was it more like.  
+Them: Yeah.  
+Me: You didn't care about your previous examples from those companies you didn't use that wallet.  
+Them: No you just reminded me so from alina right. Marina asked me a very interesting question right at the start she asked me what me through your experiences with a house from the adult chima and then what actually said want me to each of the experience and then walk me through. What you learned from each experience and what you could. Yeah that's fucking weird but like why leave for figma like example what you did for figma. Then why you left my fireworks like when I say longer than how you eat it things like that so she asked me to come questions. And she also drew into a little bit about my figma experience because I told her I was literally was the founding team right so like first as ER on the ground so she asked me like what I did there. Like what worked if you ask me like what's the system or the table I have to build up for string?  
+Me: And I guess all sales oriental is. Like okay makes sense.  
+Them: The marinara didn't really ask me about any product authentical questions.  
+Me: Okay. Okay so actually you really should think of it as like a like a pure sales interview like which crosses the technical once in a while once they sense check whether they're trying to ask you for RNG but I bet they don't they don't really really know anyway right so it's like.  
+Them: Yeah. All right. Bro yeah I'm pretty sure they don't.  
+Me: Yeah I see.  
+Them: Oh also keep it handy right like one pointer about what you're interested about open eye so I see some shit about building my first green agent.  
+Me: Because.  
+Them: Then oh wow shit cool nice nice.  
+Me: You bidding your what your first.  
+Them: They will ask you like why open AI and then they ask you like why are you interested in AI? What's your experience with AI?  
+Me: Yeah.  
+Them: Then I would say I for me I use the story about how I built my first green agent on like site gummies agent now but essentially I built my first game agent and then I made sort of like oh do I see if I have an award one hour every day every week. When you like it?  
+Me: Okay this is like a lot of examples for so good to go okay but they want to hear this kind of.  
+Them: Yeah.  
+Me: Good because I was just thinking about it when I wrote my CV as well I was like how much do I put in just sales and how much I put in like the stuff I built? But I guess counts on something because I don't really know what the they're looking for I guess but. Bigger okay then then I guess like I guess they really need to prep on this every all the sales deals I've ever done in my life across multiple companies.  
+Them: So I would say I would say if you have if you have time take some time to rehearse the one or two deals you prep right and rehearse how you do the whole approach I did which is the consultative value based kind of approach rather than the wall X well not get approach.  
+Me: And then like I guess they ask you like where what challenges do you face how do you overcome that all that crap.  
+Them: Ed. Yeah so as much as possible I actually never talked about like cheaper discount cost base this hardship. In all my views. Yeah.  
+Me: Hopefully we'll never have to do that again if you join me.  
+Them: True yeah but fucking hit beeps man seriously.  
+Me: I'm talking here today selling vibes right that's the truth of what I could right send him to some boring bro. Ther.  
+Them: I'm getting 20 bits can you go lower T by.  
+Me: Do close bro.  
+Them: Yeah okay now for you.  
+Me: You. Ll think about market roof okay okay got it got it okay so these two VPs they are very senior right I guess.  
+Them: No. So. Marina okay interesting thing marina onboarded the same similar time as chao so mine is quite new but Lauren has been for quite some time. Yeah.  
+Me: Okay so then what next.  
+Them: After if you pass these two rounds essentially recruiter will reach out. And if okay the sure indicator that you pass right is they ask you for reference check. You get yeah what if you have a friend check means more or less than.  
+Me: Yeah I know it's a lot but damn.  
+Them: A.  
+Me: So this is it's the end.  
+Them: Yeah sharing my prep tree people by the way.  
+Me: You.  
+Them: Yeah.  
+Me: Make sense right like you you put.  
+Them: Manager as another one. And then I put Z.  
+Me: Yeah I've heard two senior and. One can I think about that I mean I feel.  
+Them: Yeah so.  
+Me: You better right you just joining.  
+Them: Then they'll be like walking stars check and then we reference to each other.  
+Me: I'm just kidding we'll get there we get there bro.  
+Them: So the cadence right essentially is. After every round typically they'll get back to you within one to three business days right anything longer than that means more or less your application will be at risk.  
+Me: One of trees.  
+Them: They are quite fast on if you're good and they want you there you'll be quite fast so one to three business days is the average time I had before I got a response.  
+Me: So once I finish the hr thing right then I can expect it to run across two weeks long. Two trill.  
+Them: Yeah as as early as two tricks correct.  
+Me: Ions. Okay okay that's good. The I also want me to do it like next week bro honestly.  
+Them: Yeah do you know we have a one week holiday also I don't know.  
+Me: Yeah I guess it's real right I was like I felt like what the give me two weeks like bro like you not interested in me. Charity caller but I guess they really do have a one week off so.  
+Them: Yeah. They are still very early stage I would say.  
+Me: Yeah. So actually what's the. What is the deal what you told me you told me that they were hiring like what four people. Something about.  
+Them: Six to Thursday asked me.  
+Me: Six SDRs and they're trying to close it off by what n orcas.  
+Them: So I could let me honestly I don't even know what can trust or not so they told me maybe it's a ploy to get me to sign faster I don't know but yeah doing it by end July. And July do you want to close it off ASAP? They're in the midst of having an apex so currently right currently there's only two that means like one girl that's already started last week and me that's fine oh offer rather so there's only two that's confirmed so far.  
+Me: Should be formal okay.  
+Them: Yeah.  
+Me: Yeah.  
+Them: I don't know about like the current pipeline now.  
+Me: I'm in four four if it's two more I'm a bit like okay well cuz you know if I get another job first all right which actually I stand a good chance to get labelled like a question of like if this thing pushed by two weeks right then they tore for like n one month right then I also.  
+Them: So. Yeah.  
+Me: Rather them align nicely okay because I applied for the startup job a bit later because my guess was that okay but basically if you tell me if it's two weeks so if I pract everything now then they ask me for next slot right I show a book quickly and then I just run it then I can actually get this by end July live everything goes like perfectly right it will be the.  
+Them: Exactly. Yeah. Correct. What's the what's the startup you're interviewing for.  
+Me: Hypotenuse it's like a yc.  
+Them: Oh I heard about that okay.  
+Me: I don't know how well they're doing. Right but the role is a bit of a mixed rule it's like I don't know this robots.  
+Them: Interesting.  
+Me: But the thing about small companies is just that. Like like if you ask me at this stage of my career right I would like to have open air my CV small companies it's really boomer bustle.  
+Them: 2.  
+Me: Yeah so I open that as I safer bet.  
+Them: Hypotenuse interesting well actually they're quite small. I mean like number one boys wise.  
+Me: So hard to tell they've been around five years though. And you look at this JD right it doesn't tell you what the you're supposed to be doing.  
+Them: Okay. Yeah exactly.  
+Me: I'm very confused about it's one of those classic early stage companies like you do everything.  
+Them: Yeah yeah yeah yeah that's how I feel so that what's required.  
+Me: This is the kind of job that gets you know me. From my the company I quit. I saw the story that's so nice the end of. Bro he's open at me more like cleaner and clear so what do you tell you about the role? I saw the role in the end will be attached to one each.  
+Them: Yeah. True. So it's a pure outbound rule there is no invalids invalid is apparently go straight to the ad equivalent the thread level so that means like no small deals it's all like strategy Enterprise customers that you are targeting you'll be tagged to couple of ease to know how many also but they are not sure so but you put the meeting you run the first first call that's it.  
+Me: That's what they told you.  
+Them: Yeah.  
+Me: On the first call and then you you pass it over.  
+Them: Yeah and then he said I will be involved in like event and I mean all the psych yes.  
+Me: The second.  
+Them: Exactly.  
+Me: Guys.  
+Them: Yeah. But from. So but I understand that I know for a fact that there's 80s currently in like sitting east and opening in Singapore.  
+Me: Eta. But they're all quite all right.  
+Them: Yeah they're all like talking VP sending a step back like you know the child but like just like.  
+Me: It feels like a small fish in there because I mean the a is all younger I also be like maybe I want to run a do myself no but I guess if they're old enough you're like yeah.  
+Them: Yeah.  
+Me: That's the feeling right but they're all senior.  
+Them: Exactly. Yeah. Like okay then so apparently the ad team is quite young as young as like one year or less than you. But they're all like hotels.  
+Me: Let me see okay okay. Yeah because I think. They only like reason you would be at SDR is if the AES are good.  
+Them: Yeah correct it's like everyone takes a couple step back you know kind of organization.  
+Me: And they can close that.  
+Them: I hope so I don't know.  
+Me: Yeah first life is if you fumble instead of you know the guy can okay then I guess like what did they say about a promotion thing again they were saying like what 80 you know what trapped 18?  
+Them: Yeah exactly. 12 to 18 months okay so I had a chat with Lauren during my interview sharing with me like she'll try to push reps to be close to 18 months promoted to so this will be the fastest try to become ad as compared to if higher externally you know the same spew she would say like if you hire externally we look for someone that is like six to ten years experience but this if you join us as sdr this will be the fastest tracking pump ad in openai so she said that. I mean to give a this one is sitting in the adult but then I still let it sdr.  
+Me: But I mean I think the main difference is that. We were quite a lot younger than love.  
+Them: True.  
+Me: S experience actually at this point you more years experience do you want right because you work 12 to 18 months right you were six and a half or you're.  
+Them: Yeah exactly holy.  
+Me: Like if it's around there to be a cuz all the jds for is I see is seven to ten years now in all the enterprise companies that I've looked at so I'm not even bothering to apply because I'm like from like if I want to do a sales role this is the only path that's all natural that it is seven or ten years with all of them must be enterprise sales experience no can't get a job.  
+Them: Yeah exactly.  
+Me: What am I doing right so I guess the only path is actually true opening that's the rationale I have because otherwise actually we want breaks we cannot break into it like oh you even get a job at Sierra as.  
+Them: Yeah I hope so I'm betting on it. Yeah.  
+Me: A.  
+Them: To climb to me market somewhere and they climb climb climb for years.  
+Me: Yeah yeah so this one seems like the most best path okay so what's the any any last final advice thoughts.  
+Them: No I would say. The structure I share if. You just be prepared for. Like on the spot render mesh that they throw at you the question twice. And also oh yeah one thing don't be a challenger so what I mean by that is I feel like throughout my interview runs with the VPs not the VPs are the final two rounds I feel like they have like in their mind a picture or impression of like a sdr they want to hire like extreme SDR candidate right they're not looking for like challenges like people that's like outside the box you know they want people that's like fit the more kind of.  
+Me: Okay.  
+Them: Yeah that's the vibe.  
+Me: What is the move let's also ask you like what's what's the mode you're looking for?  
+Them: Yeah so it's actually the whole package is. This particular a that wants to take a step back just for AI to be SDR to chunk and also it's a very consultative and value based seller. And humility something like that right that's the whole package I got.  
+Me: Funny they want everyone to get that back bro. They like he's the goat everybody like yeah because that means everybody is ICC.  
+Them: Yeah.  
+Me: That's the only main takeaway you have because no no there will not be layers you know and what like the problem was that they put out too many consultants become the layer of consultants over consultants over consultants.  
+Them: Exactly.  
+Me: It was a mess but then in terms of the more right I guess like. Are they like for property? That's what I'm kind of curious about. What's the vibe you got people are like friendly are they like.  
+Them: Okay it's not like the LX property Vibes don't worry. That's not I would say corporate yes to some structure to some extent but like not not like. Yeah not not not to the extent not not too. Like I don't know bro the supervision it's not like that.  
+Me: The interviews are all like very serious now basically go in there like super serious phase. And like.  
+Them: Is more that's more of here I mean. How do I put it out it's the right balance of no joke one plus some better a little bit like some humor a little bit of humor not mental humor.  
+Me: Humor okay okay I was like are these guys like don't really know what the pressure of an enterprise e is.  
+Them: Yeah.  
+Me: Like are they like.  
+Them: Yeah. Don't I. Don't know.  
+Me: But okay you got it so like just just just just be normal. But no joke.  
+Them: Yeah no job. Yeah the end of the case study the enterprise a is that doctor during my interviews they are nothing like trial so yeah.  
+Me: What does that mean?  
+Them: Means like I don't know when you're talking you know like better and all.  
+Me: But they're like very serious like what people are.  
+Them: The more serious.  
+Me: Okay cool cool cool sounds about right then anything else to prepare other than the slides and Loom does it?  
+Them: That's it they might ask you to one of the one of the one last thing during the sales acumen call they might ask you how do you prepare for this interview you use AI to prepare for the interview. And then screen share your prep.  
+Me: Okay.  
+Them: Yeah. So that's the one I factor a little bit because I use cloud right now I was like watch I don't use I don't feature my cloth. Bro luckily I copy paste everything to Google docs and you just screenshare.  
+Me: The answer is you can use AI right.  
+Them: I think they are expecting you to use AI.  
+Me: Here. Bro I'm gonna show them my codec setup my codex now is sick okay okay makes sense okay cool. Okay.  
+Them: Cool anything else you want to check.  
+Me: Then the offer you gonna or you just take it.  
+Them: Oh the okay the last part if you enter to the offer stage is a fixed band NZR is a fixed band 215 K based 192 RCO 192 RSU is six. Now they were saying that they will be open to hiring a younger. Band or faster fresh like a fresher experience one but there will be lower pay and there will be sometime later on. So that means there will be two tiers later on the current year which is the senior tier and then later on they'll be more open to like one to two years time.  
+Me: Okay so the way people below us.  
+Them: Yeah.  
+Me: Don't really want to be the smallest.  
+Them: Juniors.  
+Me: But the salary is like non-negotiable no legal right take care leave.  
+Them: Money go yeah. That's like twice a year.  
+Me: The author is I guess.  
+Them: I think as you asked really two two double.  
+Me: Then the com structure they want to change you don't know when they never say.  
+Them: Yeah Lim no.  
+Me: Okay. Okay cool. And how long do you interview again your process three weeks.  
+Them: I could do my cow I see that from the first date. So I started my first process back I mean first call back. 25th. And then I got the offer on 22nd.  
+Me: 25th May and you're quite fast on everything.  
+Them: Yeah. I mean I didn't book for the next things they kind of thing like this one asking.  
+Me: Okay.  
+Them: Yeah. I had like a two three day gap before I read the interview so that I can prep.  
+Me: What do I do between this period why is my own problem.  
+Them: Are.  
+Me: This time will come true bro he.  
+Them: Yeah. Wait he release.  
+Me: S trying to get approval from watami. So but if he gets if he isn't proof right then actually I can just spend the next two months doing this yeah then start it right you you say basically one month.  
+Them: Or. One more so okay so start date is. Fixed to the onboarding schedule there's two weeks so it's onboarding SF right the first day will be next Saturday for for two weeks apparently and it's every two weeks. Is. So that means like it's either I start on 20th of July or 3rd of August they give me the option.  
+Me: This today.  
+Them: Yeah.  
+Me: Okay cool also it's fixed fix okay I can hear myself I'm just thinking about my own schedule the unemployment like a bit boring as well I'm doing.  
+Them: Yeah. No problem. Take a chill.  
+Me: Well for me money going out just spending money on us is this okay and then what do you dress like you just wear you wear a suit or you wear a nice shirt right there.  
+Them: White long sleeves like the color the office shirt and then zoom right.  
+Me: Yeah.  
+Them: No no in person also.  
+Me: You didn't meet them a single time in person. Okay I'm surprised okay good then my wardrobe is sufficient.  
+Them: Yeah so just just a shirt and I want like.  
+Me: For all zooms okay.  
+Them: Yeah.  
+Me: Okay. Okay cool. Then sorry last one mission values what do you say very correct.  
+Them: So. This is the explicitly asked me what like what do you know about open eyes mission values or like which one do you resonate with did you not see how explicit questions but I tried to weave in some parts of this into my answer so like for example one of open air value is bias for action some function so I say like so I'm someone else like that essentially.  
+Me: Okay got okay so you weave it in subtly okay okay.  
+Them: Yeah correct.  
+Me: I always feel like a bit I guess it's a good thing to.  
+Them: I mean you can see you want to make it dress if I. Mission right.  
+Me: Love the eyeball. Okay cool. I think that's it.  
+Them: Cool man anything you just text me but I think in my deck I send you my prep dog.  
+Me: Can get.  
+Them: And the email I don't I don't think there's anything else. Yeah I don't think.  
+Me: The thing I'm most worried about is the Loom video bro I hate take taking Loom videos.  
+Them: Yeah the one I do a few things.  
+Me: Do you think I lost a lot of things long to talk must be loom isn't.  
+Them: Correct.  
+Me: So you have to upload a Loom video that. S okay.  
+Them: Yeah so the they're not super particular that it's a powerpoint slide or canvas like whatever right they're not super particular but they just want you to present your materials. And like a video of a suffer.  
+Me: Did they ask for like did it right.  
+Them: No.  
+Me: Oh so you just decided to take it on yourself too slide that you do any material you want.  
+Them: Yeah. But I thought the slide is the easiest way to complete the message so just get the.  
+Me: That's the thing actually the rest of the processes like some prep for Lim video right I'm going to have to spend one day just recording that you halfway training you start stuttering right.  
+Them: Assist. Yeah yeah.  
+Me: But I think Loom can cut the video on it actually I don't know.  
+Them: But then if you see the awkward gaps in between.  
+Me: I'm getting that okay anyway that's it okay great notice super bro.  
+Them: No problem. Lim.  
+Me: Yeah yeah hopefully I see you there.  
+Them: My we'll it up bro cannot put.  
+Me: But actually that's it right there's no one else.  
+Them: Yeah let's see ZP is going to be new accessory  
+Me: Imagine putting Daryl in.  
+Them: Then we're going to be in the number. Exactly.  
+Me: If I get it right I think it'd be fun because if we meet you and chill right.  
+Them: Yeah. Exactly.  
+Me: Thanks.  
+Them: I can catch you in Bali anything you just text me yeah any questions?  
+Me: Okay if anything like the only thing I'll have is I'll send you whatever I have you read through a dummy book you.  
+Them: Sure.  
+Me: Yeah okay thanks by.  
+Them: By. 
+
+
+
+
+
+OpenAI Interview Process Overview
+Multi-round process: HR screen, case study (Loom), 3rd round (SDR manager), 4th round series (AE x2), 5th round (2 VPs)
+Turnaround between rounds: 1 to 3 business days; faster response = good sign
+Reference check request = near-certain pass signal
+Full process can complete in roughly 2 to 3 weeks if moving quickly
+Onboarding cohorts are fixed: 20th July or 3rd August start dates
+Hiring 6 SDRs total; targeting close by end of July; 2 offers confirmed so far
+
+Case Study: Loom Video (Round 2)
+5 to 7 minute Loom recording presenting a slide deck (PowerPoint, Canva, anything works)
+Case: how should a company (e.g. Uber) use AI, plus one OpenAI use case pitch
+Slides are not mandatory but recommended as the clearest format
+Reviewed by VP of Sales, not the SDR manager
+Prep time: allow a full day just for recording; Loom does allow editing but awkward gaps will show
+
+Round 3: SDR Manager (JT)
+Pitch OpenAI or agents generically; know your stuff but no need to be super technical
+Walk through a deal end to end
+Describe your prospecting motion
+Interviewer will review your Loom recording and ask follow-up questions on it
+Willingness to learn and humility are tested explicitly
+Regional nuance question: what is different about prospecting in SEA vs. globally?
+India: cost sensitive
+ANZ and Singapore: tech-forward, more mature
+Channel differences: email vs. cold call vs. local apps (Zalo in Vietnam, etc.)
+“If you could pick one APAC market to land in first, which would it be and why?”
+
+Round 4: AE Interview Series (Two Back-to-Back, 30 Min Each)
+Scheduled same day, back to back; interviewers are enterprise AEs (Aussie and US-based, ~2 years at OpenAI)
+Technical Fluency round
+Can hallucination be 100% avoided?
+What is RAG? (RAG comes up a lot; treat it as a big topic)
+How would you pitch a prospect already using Copilot?
+How do we compare and win against Anthropic?
+Genuine curiosity question: why take a step back to SDR?
+Commercial Acumen round
+Elements of consultative and value-based selling: lead with priorities, pain points, challenges; never lead with “our product is superior” or cheaper pricing
+Walk me through a deal end to end: high level only, focus on sales approach (value-based etc.), multi-threading, how you navigated challenges, what you learned
+Metrics they will ask: average deal size, run-rate deals per month, deals closed per month, your target
+Scenario question: if you joined OpenAI tomorrow, which companies would you target first and why?
+What value driver would you land with?
+Competing against Anthropic angle: “Great that you’re already using Anthropic. I’m not here to rip and replace. Let’s explore where OpenAI can land within your current stack and expand from there.” Lean on OpenAI’s wider product suite (Whisper, Sora, etc.)
+
+Round 5: VP Series (Two Separate Sessions)
+Lauren Wadsworth (https://linkedin.com/in/lauren-wadsworth): senior, intense, rapid-fire style
+RAG and hallucination questions (same as round 4, repeated)
+Sales situational questions: what campaign would you run first, messaging approach, multi-threading
+Digs into deal specifics: average deal size, run-rate pipeline, deals closed per month, quota
+Use the STAR template for situational answers
+Be upfront about SME/high-velocity background vs. enterprise; she appreciates honesty
+Marlena Daecher (https://linkedin.com/in/marlenadaecher): newer to OpenAI, pure sales focus
+Walk through each experience: what you did, what you learned, why you left
+What playbook did you build? What worked?
+Founding team experience (e.g. Figma) will be probed: what systems did you set up from scratch?
+No technical product questions; purely sales methodology and career narrative
+Both VPs: they have a clear picture of the SDR profile they want
+AE-calibre person taking a deliberate step back for OpenAI specifically
+Consultative and value-based seller
+Humble and willing to learn
+Do not be a challenger or try to be “outside the box”; fit the mould
+
+Key Prep Pointers
+Sales methodology: no need to name a specific framework, but answers should reflect consultative and value-based selling naturally; always lead with customer priorities, pain points, challenges
+Deals to prep: rehearse 1 to 2 deals thoroughly; know the approach, challenges, multi-threading, and close; have a second deal ready in case they ask for two
+AI interest story: build a genuine narrative around why OpenAI; personal AI usage (e.g. built a first agent) lands well
+Mission and values: not always asked explicitly but weave them in subtly (e.g. “bias for action”)
+“Did you use AI to prep?”: they expect yes; be ready to screen-share your prep doc (copy to Google Docs to avoid showing which AI tool)
+Dress code: office shirt (no suit); all rounds are on Zoom, no in-person
+Tone: serious but with a little warmth; not LiquidX-style corporate; no jokes but not robotic
+Next Steps
+Send Loom case study materials and prep doc to Zheyi for review
+Friend offered to review whatever Zheyi prepares before submission.
+Prep and record Loom video for case study round
+5 to 7 minutes; build slides; allow a full day for recording and editing.
+Rehearse 2 deals end to end using consultative and value-based framing
+Know metrics cold: deal size, run rate, quota, close rate.
+Read up on OpenAI mission and values
+Not always asked directly but should be woven into answers naturally.
+Deep-dive on RAG and hallucination
+Comes up in multiple rounds; treat as a core topic, not a bonus.
+
+Chat with meeting transcript: https://notes.granola.ai/t/161c9d4a-1fe8-4a61-9c96-ff168371d47b
+

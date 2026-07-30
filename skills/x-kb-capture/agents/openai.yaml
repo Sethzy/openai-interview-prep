@@ -1,0 +1,3 @@
+display_name: "X Kb Capture"
+short_description: "Capture pasted X/Twitter post links into a personal markdown knowledge base with YAML frontmatter, source metadata, excerpts, and quick stud"
+default_prompt: "Use x-kb-capture for this workflow."
