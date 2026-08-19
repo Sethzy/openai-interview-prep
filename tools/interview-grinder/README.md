@@ -1,6 +1,8 @@
 # Recall Room
 
-A local-first active-recall trainer backed by the canonical OpenAI interview answer bank.
+A local-first active-recall trainer backed by the broad historical OpenAI interview answer bank.
+
+> This deck is a breadth/reference surface, not the live canonical final-round pack. Its source bank is deprecated for direct rehearsal and does not contain every current role-play answer, including the final VNG/Zalo–DBS–GCash portfolio and latest TruTrip material. Use the final role-play pack and live cheat sheet for canonical delivery practice.
 
 ## Run it
 

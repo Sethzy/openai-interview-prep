@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-07-30
+updated: 2026-08-19
 tags:
   - meta
   - index
@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-30 | Total pages: 98 | Sources ingested: 19
+Last updated: 2026-08-19 | Total Markdown pages: 86 | Manifested sources: 17
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -121,8 +121,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[OpenAI-SDR-product-fluency-and-sales-acumen-interview-debrief-2026-07-22]]: cross-panel comparison with the July 17 round
 - [[OpenAI-SDR-sales-acumen-interview-pack]]: canonical Phase 3A Sales Acumen execution pack with one 13-gate prospecting-to-close framework applied identically to Boxo/UNA Financial and Airwallex/EU Holidays, reconciled metrics, truth boundaries, and AD partnership
 - [[OpenAI-SDR-final-sales-acumen-interview-pack]]: active long-form successor with a complete lifecycle question bank, flagship drills, and a final-round review queue now covering account selection, buyer-centered value selling, meeting preparation, optional discovery questions, and post-selection mutual-action planning
-- [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]]: focused final-final role-play scaffold covering markets, outbound strategy, top-down versus bottom-up prospecting, OpenAI campaign design, APAC nuance, fintech infrastructure fluency, and the TruTrip competitive-win reconstruction
-- [[OpenAI-SDR-sales-acumen-live-interview-cheat-sheet]]: concise interview-day reference for the complete sales-acumen operating system, including territory planning, account tiers, stakeholder targeting, funnels, discovery, qualification, AD partnership, stalled/lost deals and flagship metrics
+- [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]]: focused final-final role-play pack covering markets, a reusable simultaneous VP-level multithreaded outbound cadence, the DBS campaign application, APAC nuance, fintech fluency, the completed TruTrip Stripe-displacement story, and a land-and-expand account portfolio for VNG/Zalo, DBS and GCash
+- [[OpenAI-SDR-sales-acumen-live-interview-cheat-sheet]]: concise interview-day reference for the complete sales-acumen operating system, including a nine-step outbound recovery map, territory planning, account tiers, stakeholder targeting, funnels, discovery, MEDDIC qualification, AD partnership, stalled/lost deals and EU Holidays, TruTrip and UNA Financial memory cards
 - [[OpenAI-SDR-technical-acumen-interview-pack]]: canonical Phase 3B Technical Acumen execution pack with 65 speakable answers, including enterprise-specific intelligence, agent building and management, compounding intelligence, prompt-bloat failure modes, harnesses, software factories, Codex build-versus-buy judgment, Frontier/FDE qualification, and production change management, plus the final-round review queue covering shared applied-AI answers, revised RAG, model-versus-Copilot, value-first coexistence, and current product evidence
 - [[OpenAI-SDR-July-22-panel-question-promotion-decisions-for-final-round-2026-07-26]]: all 18 July 22 panel-question decisions, implementation links, routing, and truth boundaries
 - [[OpenAI-SDR-external-source-summary-and-Lauren-final-relevance-2026-07-26]]: ranked routing of 58 external sources into 30 Final Sales Acumen inputs, 19 Final Technical Acumen inputs, and 9 background items; every source retains its original link, summary, and relevance boundary

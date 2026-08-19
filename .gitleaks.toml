@@ -1,0 +1,16 @@
+title = "OpenAI interview prep secret-scanning configuration"
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Public Apify actor identifiers in the two signal collectors"
+condition = "AND"
+regexTarget = "match"
+paths = [
+  '''^skills/community-signals/scripts/community_signals\.py$''',
+  '''^skills/event-signals/scripts/event_signals\.py$''',
+]
+regexes = [
+  '''APIFY_(?:ACTOR_ID|MEETUP_ACTOR)\s*=\s*"[A-Za-z0-9_-]+"''',
+]

@@ -2,7 +2,7 @@
 type: domain
 title: "OpenAI SDR Sales Acumen Live Interview Cheat Sheet"
 created: 2026-07-22
-updated: 2026-07-28
+updated: 2026-07-31
 aliases:
   - "Sales Acumen Live Cheat Sheet"
   - "OpenAI SDR Interview Day Sales Sheet"
@@ -13,6 +13,7 @@ tags:
   - interview-cheat-sheet
 status: current
 related:
+  - "[[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]]"
   - "[[OpenAI-SDR-final-sales-acumen-interview-pack]]"
   - "[[OpenAI-SDR-sales-acumen-interview-pack]]"
   - "[[OpenAI-SDR-recruiter-screen-learnings-and-interview-strategy-2026-07-11]]"
@@ -40,13 +41,13 @@ subdomain_of: "OpenAI Strategic BDR APAC interview prep"
 | Outbound approach             | [[#7. Outbound Execution]]                                                                                                          | Lead with evidence, a problem hypothesis and one purposeful ask                 |
 | Airwallex attainment          | [[#8. Numbers To Memorize]]                                                                                                         | ~USD 1M GP against ~USD 500K individual quota = ~200%                           |
 | Boxo SDR performance          | [[#8. Numbers To Memorize]]                                                                                                         | 4 SQOs/quarter quota → 6 actual; ~150% attainment and ~USD 4.8M annual pipeline |
-| Three target accounts         | [[OpenAI-SDR-final-sales-acumen-interview-pack#30. If you joined OpenAI tomorrow, which companies would you target first and why?]] | VNG/Zalo for Codex → Kaidee for API → DBS for governed enterprise AI            |
+| Three target accounts         | [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30#4B. Which three accounts would you target first, and how would you land and expand?]] | VNG/Zalo for Codex → DBS for Presence → GCash for bounded KYC review             |
 | Discovery                     | [[#9. Discovery Sequence]]                                                                                                          | Priority → workflow → gap → consequence → people/process → proof                |
-| Qualification                 | [[#10. Qualification, Next Steps And Champions]]                                                                                    | Problem, Priority, People, Process, Proof                                       |
+| Qualification                 | [[#10. Qualification, Next Steps And Champions]]                                                                                    | Five Ps plus MEDDIC                                                             |
 | Moving an account forward     | [[#11. Account Advancement]]                                                                                                        | Every interaction earns a buyer-evidence milestone                              |
 | Account Director partnership  | [[#12. Account Director Partnership]]                                                                                               | Align early, hand off evidence, preserve one coordinated account strategy       |
 | Stalled or lost opportunities | [[#13. Stalled And Lost Opportunities]]                                                                                             | Diagnose what is missing; change one variable; advance, nurture or disqualify   |
-| Flagship deal proof           | [[#14. Flagship Deal Memory Cards]]                                                                                                 | EU Holidays for Airwallex; UNA Financial for Boxo                               |
+| Flagship deal proof           | [[#14. Flagship Deal Memory Cards]]                                                                                                 | EU Holidays and TruTrip for Airwallex; UNA Financial for Boxo                   |
 
 
 ## 2. Five Ways I Use AI
@@ -59,6 +60,16 @@ subdomain_of: "OpenAI Strategic BDR APAC interview prep"
 
 
 ## 3. Territory-Building Sequence
+
+### Account-research layers
+
+| Layer | Purpose |
+|---|---|
+| Industry | Groups accounts with similar workflows, regulations, proof requirements, and buyer language |
+| Company type | Distinguishes traditional enterprises from digital natives |
+| Workflow | Identifies the actual work OpenAI could improve |
+| Observable signals | Establishes why the account may be worth approaching now |
+| Account tier | Determines how much research and human attention the account receives |
 
 |                             Step | What I would do                                                                                 | Required output                                                 |
 | -------------------------------: | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -73,9 +84,9 @@ subdomain_of: "OpenAI Strategic BDR APAC interview prep"
 |          9. Qualify and hand off | Confirm problem, initiative, stakeholder, value, buying path and next step.                     | SQL/SQO definition and AD involvement                           |
 |        10. Inspect and rebalance | Review movement, coverage, stale accounts, nurture triggers and learnings.                      | Healthy, replenished territory                                  |
 
-## 4. Account Tiering
+## 4. Airwallex Account Tiering
 
-### Territory boundary and ICP signals
+### Airwallex Territory boundary and ICP signals
 
 | Item               | Working definition                                                                                                                                                                  |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -108,32 +119,32 @@ subdomain_of: "OpenAI Strategic BDR APAC interview prep"
 
 ## 5. Tier-Specific Execution
 
-| Dimension | Tier 1: one-to-one | Tier 2: one-to-few | Tier 3: scaled |
-|---|---|---|---|
-| Planning unit | One named strategic account | Small cohort sharing the same problem | Broad segment or nurture pool |
-| Research | Account, initiatives, workflow, buying group and relationship paths | Common vertical problem plus one company-specific signal | Basic fit and automated or event-derived signals |
-| Message | Bespoke point of view for the account and stakeholder | Reusable problem narrative with a personalized opening | Broad value proposition or trigger-based message |
-| Stakeholders | Map the full committee; sequence two to four relevant entry points | Start with the most likely owner persona | Engage responders and promote when evidence improves |
-| Proof | Closest workflow, region, role and risk match | Reusable vertical/customer proof | Broad proof assets |
-| Collateral | Tailored deck, ROI hypothesis or account brief when justified | Campaign asset with light personalization | Standard content |
-| Channels | Coordinated multichannel plan; warm paths and direct approaches where appropriate | Repeatable LinkedIn, email, phone and event sequence | Campaigns, events, inbound, referrals and partner channels |
-| Goal | Create and advance a strategic opportunity | Efficiently find accounts where the shared hypothesis is real | Capture demand without consuming bespoke capacity |
+| Dimension     | Tier 1: one-to-one                                                                | Tier 2: one-to-few                                            | Tier 3: scaled                                             |
+| ------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------- |
+| Planning unit | One named strategic account                                                       | Small cohort sharing the same problem                         | Broad segment or nurture pool                              |
+| Research      | Account, initiatives, workflow, buying group and relationship paths               | Common vertical problem plus one company-specific signal      | Basic fit and automated or event-derived signals           |
+| Message       | Bespoke point of view for the account and stakeholder                             | Reusable problem narrative with a personalized opening        | Broad value proposition or trigger-based message           |
+| Stakeholders  | Map the full committee; sequence two to four relevant entry points                | Start with the most likely owner persona                      | Engage responders and promote when evidence improves       |
+| Proof         | Closest workflow, region, role and risk match                                     | Reusable vertical/customer proof                              | Broad proof assets                                         |
+| Collateral    | Tailored deck, ROI hypothesis or account brief when justified                     | Campaign asset with light personalization                     | Standard content                                           |
+| Channels      | Coordinated multichannel plan; warm paths and direct approaches where appropriate | Repeatable LinkedIn, email, phone and event sequence          | Campaigns, events, inbound, referrals and partner channels |
+| Goal          | Create and advance a strategic opportunity                                        | Efficiently find accounts where the shared hypothesis is real | Capture demand without consuming bespoke capacity          |
 
 ### Tier 1 example: EU Holidays
 
-| Preparation dimension | What I did |
-|---|---|
-| Vertical research | Watched UK-team Chorus calls to understand the travel use case |
-| Account research | Collected brochures and studied the advertised European and China tours |
-| Customer interaction | Spoke with one or two representatives at the travel fair |
+| Preparation dimension | What I did                                                                                |
+| --------------------- | ----------------------------------------------------------------------------------------- |
+| Vertical research     | Watched UK-team Chorus calls to understand the travel use case                            |
+| Account research      | Collected brochures and studied the advertised European and China tours                   |
+| Customer interaction  | Spoke with one or two representatives at the travel fair                                  |
 | Commercial hypothesis | Connected destination mix to FX, payment reliability, reconciliation and commercial reach |
-| Buyer map | Mapped Finance, Operations, Commercial, CFO and CEO |
-| Entry strategy | Selected and explicitly requested the Head of Finance |
-| Opening | Prepared around EU Holidays’ actual tour destinations and likely payment corridors |
-| Proof | Prepared relevant partner evidence and experience with a smaller competitor |
-| Collateral | Created a presentation specifically for EU Holidays |
-| Value case | Built a preliminary ROI-calculator spreadsheet to validate during discovery |
-| Channel strategy | Shifted from unsuccessful email and LinkedIn outreach to a planned direct office approach |
+| Buyer map             | Mapped Finance, Operations, Commercial, CFO and CEO                                       |
+| Entry strategy        | Selected and explicitly requested the Head of Finance                                     |
+| Opening               | Prepared around EU Holidays’ actual tour destinations and likely payment corridors        |
+| Proof                 | Prepared relevant partner evidence and experience with a smaller competitor               |
+| Collateral            | Created a presentation specifically for EU Holidays                                       |
+| Value case            | Built a preliminary ROI-calculator spreadsheet to validate during discovery               |
+| Channel strategy      | Shifted from unsuccessful email and LinkedIn outreach to a planned direct office approach |
 
 ### Tier 2 example
 
@@ -160,7 +171,25 @@ subdomain_of: "OpenAI Strategic BDR APAC interview prep"
 | Security / Legal / Procurement | Data, risk, control and process | Identify the precise question and involve the correct specialist |
 | Executive | Strategic outcome, economics, risk and why now | Summarize the business case and decision required |
 
-## 7. Outbound Execution
+## 7. OpenAI Outbound Execution
+
+### Outbound Recovery Map
+
+> **Align → Segment → Signal → Score → Hypothesize → Orchestrate → Qualify → Handoff → Learn**
+
+|               Step | If I get lost, ask…                                                    | Required output                                   |
+| -----------------: | ---------------------------------------------------------------------- | ------------------------------------------------- |
+|       1. **Align** | What does the Account Director already know or want?                   | Shared account strategy                           |
+|     2. **Segment** | Which industry, company type and workflow am I targeting?              | Focused campaign cell                             |
+|      3. **Signal** | What observable evidence makes this relevant now?                      | Timing hypothesis                                 |
+|       4. **Score** | Which accounts deserve focused effort?                                 | Tier 1, Tier 2 or monitor                         |
+| 5. **Hypothesize** | What workflow could OpenAI improve, for whom and why?                  | Account point of view                             |
+| 6. **Orchestrate** | Which three VPs should I approach, and how will their messages differ? | Simultaneous, persona-specific ten-touch cadences |
+|     7. **Qualify** | Is there a real problem, owner, measurable value and execution path?   | Qualified opportunity or disqualification         |
+|     8. **Handoff** | What must the Account Director know to advance it?                     | Evidence, stakeholders, gaps and next step        |
+|       9. **Learn** | Which signals, personas, messages and channels produced real pipeline? | Better next campaign                              |
+
+> **Short spoken version:** I align with the Account Director, segment the territory, find signals, prioritize accounts, form a workflow hypothesis, orchestrate VP-level outreach, qualify readiness, hand over a real opportunity and feed the learning back into the next campaign.
 
 ### First-message construction
 
@@ -172,6 +201,22 @@ subdomain_of: "OpenAI Strategic BDR APAC interview prep"
 | Proof       | One relevant customer, partner or workflow example | Is the proof close by role, region, workflow or risk?        |
 | Ask         | A low-friction next action                         | Does the meeting have a clear learning purpose?              |
 |             |                                                    |                                                              |
+
+ggs
+
+| Touch | Day | Channel                                  | Message purpose                                                                                                                                                                                  | New value contributed                                                                                          | Small ask                                                                                  |
+| ----: | --: | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+|     1 |   1 | Call                                     | **Establish relevance and ownership.** State the account signal and reason for calling, then test whether this VP owns the affected workflow.                                                    | A concise point of view connecting a current signal to a specific workflow                                     | “Is this something your team owns or cares about?”                                         |
+|     2 |   1 | Personalized email                       | **Document the hypothesis.** Give the stakeholder a short written version they can inspect or forward.                                                                                           | One observation, its likely workflow implication, one credible proof point and one question                    | “Have I understood the problem correctly?”                                                 |
+|     3 |   3 | LinkedIn                                 | **Add a non-obvious insight.** Show that the outreach is based on more than repeating a public announcement.                                                                                     | A relevant operating pattern, technical implication or adjacent market observation                             | “Is this how you are thinking about the initiative?”                                       |
+|     4 |   5 | WhatsApp, where appropriate              | **Test the direct route and make response easy.** Use a short, human message to check ownership or preferred channel rather than paste the product pitch again.                                  | A low-friction summary of why the question matters to that person                                              | “Is this yours, or is there someone better to ask?”                                        |
+|     5 |   8 | Email                                    | **Make the consequence concrete.** Translate the workflow problem into the cost, delay, risk, capacity constraint, revenue impact or customer outcome that this VP owns.                         | A preliminary implication chain or simple sensitivity model with assumptions labeled                           | “Which consequence would matter most if the hypothesis is real?”                           |
+|     6 |  11 | Call                                     | **Invite correction and surface objections.** Test whether the problem, owner, timing, existing solution or implementation assumption is wrong.                                                  | A sharper account thesis based on the unanswered questions and likely objections                               | “What am I missing or getting wrong?”                                                      |
+|     7 |  13 | Email                                    | **Establish proof proximity.** Use the closest approved example by workflow, industry, region, role and risk—not a generic logo list.                                                            | One relevant case, pattern or result plus an explanation of why it is comparable and where it is not           | “Is this close enough to your environment to be useful?”                                   |
+|     8 |  16 | Personalized workflow map                | **Make the proposed change inspectable.** Show the current state, proposed future state, actors, systems, decisions, exceptions, approvals and human handoffs.                                   | A buyer-specific diagram that separates verified facts, hypotheses and questions                               | “Which step or assumption should I change?”                                                |
+|     9 |  19 | Personalized concept demo or short video | **Prove preparation and make the use case tangible.** Demonstrate only the buyer's proposed workflow using public or synthetic inputs—not a broad product tour or claim of production readiness. | A lightweight demo, prototype, microsite or short walkthrough plus explicit technical and governance questions | “Would it be useful to pressure-test this with the workflow and technical owners?”         |
+|    10 |  22 | Closing email                            | **Resolve the account.** Summarize the hypothesis, artifact and unresolved question, then ask for a clear disposition.                                                                           | A concise, forwardable summary and a defined re-engagement trigger if timing is wrong                          | “Should we explore this, redirect it, revisit after a specific trigger or close the loop?” |
+|       |     |                                          |                                                                                                                                                                                                  |                                                                                                                |                                                                                            |
 
 ## 8. Numbers To Memorize
 
@@ -255,6 +300,21 @@ end state - 20 tier 1, and 30 tier 2 accounts.
 | People | Owner, champion, technical/risk stakeholders and economic buyer | Named people and their roles in the decision |
 | Process | Evaluation, approval, procurement and decision path | Buyer explains how the organization will decide |
 | Proof | What the buyer must believe and what remains missing | Smallest credible validation step and success measure |
+
+### MEDDIC
+
+> MEDDIC is a deal-qualification checklist, not the order in which I would interrogate a buyer.
+
+| Letter | Stands for | What I need to know |
+|---|---|---|
+| M | Metrics | What measurable business outcome will improve? |
+| E | Economic Buyer | Who can authorize the spend and priority? |
+| D | Decision Criteria | What technical, commercial and business requirements will determine the choice? |
+| D | Decision Process | How, by whom and when will the decision be made? |
+| I | Identify Pain | What important problem and consequence make change worthwhile? |
+| C | Champion | Who has influence, benefits from the outcome and will sell the case internally? |
+
+**Memory cue:** Metrics → Economic Buyer → Decision Criteria → Decision Process → Identify Pain → Champion.
 
 ### SQL/SQO handoff test
 
@@ -352,6 +412,25 @@ end state - 20 tier 1, and 30 tier 2 accounts.
 | Wedge                 | Controlled FX starting point, then expansion across FX, cards and payment gateway                       |
 | Cycle                 | Approximately two months from first contact to signed agreement                                         |
 | Result                | Approximately USD 100K mature annual GP                                                                 |
+
+### Airwallex: TruTrip
+
+| Field | Memory cue |
+|---|---|
+| Motion | Consultative, value-based land and expand; complete Stripe displacement |
+| First contact | Manager's warm introduction to the Head of Finance |
+| Preparation | Navan Chorus calls and CRM insights informed the travel-platform hypothesis |
+| Champion | Head of Finance |
+| Economic buyer | CEO and final decision-maker |
+| Buying group | Finance, Engineering, Operations and CEO |
+| First use case | Payment-gateway migration with like-for-like settlement |
+| Immediate value | Reduced double conversion and transfer costs; consolidated booking-level reconciliation |
+| Principal blocker | Engineering: Stripe already worked and migration competed with the product roadmap |
+| De-risking | Phased implementation, internal technical support and familiar approval controls |
+| Alternative | Remain with Stripe |
+| Contract outcome | Completely migrated the payment gateway from Stripe to Airwallex |
+| Expansion | Programmatic virtual cards and supplier payouts once scale justified the engineering investment |
+| Cycle and economics | Exact cycle, payment volume, signed GP and realized savings remain unconfirmed |
 
 ### Boxo: UNA Financial
 

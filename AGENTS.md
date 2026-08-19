@@ -28,15 +28,19 @@ story selection, interview-loop prep, and reusable answer practice.
 
 Primary prep vault:
 
-`/Users/sethlim/Documents/openai-interview-prep`
+- This repository root. Resolve it from the current working directory; never
+  hard-code a username or home-directory path.
 
-Career/application source repo:
+Optional companion repositories, resolved as siblings of this repository:
 
-`/Users/sethlim/Documents/career-ops`
+- Career/application source repo: `../career-ops`
+- Seth Second Brain, used for enterprise sales and GTM context:
+  `../Seth Second Brain`
 
-Seth Second Brain, used for enterprise sales and GTM context:
-
-`/Users/sethlim/Documents/Seth Second Brain`
+These companion repositories may not be present on every computer. If one is
+missing, continue with the evidence committed in this vault and state the
+limitation only when it materially affects the answer. Do not fail routine
+vault work solely because an optional companion is unavailable.
 
 When preparing for this OpenAI role, start in this vault, then read the
 career-ops files listed below. Use Seth Second Brain only when deeper GTM,
@@ -66,39 +70,39 @@ unverified exact wording.
 
 Read these first for OpenAI SDR prep:
 
-1. `/Users/sethlim/Documents/career-ops/jds/openai-strategic-business-development-representative-apac.md`
+1. `../career-ops/jds/openai-strategic-business-development-representative-apac.md`
    - Canonical cleaned JD.
    - Best source for role facts, responsibilities, and candidate criteria.
 
-2. `/Users/sethlim/Documents/career-ops/research/raw-jobs/openai/openai-strategic-business-development-representative-apac-2026-06-22.md`
+2. `../career-ops/research/raw-jobs/openai/openai-strategic-business-development-representative-apac-2026-06-22.md`
    - Raw captured official JD text.
    - Use when exact wording matters.
 
-3. `/Users/sethlim/Documents/career-ops/research/jobs/openai-strategic-business-development-representative-apac-v5.md`
+3. `../career-ops/research/jobs/openai-strategic-business-development-representative-apac-v5.md`
    - Main dossier.
    - Use for application strategy, company thesis, product map, competitor
      battlefield, Seth fit, referral plan, interview seeds, risks, questions,
      and evidence ledger.
 
-4. `/Users/sethlim/Documents/career-ops/research/source-packs/openai-strategic-business-development-representative-apac-source-pack.md`
+4. `../career-ops/research/source-packs/openai-strategic-business-development-representative-apac-source-pack.md`
    - Evidence boundary and source map.
    - Use to verify what is directly sourced, inferred, unknown, or blocked.
 
-5. `/Users/sethlim/Documents/career-ops/interview-prep/applications/openai-strategic-bdr-apac-referral-packet-2026-06-22.md`
+5. `../career-ops/interview-prep/applications/openai-strategic-bdr-apac-referral-packet-2026-06-22.md`
    - Referral packet draft.
    - Use for AD-friendly positioning, forwardable note, personal note, and
      referral truth boundary.
 
-6. `/Users/sethlim/Documents/career-ops/interview-prep/applications/openai-strategic-bdr-apac-additional-information-final-answer-2026-06-23.md`
+6. `../career-ops/interview-prep/applications/openai-strategic-bdr-apac-additional-information-final-answer-2026-06-23.md`
    - Final copy-paste draft for the application additional-information field.
    - Do not submit or treat as sent.
 
-7. `/Users/sethlim/Documents/career-ops/research/raw-social/openai/official-x-openai-2025-12-24-to-2026-06-22.md`
+7. `../career-ops/research/raw-social/openai/official-x-openai-2025-12-24-to-2026-06-22.md`
    - Official @OpenAI sweep.
    - Use for recent company narrative: health, life sciences, evals,
      deployment simulation, safety, memory, Codex, and high-stakes AI use.
 
-8. `/Users/sethlim/Documents/career-ops/research/raw-social/openai/official-x-openaidevs-2025-12-24-to-2026-06-22.md`
+8. `../career-ops/research/raw-social/openai/official-x-openaidevs-2025-12-24-to-2026-06-22.md`
    - Official @OpenAIDevs sweep.
    - Use for developer narrative: Codex, Record & Replay, developer mode,
      Responses API, docs agent, Realtime examples, and developer-led adoption.

@@ -18,8 +18,12 @@ mkdir -p "$VAULT/.raw"
 mkdir -p "$VAULT/wiki/concepts" "$VAULT/wiki/entities" "$VAULT/wiki/sources" "$VAULT/wiki/meta"
 mkdir -p "$VAULT/_templates"
 
-# ── 2. Write graph.json ───────────────────────────────────────────────────────
-cat > "$OBSIDIAN/graph.json" << 'EOF'
+# ── 2. Seed graph.json only when missing ──────────────────────────────────────
+# A cloned vault already carries its canonical config. Do not overwrite it:
+# Obsidian may add version-specific fields, and a rewrite would dirty the clone.
+if [ ! -f "$OBSIDIAN/graph.json" ]; then
+  GRAPH_TMP=$(mktemp "$OBSIDIAN/.graph.json.tmp.XXXXXX")
+cat > "$GRAPH_TMP" << 'EOF'
 {
   "collapse-filter": false,
   "search": "path:wiki",
@@ -46,9 +50,13 @@ cat > "$OBSIDIAN/graph.json" << 'EOF'
   "scale": 1.0
 }
 EOF
+  mv -f "$GRAPH_TMP" "$OBSIDIAN/graph.json"
+fi
 
-# ── 3. Write app.json (excluded files) ───────────────────────────────────────
-cat > "$OBSIDIAN/app.json" << 'EOF'
+# ── 3. Seed app.json only when missing ────────────────────────────────────────
+if [ ! -f "$OBSIDIAN/app.json" ]; then
+  APP_TMP=$(mktemp "$OBSIDIAN/.app.json.tmp.XXXXXX")
+cat > "$APP_TMP" << 'EOF'
 {
   "userIgnoreFilters": [
     "agents/",
@@ -63,9 +71,13 @@ cat > "$OBSIDIAN/app.json" << 'EOF'
   ]
 }
 EOF
+  mv -f "$APP_TMP" "$OBSIDIAN/app.json"
+fi
 
-# ── 4. Write appearance.json (enable CSS snippets) ───────────────────────────
-cat > "$OBSIDIAN/appearance.json" << 'EOF'
+# ── 4. Seed appearance.json only when missing ─────────────────────────────────
+if [ ! -f "$OBSIDIAN/appearance.json" ]; then
+  APPEARANCE_TMP=$(mktemp "$OBSIDIAN/.appearance.json.tmp.XXXXXX")
+cat > "$APPEARANCE_TMP" << 'EOF'
 {
   "enabledCssSnippets": [
     "vault-colors",
@@ -74,14 +86,28 @@ cat > "$OBSIDIAN/appearance.json" << 'EOF'
   ]
 }
 EOF
+  mv -f "$APPEARANCE_TMP" "$OBSIDIAN/appearance.json"
+fi
 
 # ── 5. Download Excalidraw main.js (8MB, not in git) ─────────────────────────
 EXCALIDRAW="$OBSIDIAN/plugins/obsidian-excalidraw-plugin"
 if [ -f "$EXCALIDRAW/manifest.json" ] && [ ! -f "$EXCALIDRAW/main.js" ]; then
   echo "Downloading Excalidraw main.js (~8MB)..."
-  curl -sS -L \
-    "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/latest/download/main.js" \
-    -o "$EXCALIDRAW/main.js"
+  EXCALIDRAW_TMP=$(mktemp "$EXCALIDRAW/.main.js.tmp.XXXXXX")
+  if ! curl --fail --silent --show-error --location \
+      "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/latest/download/main.js" \
+      --output "$EXCALIDRAW_TMP"; then
+    rm -f "$EXCALIDRAW_TMP"
+    echo "ERROR: Excalidraw download failed; no runtime file was installed." >&2
+    exit 1
+  fi
+  EXCALIDRAW_BYTES=$(wc -c < "$EXCALIDRAW_TMP" | tr -d '[:space:]')
+  if [ "$EXCALIDRAW_BYTES" -lt 1000000 ]; then
+    rm -f "$EXCALIDRAW_TMP"
+    echo "ERROR: Excalidraw download was unexpectedly small; refusing to install it." >&2
+    exit 1
+  fi
+  mv -f "$EXCALIDRAW_TMP" "$EXCALIDRAW/main.js"
   echo "✓ Excalidraw main.js downloaded"
 elif [ -f "$EXCALIDRAW/main.js" ]; then
   echo "✓ Excalidraw main.js already present"

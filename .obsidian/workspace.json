@@ -27,12 +27,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "wiki/domains/OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30"
+            }
+          },
+          {
+            "id": "f9dd9fc6577d7c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/domains/OpenAI-SDR-sales-acumen-live-interview-cheat-sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenAI-SDR-sales-acumen-live-interview-cheat-sheet"
+            }
+          },
+          {
+            "id": "93cdf8a316217015",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           },
           {
@@ -92,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +138,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -149,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 577.5024719238281
+    "width": 457.5024719238281
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -252,6 +280,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -263,21 +292,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8db7bec14e5f5d1",
+  "active": "93cdf8a316217015",
   "lastOpenFiles": [
-    "wiki/domains/OpenAI-SDR-technical-acumen-interview-pack.md",
-    "AGENTS.md",
-    "wiki/domains/OpenAI-SDR-sales-acumen-live-interview-cheat-sheet.md",
-    "wiki/domains/OpenAI-SDR-sales-acumen-interview-pack.md",
+    "tools/interview-grinder/dist/server/index.js",
+    "tools/interview-grinder/dist/server",
+    "scripts/__pycache__/contextual-prefix.cpython-314.pyc",
+    "scripts/__pycache__/wiki-mode.cpython-314.pyc",
+    "scripts/__pycache__/retrieve.cpython-314.pyc",
+    "scripts/__pycache__/boundary-score.cpython-314.pyc",
+    "scripts/__pycache__/tiling-check.cpython-314.pyc",
+    "tools/interview-grinder/dist/index.html",
+    "tools/interview-grinder/dist/assets/index-BiBonXz3.css",
+    "tools/interview-grinder/dist/assets/index-B8zL-Cp3.js",
+    "tools/interview-grinder/dist/assets",
+    "wiki/domains/OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30.md",
     "wiki/domains/OpenAI-SDR-final-sales-acumen-interview-pack.md",
+    "wiki/domains/OpenAI-SDR-sales-acumen-live-interview-cheat-sheet.md",
+    "wiki/domains/OpenAI-SDR-hiring-leader-interview-debrief-2026-07-17.md",
+    "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
+    "wiki/domains/OpenAI-SDR-DoorDash-Loom-final-canonical-document.md",
+    "AGENTS.md",
+    "wiki/domains/OpenAI-SDR-technical-acumen-interview-pack.md",
+    "wiki/domains/OpenAI-SDR-sales-acumen-interview-pack.md",
     "wiki/domains/OpenAI-SDR-product-and-technical-fluency-interview-debrief-2026-07-22.md",
     "wiki/domains/OpenAI-SDR-external-source-summary-and-Lauren-final-relevance-2026-07-26.md",
-    "wiki/domains/OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30.md",
     "wiki/sources/Zheyi-Final-Sales-Interview-Coaching-2026-07-30.md",
-    "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
     "wiki/domains/OpenAI-SDR-recruiter-screen-learnings-and-interview-strategy-2026-07-11.md",
-    "scripts/__pycache__/rerank.cpython-314.pyc",
-    "scripts/__pycache__/bm25-index.cpython-314.pyc",
     "Untitled 2.md",
     "wiki/sources/Kellblog-Stop-Making-the-Number-One-Mistake-in-Presentations.md",
     "wiki/sources/OpenAI-SDR-final-interview-reschedule-and-competing-offer-timing-2026-07-27.md",
@@ -291,19 +331,8 @@
     "wiki/sources/OpenAI-SDR-product-and-technical-fluency-interview-with-Sam-2026-07-22.md",
     "wiki/domains/OpenAI-SDR-product-fluency-and-sales-acumen-interview-debrief-2026-07-22.md",
     "wiki/sources/OpenAI-SDR-product-fluency-and-sales-acumen-interview-2026-07-22.md",
-    "wiki/domains/OpenAI-SDR-hiring-leader-interview-debrief-2026-07-17.md",
     "wiki/domains/_index.md",
-    "wiki/domains/OpenAI-SDR-VP-career-and-story-bank.md",
-    "wiki/domains/OpenAI-SDR-Stanley-answer-bank.md",
     "wiki/Wiki Map.canvas",
-    "skills/last30days/scripts/lib/__pycache__/reddit_enrich.cpython-314.pyc",
-    "skills/last30days/scripts/__pycache__/last30days.cpython-314.pyc",
-    "skills/last30days/scripts/__pycache__",
-    "skills/last30days/scripts/lib/__pycache__/chrome_cookies.cpython-314.pyc",
-    "skills/last30days/scripts/lib/__pycache__/cookie_extract.cpython-314.pyc",
-    "tools/interview-grinder/dist/index.html",
-    "tools/interview-grinder/dist/assets/index-BiBonXz3.css",
-    "tools/interview-grinder/dist/assets/index-B8zL-Cp3.js",
     "tmp/video-review/keyframes-contact.jpg",
     "tmp/video-review/keyframes/t298.jpg",
     "tmp/video-review/keyframes/t270.jpg",

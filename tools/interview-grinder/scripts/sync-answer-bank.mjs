@@ -183,7 +183,6 @@ for (let position = 0; position < headings.length; position += 1) {
 
 const payload = {
   source: "wiki/domains/OpenAI-SDR-comprehensive-answer-expansion-bank.md",
-  generatedAt: new Date().toISOString(),
   cards,
 };
 

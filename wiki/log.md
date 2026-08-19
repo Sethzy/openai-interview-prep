@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-07-30
+updated: 2026-08-19
 tags:
   - meta
   - log
@@ -24,6 +24,122 @@ Entry format: `## [YYYY-MM-DD] operation | Title`
 Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
+
+## [2026-08-19] maintenance | Vault Made Clone-Ready Across Computers
+
+- Replaced the inherited upstream README with a vault-specific setup and architecture guide covering Git, Obsidian, agent skills, retrieval, locks, modes, Recall Room, privacy and multi-computer synchronization.
+- Made companion-repository references portable, preserved tracked Obsidian configuration during setup, and fixed the concurrency test on macOS.
+- Aligned the live three-account navigation with the canonical VNG/Zalo, DBS and GCash portfolio and corrected the historical log anchor to Question 4B.
+- Added narrowly scoped secret-scanner exceptions for public identifiers, rebuilt Recall Room without volatile timestamps, and verified the full test suite.
+
+## [2026-07-31] prep | TruTrip Memory Card And MEDDIC Added To Live Cheat Sheet
+
+- Added an interview-day TruTrip memory card to [[OpenAI-SDR-sales-acumen-live-interview-cheat-sheet]] alongside the EU Holidays and UNA Financial deal cards.
+- Preserved the TruTrip truth boundary: exact sales cycle, payment volume, signed GP and realized savings remain unconfirmed.
+- Added the MEDDIC expansion and one diagnostic question for each element under qualification.
+
+## [2026-07-30] prep | Outbound Recovery Map Added To Live Cheat Sheet
+
+- Added a condensed nine-step outbound recovery table to [[OpenAI-SDR-sales-acumen-live-interview-cheat-sheet]].
+- The live mnemonic is: Align → Segment → Signal → Score → Hypothesize → Orchestrate → Qualify → Handoff → Learn.
+- Included the retrieval question and required output for every step, plus a one-sentence spoken version.
+- Positioned the table at the top of `Outbound Execution` so Seth can recover the complete answer quickly during the interview.
+
+## [2026-07-30] prep | Ten-Touch Artifact-Led Outbound Cadence Added
+
+- Expanded the reusable cadence in [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] from eight to ten purposeful touches.
+- Replaced abstract message stages with explicit jobs: establish relevance, document the hypothesis, add insight, test the direct route, quantify consequence, invite correction, establish proof proximity, map the workflow, build a personalized concept demo and resolve the account.
+- Added the new value and small ask required at every touch so the cadence cannot collapse into repetitive follow-up.
+- Added buyer-specific workflow maps and public-or-synthetic personalized concept demos as late-cadence proof artifacts, with explicit truth and production-readiness boundaries.
+- Replaced the voicemail step with WhatsApp where the number, relationship and local business norm make the route legitimate and appropriate.
+- Updated the DBS application so its transaction-dispute workflow map and concept demo inherit the shared ten-touch system.
+
+## [2026-07-30] prep | Reusable Outreach System Consolidated Under Question 2
+
+- Expanded `Run Coordinated, Problem-First Outreach` in [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] into the canonical reusable prospecting motion.
+- Added three simultaneous VP-level stakeholder threads, an eight-touch multichannel cadence, a consistent message progression, persona translation and account-level response handling.
+- Grounded the cadence and multithreading model in first-party Gong, Salesloft, Demandbase and 6sense guidance.
+- Revised Question 3 so top-down means starting at VP altitude while multithreading horizontally immediately rather than waiting for one stakeholder to confirm the priority.
+- Reduced the Question 4 outreach stage to the DBS-specific application, retaining the three target VPs, transaction-dispute messages and proof artifact while removing duplicated generic mechanics.
+
+## [2026-07-30] prep | DBS Outbound Campaign Expanded Into A Full Operating Motion
+
+- Replaced the Question 4 campaign scaffold in [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] with a complete Singapore-banking customer-service campaign led by a hypothetical DBS Presence wedge.
+- Structured the answer into Account Director alignment, campaign definition, account research and prioritization, buying-committee mapping, personalized proof creation, coordinated outreach, discovery, bounded proof design, expansion and campaign measurement.
+- Added target-account and anti-ICP rules, stakeholder-specific messages, an illustrative account-level sequence, discovery questions, proof boundaries, success metrics and a truth boundary.
+- Preserved VNG/Zalo and GCash as separate backup campaign hypotheses rather than combining three products and workflows into one sequence.
+- Grounded the motion in the July 30 friend transcript, Seth's enterprise outbound research, official DBS AI evidence and official OpenAI Presence positioning.
+
+## [2026-07-30] prep | Three-Account Portfolio Moved Under Campaign Design
+
+- Moved the VNG/Zalo, DBS and GCash account portfolio from Question 6A to Question 4A so the outbound-campaign answer is grounded in concrete target accounts and workflows.
+- Added a compact campaign map distinguishing the market, account type and initial OpenAI wedge for each account.
+- Preserved the instruction that these are three separate campaign hypotheses; Seth should select one and go deep when asked for a single campaign.
+
+## [2026-07-30] prep | Top-Down Motion And CISO Objection Map Added
+
+- Replaced the Question 3 scaffold in [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] with a concise top-down motion: enter through the VP who owns the outcome, multi-thread horizontally, validate with practitioners and consolidate upward.
+- Added Question 3A on the CISO's role, likely objections and OpenAI-supported responses.
+- Made the commercial gating point explicit: executive enthusiasm and ROI do not produce a deployment until security is comfortable with its architecture and controls.
+- Added a four-part CISO concern framework: data exposure, unauthorized action, compliance and accountability.
+- Grounded the response in current official OpenAI documentation for enterprise privacy, identity, RBAC, connector action controls, auditability, Compliance API, Codex managed configuration, permission profiles, sandboxing, network policy and MCP allowlists.
+- Preserved the boundary that residency, retention, compliance and audit coverage vary by plan, product surface, configuration, contract and region and must be verified for the customer.
+
+## [2026-07-30] prep | TruTrip Stripe Displacement Story Completed
+
+- Replaced the TruTrip reconstruction scaffold in [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] with a complete land-and-expand narrative.
+- Added the deal context: Navan proof reviewed through Chorus and CRM, Seth's decision to pursue a technical platform opportunity, and his manager's warm introduction to TruTrip's Head of Finance.
+- Defined the land as complete Stripe payment-gateway migration through like-for-like settlement, a quantified ROI case and consolidated booking-level reconciliation.
+- Added the buying committee: Head of Finance champion, Engineering blocker, Operations transition stakeholder and CEO economic buyer/final decision-maker.
+- Added the phased de-risking path, familiar approval parity and Airwallex internal technical support.
+- Defined programmatic virtual cards and supplier payouts as a later, scale-triggered expansion aligned to TruTrip's ambition to compete with Navan.
+- Preserved unconfirmed boundaries for the exact sales cycle, payment volume, GP and realized savings.
+- Updated: [[index]], [[domains/_index]], and [[hot]].
+
+## [2026-07-30] prep | OpenAI Outbound Prospecting Answer Finalized
+
+- Replaced the Question 2 scaffold in [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] with the canonical hypothetical outbound plan for joining OpenAI.
+- Organized research by industry, then split the motion between traditional enterprises and digital natives.
+- Reduced readiness research to observable signals and separated public account scoring from the budget, governance, authority and implementation facts that must be confirmed in discovery.
+- Added account tiering, workflow and product hypotheses, Account Director alignment, qualification, handoff, learning-loop and Airwallex proof sections.
+
+## [2026-07-30] prep | APAC Market-Coverage Answer Finalized
+
+- Replaced the Question 1 scaffold in [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] with the canonical spoken answer.
+- Preserved the ownership boundary between Airwallex's formal Singapore territory and Boxo's regional strategic-account exposure.
+- Added the market thesis: Singapore was most commercially forward; Vietnam and India were engineering-led; the Philippines and Indonesia were trust- and implementation-readiness-led; and Thailand could move early when the use case and infrastructure were practical.
+- Added conservative forecasting criteria for readiness-sensitive markets and the OpenAI conclusion that early APAC selling may require recruiting the first innovators and building local reference proof.
+
+## [2026-07-30] prep | VNG, DBS And GCash Land-And-Expand Account Portfolio Added
+
+- Added [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30#4B. Which three accounts would you target first, and how would you land and expand?|Question 4B]] as the canonical three-account role-play answer.
+- VNG/Zalo now lands with independent Codex code review and expands toward the software factory.
+- Added [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) as direct proof that OpenAI supports normal and adversarial Codex review inside an existing Claude Code workflow.
+- DBS now lands with one governed Presence support journey and expands across voice, chat and approved actions without implying that DBS is an immature AI adopter.
+- GCash now lands with a bounded KYC workspace agent that prepares first-draft queue reviews, detects missing information and retains human authority for consequential decisions.
+- Updated: [[index]], [[domains/_index]], and [[hot]].
+
+## [2026-07-30] prep | Sales Plugin Skills Mapped Into 30/60/90 Ramp
+
+- Updated [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] with the exact official Sales plugin skills Seth would use during each ramp period.
+- Days 1–30 now cover internal-source finding, company research, enrichment, account prioritization and account-signal analysis.
+- Days 31–60 now cover meeting preparation, call follow-up, deal strategy, competitive briefs, customer quotes and business cases.
+- Days 61–90 now cover forecast inspection, individual call feedback and longitudinal call-trend review, while the priority, signal, meeting and follow-up loops continue.
+- Preserved the boundary that Salesforce, HubSpot, Apollo and ZoomInfo helpers depend on OpenAI's approved and authorized systems.
+
+## [2026-07-30] prep | Final Coaching Signals Added To Role-Play Pack
+
+- Updated [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]] using the already preserved [[Zheyi-Final-Sales-Interview-Coaching-2026-07-30]] transcript.
+- Added eight tactical questions on enterprise sequence design, stakeholder concurrency, execution by account tier, campaign architecture, pre-outreach Account Director alignment, parallel workflow hypotheses, cross-department business cases, and pre-discovery opportunity sizing.
+- Rebuilt the rehearsal priority order around the highest-probability role-play topics and linked the existing canonical multi-threaded, flagship-win, and lost-deal answers instead of duplicating them.
+- Preserved the source boundary: friend-reported tactics are preparation signals, not verified OpenAI process, quotas, channel rules, or market doctrine.
+
+## [2026-07-30] prep | Zero-To-One And OpenAI Commercial-Judgment Questions Added
+
+- Added 11 selected final-round questions to [[OpenAI-SDR-final-role-play-sales-acumen-pack-2026-07-30]].
+- Added three zero-to-one GTM prompts covering playbook creation, early-adopter recruitment, and balancing pipeline generation with market learning.
+- Added eight OpenAI commercial-judgment prompts covering the initial Southeast Asia wedge, product-surface routing, value articulation, workflow qualification, ROI, startup-versus-enterprise selling, regional GTM strategy, and enterprise-adoption misconceptions.
+- Renumbered the remaining role-play, fintech, and TruTrip questions without drafting or changing their answer content.
 
 ## [2026-07-30] ingest + prep | Zheyi Final Sales Coaching And 30/60/90 Ramp Plan
 
